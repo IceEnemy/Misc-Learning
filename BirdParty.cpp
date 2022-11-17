@@ -32,8 +32,13 @@ int main()
 		else{
 			zero++;
 		}
-		if(tempsum>=sum){
+		if(tempsum>sum){
 			sum=tempsum;
+			var=0;
+			mode[var]=kind1[i];
+			var++;
+		}
+		else if(tempsum==sum){
 			mode[var]=kind1[i];
 			var++;
 		}
@@ -53,8 +58,10 @@ int main()
 			}
 		}
 		}
+		printf("Bird ");
 		for(int i=0;i<var;i++){
-		printf("Bird %d\n",mode[i]);
+			if(i<var-1) printf("%d ",mode[i]);
+			else printf("%d\n",mode[i]);
 	}
 	}
 	
