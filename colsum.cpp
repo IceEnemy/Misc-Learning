@@ -7,14 +7,14 @@ int main()
 	for(int i=1;i<=test;i++){
 		int s;
 		scanf("%d",&s);
-		int mat[s][s];
-		int sum[s];
+		long long int mat[s][s];
+		long long int sum[s];
 		for(int j=0;j<s;j++){
 			sum[j]=0;
 		}
 		for(int j=0;j<s;j++){
 			for(int k=0;k<s;k++){
-				scanf("%d",&mat[j][k]);
+				scanf("%lld",&mat[j][k]);
 			}
 		}
 		for(int j=0;j<s;j++){
@@ -25,10 +25,10 @@ int main()
 		printf("Case #%d: ",i);
 		for(int j=0;j<s;j++){
 			if(j<s-1){
-				printf("%d ",sum[j]);
+				printf("%lld ",sum[j]);
 			}
 			else{
-				printf("%d\n",sum[j]);
+				printf("%lld\n",sum[j]);
 			}
 		}
 	}
