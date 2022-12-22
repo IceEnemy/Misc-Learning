@@ -47,15 +47,24 @@ int main()
 			scanf("%d",&num[j]);
 		}
 		mergeSort(num,0,24);
-		for(int j=0;j<25;j++){
-			printf("%d ",num[j]);
-		}
-		printf("\n");
+//		for(int j=0;j<25;j++){
+//			printf("%d ",num[j]);
+//		}
+//		printf("\n");
 		res[0]=num[0]/2;
+		res[1]=num[1]-res[0];
 		res[4]=num[24]/2;
-		res[1]=num[2]-res[0];
-		res[2]=num[5]-res[0];
-		res[3]=num[9]-res[0];
+		res[3]=num[23]-res[4];
+		
+		if(num[3]==res[1]*2){
+			res[2]=num[4]-res[0];
+		}
+		else{
+			res[2]=num[3]-res[0];	
+		}
+		
+		printf("Case #%d: ",i);
+		
 		for(int j=0;j<5;j++){
 			if(j<4) printf("%d ",res[j]);
 			else printf("%d\n",res[j]);
