@@ -36,44 +36,33 @@ void mergeSort(int num[],int left,int right){
 	}
 }
 
-void min(int *num){
-	if((*num)<0) (*num)*=-1;
-}
-
 int main()
 {
 	int test;
 	scanf("%d",&test);
 	for(int i=1;i<=test;i++){
-		int n;
-		scanf("%d",&n);
-		int num[n];
-		for(int j=0;j<n;j++){
+		int num[25];
+		int result[5];
+		for(int j=0;j<25;j++){
 			scanf("%d",&num[j]);
 		}
-		mergeSort(num,0,n-1);
-		int max=0;
-		int dif;
-//		for(int j=0;j<n;j++){
+		mergeSort(num,0,24);
+//		for(int j=0;j<25;j++){
 //			printf("%d ",num[j]);
 //		}
-		for(int j=0;j<n/2-1;j++){
-			dif=num[j]-num[j+1];
-			min(&dif);
-			printf("dif: %d\n",dif);
-			if(dif>max){
-				max=dif;
-			}
+//		printf("\n");
+		result[0]=num[0]/2;
+		result[4]=num[24]/2;
+		result[1]=num[1]-result[0];
+		result[3]=num[23]-result[4];
+		result[2]=num[4]-result[0];
+		
+		printf("Case #%d: ",i);
+		for(int j=0;j<5;j++){
+			if(j<4) printf("%d ",result[j]);
+			else printf("%d\n",result[j]);
 		}
-		for(int j=n/2;j<n-1;j++){
-			dif=num[j]-num[j+1];
-			min(&dif);
-			printf("dif: %d\n",dif);
-			if(dif>max){
-				max=dif;
-			}
-		}
-		printf("Case #%d: %d\n",i,max);
+//		printf("\n");
 	}
  	return 0;
 }

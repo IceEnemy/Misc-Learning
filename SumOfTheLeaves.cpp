@@ -3,14 +3,14 @@
 void tree(int branch[],int n,int amount,int res){
 //	if(n>=amount) return;
 	res+=branch[n];
-	if ((n*2)>amount && (n*2+1)>amount){
+	if ((n*2)>amount){
 		printf("%d\n",res);
 		return;
 	}
 	tree(branch,n*2,amount,res);
-	if(n*2+1>amount)  return;
+	if(n*2+1>amount) return;
 	tree(branch,n*2+1,amount,res);
-}
+}		
 
 int main()
 {
