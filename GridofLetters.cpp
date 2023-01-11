@@ -13,7 +13,7 @@ int main()
 	for(int i=0;i<row;i++){
 		scanf("%s",lStr[i].letter);
 		for(int j=0;j<col-1;j++){
-			for(int k=0;k<col-1;k++){
+			for(int k=0;k<col-1-j;k++){
 				if(lStr[i].letter[k]>lStr[i].letter[k+1]){
 					char temp=lStr[i].letter[k];
 					lStr[i].letter[k]=lStr[i].letter[k+1];
@@ -26,13 +26,15 @@ int main()
 //		printf("%s\n",lStr[i].letter);
 //	}
 //	printf("=======================\n");
+	char tempy[210];
 	for(int i=0;i<row-1;i++){
 		for (int j=0;j<row-1;j++){
 			if(strcmp(lStr[j].letter,lStr[j+1].letter)<0){
-				struct grid tempy=lStr[j];
+//				struct grid tempy=lStr[j];
 //				printf("tempy : %s\n",tempy[j].letter);
-				lStr[j]=lStr[j+1];
-				lStr[j+1]=tempy;
+				tempy=lStr[j].letter;
+				lStr[j].letter=lStr[j+1].letter;
+				lStr[j+1].letter=tempy;
 			}
 			
 		}

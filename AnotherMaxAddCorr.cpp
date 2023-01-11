@@ -44,6 +44,7 @@ int main()
 //					}
 //					printf("temp = %lld+%d-%d ",temp,num[count+j],num[j]);
 					temp+=num[count+j]-num[j];
+//					printf("%lld <= %lld?\n",temp,m);
 //					printf("[%lld]\n",temp);
 					if(temp<=m) break;
 				}
