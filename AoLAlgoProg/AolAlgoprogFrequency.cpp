@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-//struct temp{
-//	char str[50];
-//};
-
 struct table{
 	char loc1[50];
 	char loc2[50];
@@ -224,11 +220,8 @@ int main()
 	fscanf(fp,"%[^\n]\n",header);
 	struct table data[3950];
 	int n=0;
-//	fscanf(fp,"%[^,],%[^,],%d,%[^,],%[^,],%[^,],%[^,],%d,%[^\n]\n",data[n].loc1,data[n].loc2,&data[n].price,data[n].room,data[n].bathrooms,data[n].carparks,data[n].type,&data[n].area,data[n].furnish);
-//	printf("%s,%s,%d,%s,%s,%s,%s,%d,%s\n",data[n].loc1,data[n].loc2,data[n].price,data[n].room,data[n].bathrooms,data[n].carparks,data[n].type,data[n].area,data[n].furnish);
 	while(!feof(fp)){
 		fscanf(fp,"%[^,],%[^,],%d,%[^,],%[^,],%[^,],%[^,],%d,%[^\n]\n",data[n].loc1,data[n].loc2,&data[n].price,data[n].room,data[n].bathrooms,data[n].carparks,data[n].type,&data[n].area,data[n].furnish);
-//		printf("%s,%s,%d,%s,%s,%s,%s,%d,%s\n",data[n].loc1,data[n].loc2,data[n].price,data[n].room,data[n].bathrooms,data[n].carparks,data[n].type,data[n].area,data[n].furnish);
 		n++;
 	}
 	
