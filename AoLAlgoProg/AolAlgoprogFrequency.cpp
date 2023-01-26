@@ -149,28 +149,28 @@ void unique(struct table data[],int size,int mode){
 	}
 	int min=-1;
 	int max=-1;
-	int minidx,maxidx;
+	int minIdx,maxIdx;
 	for(int i=0;i<count;i++){
 		if(max==-1 && min==-1){
 			max=much[i].total;
 			min=much[i].total;
-			minidx=i;
-			maxidx=i;
+			minIdx=i;
+			maxIdx=i;
 		}
 		else if(much[i].total<=min){
 			min=much[i].total;
-			minidx=i;
+			minIdx=i;
 		}
 		else if(much[i].total>=max){
 			max=much[i].total;
-			maxidx=i;
+			maxIdx=i;
 		}
 	}
 	for(int i=0;i<count;i++){
 		printf("%s : %d\n",much[i].str,much[i].total);
 	}
-	printf("Maximum value: %s with a frequency of : %d\n",much[maxidx].str,max);
-	printf("Minimum value: %s with a frequency of : %d\n",much[minidx].str,min);	
+	printf("Maximum value: %s with a frequency of : %d\n",much[maxIdx].str,max);
+	printf("Minimum value: %s with a frequency of : %d\n",much[minIdx].str,min);	
 }
 
 void number(struct table data[],int size,int mode){
@@ -227,7 +227,7 @@ int main()
 	
 	int menu;
 	do{
-		printf("Which collumn do you want to see?\n");
+		printf("Which column do you want to see?\n");
 		printf("1. loc1\n");
 		printf("2. loc2\n");
 		printf("3. price\n");
@@ -266,6 +266,11 @@ int main()
 			case 9:
 				unique(data,n,9);
 				break;
+			default:
+				printf("\n==========================\n");
+				printf("Invalid Column! Try Again!\n");
+				printf("==========================\n\n");
+				break;	
 		}
 	}while(menu<1 || menu>9);
 	
