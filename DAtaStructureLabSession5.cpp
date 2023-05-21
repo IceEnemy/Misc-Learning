@@ -310,12 +310,12 @@ int main()
 	rec = insertrec(rec,30);
 	rec = insertrec(rec,80);
 	rec = insertrec(rec,90);
-	preOrder(rec);
-	printf("\n");
-	inOrder(rec);
-	printf("\n");
-	postOrder(rec);
-	printf("\n");
+//	preOrder(rec);
+//	printf("\n");
+//	inOrder(rec);
+//	printf("\n");
+//	postOrder(rec);
+//	printf("\n");
 //	printDebug(rec,0);
 	shortdelrec(rec,80);
 	printDebug(rec,0);
@@ -327,6 +327,8 @@ int main()
 	printDebug(rec,0);
 	rec = searchrec(rec,70);
 	rec = searchrec(rec,100);
+	delAllrec(rec);
+	printDebug(rec,0);
 //	while(1){
 //		inOrder(root);
 //		printf("\n");
