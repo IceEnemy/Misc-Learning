@@ -1,0 +1,26 @@
+#splash_image{
+    background-image: url(/Images/sea-of-stars-asset-kit/keyart/presskit-seaofstars-keyart-no-logo.png);
+}
+
+#info_bg{
+    background-image: url(/Images/sea-of-stars-GI-cover-standard.jpg);
+}
+
+#vidbox{
+    background: linear-gradient(#000000,#0D1A2C);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,0.5);
+    z-index: 10;
+    position: relative;
+}
+
+#steam_button{
+    height: 100px;
+    background: linear-gradient(286.2deg, #00ADEE -38.67%, #000000 79.93%);
+    box-shadow: 0px 0px 41px rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+    padding: 15px 30px 15px 30px;
+}

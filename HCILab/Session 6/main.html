@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Form</title>
+    <script src="main.js" defer></script> <!-- defer makes it so it loads html first then the js-->
+</head>
+<body>
+    <form> <!-- get -> submit the data into our url like in the url has name=blabla, post -->
+        Username:
+        <br>
+        <input type="text" id="username" placeholder="Enter Your Username">
+        <br>
+        Email:
+        <br>
+        <input type="email" id="email">
+        <br>
+        Password:
+        <br>
+        <input type="password" id="password">
+        <br>
+        Age:
+        <br>
+        <input type="number" id="age">
+        <br>
+        Gender:
+        <br>
+        <input type="radio" name="gender" id="male"> Male
+        <input type="radio" name="gender" id="female"> Female
+        <br>
+        <input type="checkbox" id="terms"> I agree to the Terms and Conditions
+        <!-- for the dropdown menu itss input list -->
+        <br>
+        <span id="error_msg"></span>
+        <button type="button" onclick="validate()">Submit</button> <!-- make type = button because if its a form, it automatically makes it a submit button and we dont have a server just yet, so error-->
+    </form>
+</body>
+</html>

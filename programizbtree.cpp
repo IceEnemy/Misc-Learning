@@ -161,5 +161,6 @@ int main() {
   traversal(root);
 
   printf("\n");
+  printf("%d\n",root->val);
   search(11, &ch, root);
 }

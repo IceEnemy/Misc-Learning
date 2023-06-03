@@ -1,0 +1,71 @@
+#fanart_bg{
+    background-image: url(/Images/sea-of-stars-asset-kit/screenshots/presskit-seaofstars-screenshot-19.png);
+    display: flex;
+    justify-content: center;
+}
+
+#submit_text{
+    font-family: 'Handjet';
+    color: #909090;
+    font-size: 80px;
+    text-align: center;
+}
+
+#discord_text{
+    font-family: 'Handjet';
+    color: white;
+    font-size: 80px;
+    text-align: center;
+}
+
+#fanart_headline{
+    display: flex;
+    flex-direction: column;
+    background: rgba(0, 0, 0, 0.75);
+    border-radius: 50px 50px 0px 0px;
+    padding: 40px 170px 40px 170px;
+    position: absolute;
+    bottom: 0;
+}
+
+.fanart_box{
+    padding: 40px;
+    background: linear-gradient(180deg, #0D1A2C 0%, #1F2C74 100%);
+    border: 5px solid #68C7FC;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    text-align: center;
+}
+
+.fanart_box_column{
+    display: flex;
+    gap: 55px;
+    flex-direction: column;
+}
+
+.fanart_img{
+    width: 500px;
+    height: auto;
+}
+
+.fanart_title{
+    font-size: 50px;
+    font-family: "Handjet";
+    color: white;
+    width: 500px;
+}
+
+.fanart_text{
+    font-family: "Handjet";
+    color: #68C7FC;
+    font-size: 40px;
+    width: 500px;
+}
+
+.fanart_text_link{
+    font-family: "Handjet";
+    color: #68C7FC;
+    font-size: 40px;
+    text-decoration: underline;
+    width: 500px;
+}

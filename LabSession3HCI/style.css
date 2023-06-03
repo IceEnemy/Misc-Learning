@@ -1,0 +1,55 @@
+/* This is external CSS */
+.Box-1{
+    font-size: 40px;
+    background-color: pink;
+    padding: 10px 40px 30px 20px; /* top right bottom left */
+    margin: 10px 40px 30px 20px;
+    border: 2px solid black;
+    width: 40%;
+    height: 300px;
+    box-sizing: border-box; /* this causes the sticky title and the text to overlap, this + display flex *//* the percentage also includes the padding, and margin while content box only
+    decreases the content of the box (this is on by default)*/
+    display: flex; /* by default div is a box element, it will take up the whole page, but an inline element 
+    is pretty much like a buton, an inline block changes the element to a box element, meaning that you can resie it
+    but still allows a text to be beside it, flex is just flexible*/
+    flex-direction: column;
+    justify-content: space-around;/*usually used: space-around, space-evenly, space-between */
+    align-items: center;
+    overflow: scroll; /* if the text exceeds the box size, there will be a scroll bar, you can also use auto to have the scroll wheel to only appear at the right side */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* to change the font */
+    font-weight: bold; /* make it bold */
+    font-style: italic; /* for stuff like itallic , based on the font family*/
+    color: white; /* change the color of the font */
+    text-decoration: underline dashed; /* stuff like underline, dashed to make the underlines dashed and dotted to set the underline as dots */
+    text-align: center; /* center, justify, and all that stuff for the text */
+    float: left;
+}
+#Box-2{
+    width: 40%;
+    font-size: 60px;
+    background-color: red;
+    float: right;
+}
+.Element-1{
+    position: sticky; /*default position in html: static, fixed, if you scroll, the element will be there no matter what , absolute : if you want to change the position of the element so it can be outside the box, sticky will be fixed to the current box*/
+    background-color: brown;
+    left: 0;
+    top: 0;
+}
+.hyperlink{
+    text-decoration: none;
+    color: black;
+}
+#Box-2:hover{ /* pseudoclass, a class of an element when it is given a certain condition */
+    background-color: aqua;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 500px) { /* responsive design, if the web is less than 500px, it will be at 100% size */
+    .Box-1{
+        width: 100%;
+    }
+    #Box-2{
+        width: 100%;
+    }
+}

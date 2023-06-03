@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.circle{
+    border-radius: 50%;
+    width: 54px;
+    height: 54px;
+}
+
+#navbar{
+    width: 100%;
+    height: 70px;
+    background-color: rgba(31,44,116,0.95);
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 100;
+}
+
+#left{
+    margin-left: 55px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+#right{
+    margin-right: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 10px;
+}
+
+.navbar_text{
+    font-family: 'Handjet';
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar_text_activated{
+    font-family: 'Handjet';
+    font-size: 40px;
+    text-decoration: none;
+    color: #68E6FC;
+}
+
+#logo{
+    height: 70px;
+    width: auto;
+}
