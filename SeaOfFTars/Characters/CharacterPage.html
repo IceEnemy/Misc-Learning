@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Sea of FTars - Characters</title>
+    <link rel="icon" href="/Images/Sea_of_FTars_icon.png">
     <link rel="stylesheet" href="/navbar/navbar.css">
     <link rel="stylesheet" href="/Boxes, images, and text.css">
     <link rel="stylesheet" href="/Characters/character.css">
@@ -13,47 +14,64 @@
     <nav id="navbar">
         <div id="left">
             <a href="/HomePage/HomePage.html" ><img id="logo" src="/Images/Sea of FTars logo.png"></a>
-            <a href="/Characters/CharacterPage.html" class="navbar_text" id="characters">Characters</a>
-            <a href="/FanArt/FanArt.html" class="navbar_text" id="FanArt">Fan Art</a>
+            <a href="/Characters/CharacterPage.html" class="navbar_text_activated">Characters</a>
+            <a href="/FanArt/FanArt.html" class="navbar_text">Fan Art</a>
         </div>
         <div id="right">
-            <a href="/Account/Register.html" class="navbar_text" id="account">Account</a>
+            <a href="/Account/Register.html" class="navbar_text">Account</a>
             <div><a href="/Account/Register.html"><img class="circle" id="account_img" src="/Images/Third_Beach_View.jpg"></a></div>
         </div>
     </nav>
+
     <div id="head"></div>
-    <div class="image" id="hero_bg">
+    <div class="image_with_content" id="hero_bg">
         <div class="icon_container">
             <div class="title">Heroes</div>
             <div class="icon_row">
-                <a href="/HomePage/HomePage.html"><div class="icon" id="zale_icon"></div></a>
-                <a href=""><div class="icon" id="garl_icon"></div></a>
-                <a href=""><div class="icon" id="val_icon"></div></a>
-                <div class="icon" id="empty_icon">?</div>
-            </div>
-        </div>
-    </div>
-    <div id="seperate"></div>
-    <div class="image" id="enemy_bg">
-            <div class="icon_container">
-                <div class="title">Enemies</div>
-                <div class="icon_row">
-                    <a href=""><div class="icon" id="ant_icon"></div></a>
-                    <a href=""><div class="icon" id="crab_icon"></div></a>
-                    <a href=""><div class="icon" id="tern_icon"></div></a>
-                    <a href=""><div class="icon" id="spellbook_icon"></div></a>
+                <div class="grid" id="sixtygap">
+                    <a href="/Characters/ZalePage.html"><div class="icon" id="zale_icon"></div></a>
+                    <a href="/Characters/GarlPage.html"><div class="icon" id="garl_icon"></div></a>
+                </div>
+                <div class="grid" id="sixtygap">
+                    <a href="/Characters/ValerePage.html"><div class="icon" id="val_icon"></div></a>
+                    <div class="icon" id="empty_icon">?</div>
                 </div>
             </div>
         </div>
     </div>
+
+    <div id="seperate"></div>
+
+    <div class="image_with_content" id="enemy_bg">
+            <div class="icon_container">
+                <div class="title">Enemies</div>
+                <div class="icon_row">
+                    <div class="grid" id="sixtygap">
+                        <a href="/Characters/AntPage.html"><div class="icon" id="ant_icon"></div></a>
+                        <a href="/Characters/SentryPage.html"><div class="icon" id="sentry_icon"></div></a>
+                    </div>
+                    <div class="grid" id="sixtygap">
+                        <a href="/Characters/GulgulPage.html"><div class="icon" id="gulgul_icon"></div></a>
+                        <a href="/Characters/SpellBookPage.html"><div class="icon" id="spellbook_icon"></div></a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div id="smlfoot"></div>
     <div id="foot">
         <p class="title">Developed By efTeStudio</p>
         <div id="foot_img_grp">
-            <a href="https://discord.com/invite/sabotagestudio" target="_blank"><img class="foot_imgs" src="/Images/discord-mark-white.png"></a>
-            <a href="https://twitter.com/seaofstarsgame" target="_blank"><img class="foot_imgs" src="/Images/twitter-512.png"></a>
-            <a href="https://www.youtube.com/channel/UCFqkoH39JOvUTmQch2yRFFQ" target="_blank"><img class="foot_imgs" src="/Images/Youtube Logo.png"></a>
-            <a href="https://www.instagram.com/sabotage.studio/" target="_blank"><img class="foot_imgs" src="/Images/new-Instagram-logo-white-glyph.png"></a>
+            <div id="foot_img_grp">
+                <a href="https://discord.com/invite/sabotagestudio" target="_blank"><img class="foot_imgs" src="/Images/discord-mark-white.png"></a>
+                <a href="https://twitter.com/seaofstarsgame" target="_blank"><img class="foot_imgs" src="/Images/twitter-512.png"></a>
+            </div>
+            <div id="foot_img_grp">
+                <a href="https://www.youtube.com/channel/UCFqkoH39JOvUTmQch2yRFFQ" target="_blank"><img class="foot_imgs" src="/Images/Youtube Logo.png"></a>
+                <a href="https://www.instagram.com/sabotage.studio/" target="_blank"><img class="foot_imgs" src="/Images/new-Instagram-logo-white-glyph.png"></a>
+            </div>
         </div>
     </div>
 </body>

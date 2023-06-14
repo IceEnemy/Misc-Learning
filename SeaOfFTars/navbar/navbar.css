@@ -39,6 +39,13 @@
     font-size: 40px;
     text-decoration: none;
     color: white;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.navbar_text:hover{
+    color: #68C7FC;
 }
 
 .navbar_text_activated{
@@ -46,9 +53,83 @@
     font-size: 40px;
     text-decoration: none;
     color: #68E6FC;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.navbar_text_activated:hover{
+    color: #68C7FC;
 }
 
 #logo{
     height: 70px;
     width: auto;
+}
+
+@media only screen and (max-width: 900px){
+    #logo{
+        height: 50px;
+    }
+    .navbar_text{
+        font-size: 30px;
+    }
+    .navbar_text_activated{
+        font-size: 30px;
+    }
+
+    .circle{
+        height: 40px;
+        width: 40px;
+    }
+    #left{
+        margin-left: 5vw;
+        gap: 5vw;
+    }
+    #right{
+        margin-right: 5vw;
+    }
+}
+
+@media only screen and (max-width: 680px){
+    #logo{
+        height: 40px;
+    }
+    .navbar_text{
+        font-size: 25px;
+    }
+    .navbar_text_activated{
+        font-size: 25px;
+    }
+    .circle{
+        height: 30px;
+        width: 30px;
+    }
+}
+
+@media only screen and (max-width: 580px){
+    #logo{
+        height: 30px;
+    }
+    .navbar_text{
+        font-size: 20px;
+    }
+    .navbar_text_activated{
+        font-size: 20px;
+    }
+    .circle{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 420px){
+    #logo{
+        height: 20px;
+    }
+    .navbar_text{
+        font-size: 16px;
+    }
+    .navbar_text_activated{
+        font-size: 16px;
+    }
 }

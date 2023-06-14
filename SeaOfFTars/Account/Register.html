@@ -4,33 +4,86 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Sea of FTars - Register</title>
+    <link rel="icon" href="/Images/Sea_of_FTars_icon.png">
     <link rel="stylesheet" href="/navbar/navbar.css">
     <link rel="stylesheet" href="/Boxes, images, and text.css">
     <link rel="stylesheet" href="/Account/account.css">
+    <script src="/Account/account_script.js" defer></script>
 </head>
 <body>
     <nav id="navbar">
         <div id="left">
             <a href="/HomePage/HomePage.html" ><img id="logo" src="/Images/Sea of FTars logo.png"></a>
-            <a href="/Characters/CharacterPage.html" class="navbar_text" id="characters">Characters</a>
-            <a href="/FanArt/FanArt.html" class="navbar_text" id="FanArt">Fan Art</a>
+            <a href="/Characters/CharacterPage.html" class="navbar_text">Characters</a>
+            <a href="/FanArt/FanArt.html" class="navbar_text">Fan Art</a>
         </div>
         <div id="right">
-            <a href="/Account/Register.html" class="navbar_text" id="account">Account</a>
+            <a href="/Account/Register.html" class="navbar_text_activated">Account</a>
             <div><a href="/Account/Register.html"><img class="circle" id="account_img" src="/Images/Third_Beach_View.jpg"></a></div>
         </div>
     </nav>
+
     <div id="head"></div>
-    <div class="image" id="login_bg"></div>
+    
+    <div class="image_with_content" id="login_bg">
+        <div class="login_box">
+            <p class="hundred_text">Sign Up</p>
+            <form class="login_form">
+                <div class="input_wrap">
+                    <label class="thirty_text" for="username">Username</label>
+                    <input type="text" class="input_box" id="username" placeholder="Input Your Username (3-20)...">
+                </div>
+                <div class="input_wrap">
+                    <label class="thirty_text" for="country">Country</label>
+                    <select class="input_box" name="country" id="country">
+                        <option value="none">Choose Your Country...</option>
+                        <option value="chn">China</option>
+                        <option value="dnmrk">Denmark</option>
+                        <option value="indo">Indonesia</option>
+                        <option value="jpn">Japan</option>
+                        <option value="kr">Korea</option>
+                        <option value="mly">Malaysia</option>
+                        <option value="swdn">Sweden</option>
+                        <option value="sg">Singapore</option>
+                        <option value="uk">UK</option>
+                        <option value="usa">USA</option>
+                    </select>
+                </div>
+                <div class="input_wrap">
+                    <label class="thirty_text" for="email">Email</label>
+                    <input type="email" class="input_box" id="email" placeholder="Input Your Email...">
+                </div>
+                <div class="input_wrap">
+                    <label class="thirty_text" for="password">Password</label>
+                    <input type="password" class="input_box" id="password" placeholder="Input Your Password...">
+                </div>
+                <div class="input_wrap">
+                    <label class="thirty_text" for="confirm_password">Confirm Password</label>
+                    <input type="password" class="input_box" id="confirm_password" placeholder="Confirm Your Password...">
+                </div>
+                <div class="check_grp">
+                    <div><input type="checkbox" id="agree"><snap class="twenty_text"> I agree with the <span class="twenty_text_clickable">Terms of Service</span></snap></div>
+                    <a href="/Account/LoginPage.html"><span class="twenty_text_clickable">Already have an Account?</span></a>
+                </div>
+                <span class="twenty_text_error" id="error_msg"></span>
+                <button type="button" class="login_button" onclick="validate()"><p class="fifty_text">Sign Up</p></button>
+            </form>
+        </div>
+    </div>
+
     <div id="smlfoot"></div>
     <div id="foot">
         <p class="title">Developed By efTeStudio</p>
         <div id="foot_img_grp">
-            <a href="https://discord.com/invite/sabotagestudio" target="_blank"><img class="foot_imgs" src="/Images/discord-mark-white.png"></a>
-            <a href="https://twitter.com/seaofstarsgame" target="_blank"><img class="foot_imgs" src="/Images/twitter-512.png"></a>
-            <a href="https://www.youtube.com/channel/UCFqkoH39JOvUTmQch2yRFFQ" target="_blank"><img class="foot_imgs" src="/Images/Youtube Logo.png"></a>
-            <a href="https://www.instagram.com/sabotage.studio/" target="_blank"><img class="foot_imgs" src="/Images/new-Instagram-logo-white-glyph.png"></a>
+            <div id="foot_img_grp">
+                <a href="https://discord.com/invite/sabotagestudio" target="_blank"><img class="foot_imgs" src="/Images/discord-mark-white.png"></a>
+                <a href="https://twitter.com/seaofstarsgame" target="_blank"><img class="foot_imgs" src="/Images/twitter-512.png"></a>
+            </div>
+            <div id="foot_img_grp">
+                <a href="https://www.youtube.com/channel/UCFqkoH39JOvUTmQch2yRFFQ" target="_blank"><img class="foot_imgs" src="/Images/Youtube Logo.png"></a>
+                <a href="https://www.instagram.com/sabotage.studio/" target="_blank"><img class="foot_imgs" src="/Images/new-Instagram-logo-white-glyph.png"></a>
+            </div>
         </div>
     </div>
 </body>

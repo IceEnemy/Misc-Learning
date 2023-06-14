@@ -34,6 +34,8 @@
     border: 5px solid #68C7FC;
     box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.25);
     border-radius: 50px;
+    display: flex;
+    flex-direction: column;
     text-align: center;
 }
 
@@ -44,28 +46,52 @@
 }
 
 .fanart_img{
-    width: 500px;
+    width: 30vw;
     height: auto;
 }
 
 .fanart_title{
-    font-size: 50px;
+    font-size: 40px;
     font-family: "Handjet";
     color: white;
-    width: 500px;
+    width: 30vw;
 }
 
 .fanart_text{
     font-family: "Handjet";
     color: #68C7FC;
-    font-size: 40px;
-    width: 500px;
+    font-size: 25px;
+    width: 30vw;
 }
 
 .fanart_text_link{
     font-family: "Handjet";
     color: #68C7FC;
-    font-size: 40px;
+    font-size: 25px;
     text-decoration: underline;
-    width: 500px;
+    width: 30vw;
+}
+
+@media only screen and (max-width: 776px){
+    #submit_text{
+        font-size: 40px;
+    }
+    #discord_text{
+        font-size: 40px;
+    }
+    .fanart_img{
+        width: 70vw;
+    }
+    .fanart_title{
+        width: 70vw;
+    }
+    .fanart_text{
+        width: 70vw;
+    }
+    .fanart_text_link{
+        width: 70vw;
+    }
+    #fanart_headline{
+        padding: 10px 50px 10px 50px;
+    }
 }

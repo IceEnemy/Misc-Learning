@@ -1,192 +1,161 @@
 #include <stdio.h>
+#include <string.h>
 #include <stdlib.h>
 
-// Node structure
 struct Node {
-    int data;
+    int val;
     char color;
-    struct Node* parent;
-    struct Node* left;
-    struct Node* right;
+    struct Node *left, *right, *parent;
 };
 
-// Function to create a new node
-struct Node* createNode(int data) {
-    struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
-    newNode->data = data;
+struct Node *addNode(int val){
+    struct Node *newNode = (struct Node *)malloc(sizeof(struct Node));
+    newNode->val = val;
     newNode->color = 'R';
-    newNode->parent = NULL;
-    newNode->left = NULL;
-    newNode->right = NULL;
+    newNode->left = newNode->right = newNode->parent = NULL;
     return newNode;
 }
 
-// Function to perform left rotation
-void leftRotate(struct Node** root, struct Node* node) {
-    struct Node* rightChild = node->right;
-    node->right = rightChild->left;
-    if (node->right != NULL)
-        node->right->parent = node;
-    rightChild->parent = node->parent;
-    if (node->parent == NULL)
-        *root = rightChild;
-    else if (node == node->parent->left)
-        node->parent->left = rightChild;
-    else
-        node->parent->right = rightChild;
-    rightChild->left = node;
-    node->parent = rightChild;
+char getColor(struct Node *curr) {
+    if (curr == NULL) return 'B';
+    else return curr->color;
 }
 
-// Function to perform right rotation
-void rightRotate(struct Node** root, struct Node* node) {
-    struct Node* leftChild = node->left;
-    node->left = leftChild->right;
-    if (node->left != NULL)
-        node->left->parent = node;
-    leftChild->parent = node->parent;
-    if (node->parent == NULL)
-        *root = leftChild;
-    else if (node == node->parent->left)
-        node->parent->left = leftChild;
-    else
-        node->parent->right = leftChild;
-    leftChild->right = node;
-    node->parent = leftChild;
+void leftRotate(struct Node **root, struct Node *parent) {
+    struct Node *child = parent->right;
+
+    parent->right = child->left;
+    if(child->left != NULL) child->left->parent = parent;
+
+    child->parent = parent->parent;
+    
+    if(parent->parent == NULL) *root = child;
+    else if(parent == parent->parent->left) parent->parent->left = child;
+    else parent->parent->right = child;
+
+    child->left = parent;
+    parent->parent = child;
 }
 
-// Function to fix the 'R'-'B' Tree after insertion
-void fixInsert(struct Node** root, struct Node* node) {
-    if (node->parent == NULL) {
-        node->color = 'B';
-        *root = node;
-        return;
-    }
+void rightRotate(struct Node **root, struct Node *parent) {
+    struct Node *child = parent->left;
 
-    if (node->parent->color == 'B')
-        return;
+    parent->left = child->right;
+    if(child->right != NULL) child->right->parent = parent;
 
-    struct Node* grandparent = node->parent->parent;
-    struct Node* parent = node->parent;
-    struct Node* uncle = NULL;
+    child->parent = parent->parent;
+    
+    if(parent->parent == NULL) *root = child;
+    else if(parent == parent->parent->left) parent->parent->left = child;
+    else parent->parent->right = child;
 
-    if (parent == grandparent->left)
-        uncle = grandparent->right;
-    else
-        uncle = grandparent->left;
-
-    if (uncle != NULL && uncle->color == 'R') {
-        parent->color = 'B';
-        uncle->color = 'B';
-        grandparent->color = 'R';
-        fixInsert(root, grandparent);
-    } else {
-        if (parent == grandparent->left && node == parent->right) {
-            leftRotate(root, parent);
-            node = parent;
-            parent = node->parent;
-        } else if (parent == grandparent->right && node == parent->left) {
-            rightRotate(root, parent);
-            node = parent;
-            parent = node->parent;
-        }
-
-        if (parent == grandparent->left)
-            rightRotate(root, grandparent);
-        else
-            leftRotate(root, grandparent);
-
-        parent->color = 'B';
-        grandparent->color = 'R';
-    }
+    child->right = parent;
+    parent->parent = child;
 }
 
-// Function to insert a node into the 'R'-'B' Tree
-void insert(struct Node** root, int data) {
-    struct Node* newNode = createNode(data);
-    if (*root == NULL) {
-        *root = newNode;
-        (*root)->color = 'B';
-        return;
-    }
+void repair(struct Node **root, struct Node *curr) {
+    while (curr->parent != NULL && curr->parent->color == 'R') {
+        struct Node *parent = curr->parent;
+        struct Node *grand = parent->parent;
+        struct Node *uncle;
+        
+        if(parent == grand->left) uncle = grand->right;
+        else uncle = grand->left;
+        
+        if(getColor(uncle) == 'R'){
+        	parent->color = uncle->color = 'B';
+        	grand->color = 'R';
+        	curr = grand;
+		}
+		else{
+			if(parent == grand->left){
+				if(curr == parent->right){
+					curr = parent;
+					leftRotate(root,curr);	
+				}
+				
+				parent = curr->parent;
+                grand = parent->parent;
 
-    struct Node* curr = *root;
-    struct Node* parent = NULL;
-    while (curr != NULL) {
+                parent->color = 'B';
+                grand->color = 'R';
+                rightRotate(root, grand);
+			}
+			else{
+				if(curr == parent->left){
+					curr = parent;
+					rightRotate(root,curr);	
+				}
+				
+				parent = curr->parent;
+                grand = parent->parent;
+
+                parent->color = 'B';
+                grand->color = 'R';
+                leftRotate(root, grand);
+			}
+		}
+	}
+    (*root)->color = 'B';
+}
+
+void insert(struct Node **root, int val){
+    struct Node *parent = NULL;
+    struct Node *curr = *root;
+
+    while(curr != NULL){
         parent = curr;
-        if (data < curr->data)
-            curr = curr->left;
-        else
-            curr = curr->right;
+        if(val < curr->val) curr = curr->left;
+        else if(val > curr->val) curr = curr->right;
+        else{
+            printf("Duplicate Value!\n");
+            return;
+        }
     }
+    
+    struct Node *newNode = addNode(val);
 
-    if (data < parent->data) {
-        parent->left = newNode;
-        newNode->parent = parent;
-    } else {
-        parent->right = newNode;
-        newNode->parent = parent;
+    newNode->parent = parent;
+
+    if(parent == NULL) *root = newNode;
+	else if(val < parent->val) parent->left = newNode;
+	else parent->right = newNode;
+
+    repair(root, newNode);
+}
+
+void inOrder(struct Node *curr){
+    if(curr != NULL){
+        inOrder(curr->left);
+        printf("%d ", curr->val);
+        inOrder(curr->right);
     }
-
-    fixInsert(root, newNode);
 }
 
-// Function to print the 'R'-'B' Tree (in-order traversal)
-void inOrderTraversal(struct Node* node) {
-    if (node == NULL)
-        return;
-    inOrderTraversal(node->left);
-    printf("%d ", node->data);
-    inOrderTraversal(node->right);
-}
 
-void printTree(struct Node *root, int tabs, char arrow[]){
-	if(root == NULL){
-		return;
-	}
-	printTree(root->right,tabs+1,"/->");
-	for(int i=0;i<tabs;i++){
-		printf("\t");
-	}
-	if(root->color == 'B') printf("%s%d(B)\n",arrow,root->data);
-	else printf("%s%d(R)\n",arrow,root->data);
-	printTree(root->left,tabs+1,"\\->");
-}
-
-void print(Node *root){
-	printf("\n================================================\n\n");
-	printTree(root,0,"-) ");
-	printf("\n================================================\n");
-}
-
-// Main function
 int main() {
-    struct Node* root = NULL;
-    insert(&root, 10);
-    print(root);
-    getchar();
-    insert(&root, 20);
-    print(root);
-    getchar();
-    insert(&root, 30);
-    print(root);
-    getchar();
-    insert(&root, 15);
-    print(root);
-    getchar();
-    insert(&root, 13);
-    print(root);
-    getchar();
-    insert(&root, 5);
-    print(root);
-    getchar();
-    insert(&root, 25);
-    print(root);
-    getchar();
-    printf("In-order Traversal: ");
-    inOrderTraversal(root);
-    printf("\n");
-    print(root);
+    struct Node *root = NULL;
+//	int val;
+//	while(val != -1){
+//		scanf("%d",&val);
+//		insert(&root,val);
+//		inOrder(root);
+//		print(root);
+//	}
+	insert(&root,41);
+	insert(&root,22);
+	insert(&root,5);
+	insert(&root,51);
+	insert(&root,48);
+	insert(&root,29);
+	insert(&root,18);
+	insert(&root,21);
+	insert(&root,45);
+	insert(&root,3);
+	
+	printf("InOrder Traversal of Created Tree\n");
+	inOrder(root);
+	
     return 0;
 }
 

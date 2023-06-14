@@ -1,0 +1,42 @@
+.grid{
+    display: flex;
+    /* flex-wrap: wrap; */
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.gridcol{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.box1{
+    height: 700px;
+    width: 700px;
+    background: red;
+}
+
+.box2{
+    height: 700px;
+    width: 700px;
+    background: blue;
+}
+
+.box3{
+    height: 50vh;
+    width: 50vw;
+    background: purple;
+}
+
+.box4{
+    height: 50vh;
+    width: 50vw;
+    background: orange;
+}
+
+@media only screen and (max-width: 1000px){
+    .grid{
+        flex-direction: column;
+    }
+}

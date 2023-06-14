@@ -26,6 +26,7 @@
     border-radius: 50px;
     padding: 60px 60px 210px 60px;
     display: flex;
+    justify-content: center;
     flex-direction: column;
     gap: 60px;
 }
@@ -51,6 +52,10 @@
     justify-content: center;
 }
 
+#sixtygap{
+    gap: 60px;
+}
+
 /* .icon_bg{
     background-position: center;
     background-size: cover;
@@ -73,12 +78,12 @@
     background-image: url(/Images/Ant_Bruiser.jpg);
 }
 
-#crab_icon{
-    background-image: url(/Images/Croube.jpg);
+#sentry_icon{
+    background-image: url(/Images/Arcane_Sentry.jpg);
 }
 
-#tern_icon{
-    background-image: url(/Images/Tern.jpg);
+#gulgul_icon{
+    background-image: url(/Images/Gulgul.jpg);
 }
 
 #spellbook_icon{
@@ -92,3 +97,266 @@
     color: #68C7FC;
 }
 
+.detail_bg{
+    width: 100%;
+    color: #3d3d3d;
+    padding: 30px 0px 30px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+}
+
+.gif_container{
+    background: rgba(0, 0, 0, 0.23);
+    border: 10px solid #68C7FC;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 50px 0px 0px 0px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 10;
+}
+
+.hero_gif{
+    width: 400px;
+    height: 400px;
+}
+
+.enemy_gif{
+    width: 400px;
+    height: 200px;
+}
+
+.character_title{
+    display: flex;
+    justify-content: end;
+    background-color: linear-gradient(180deg, #0D1A2C 0%, #1F2C74 100%);
+    border: 10px solid #68C7FC;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 0px 50px;
+    border-top: none;
+    background-repeat: no-repeat;
+    height: 200px;
+    background-position: left bottom;
+    position: relative;
+    z-index: 9;
+}
+
+.character_name{
+    width: 210px;
+    display: flex;
+    flex-direction: column;
+    text-align: end;
+    margin-right: 10px;
+}
+
+.eighty_text{
+    color: white;
+    font-family: 'Handjet';
+    font-size: 80px;
+}
+
+.sixty_text{
+    color: white;
+    font-family: 'Handjet';
+    font-size: 60px;
+}
+
+.fifty_text{
+    color: white;
+    font-family: 'Handjet';
+    font-size: 50px;
+    text-align: end;
+}
+
+.forty_text{
+    color: white;
+    font-family: 'Handjet';
+    font-size: 40px;
+}
+
+.weapon_food{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.twentyfive_text_gray{
+    color: #909090;
+    font-family: 'Handjet';
+    font-size: 25px;
+}
+
+.forty_text_gray{
+    color: #909090;
+    font-family: 'Handjet';
+    font-size: 40px;
+}
+
+#zale_gif{
+    background-image: url(/Images/gifs/Zale_gif.gif);
+}
+
+#garl_gif{
+    background-image: url(/Images/gifs/Garl_gif.gif);
+}
+
+#valere_gif{
+    background-image: url(/Images/gifs/Valere_gif.gif);
+}
+
+#ant_gif{
+    background-image: url(/Images/gifs/ant_gif.gif);
+}
+
+#sentry_gif{
+    background-image: url(/Images/gifs/Sentry_gif_fix2.gif);
+}
+
+#gulgul_gif{
+    background-image: url(/Images/gifs/GulGul_gif_fix3.gif);
+}
+
+#spellbook_gif{
+    background-image: url(/Images/gifs/Spellbook_gif_fix2.gif);
+}
+
+#zale_title{
+    background-image: url(/Images/Portrait_Zale.png),linear-gradient(180deg, #0D1A2C 0%, #1F2C74 100%);
+    background-size: contain;
+}
+
+#garl_title{
+    background-image: url(/Images/Portrait_Garl_full.png),linear-gradient(180deg, #0D1A2C 0%, #1F2C74 100%);
+    background-size: contain;
+}
+
+#valere_title{
+    background-image: url(/Images/Beta_Portrait_Valere_Flipped.png),linear-gradient(180deg, #0D1A2C 0%, #1F2C74 100%);
+    background-size: contain;
+}
+
+#ant_title{
+    background-image: url(/Images/Ant_Bruiser.jpg),linear-gradient(180deg, #0D1A2C 0%, #1F2C74 100%);
+    background-size: contain;
+}
+
+#sentry_title{
+    background-image: url(/Images/Arcane_Sentry.jpg),linear-gradient(180deg, #0D1A2C 0%, #1F2C74 100%);
+    background-size: contain;
+}
+
+#gulgul_title{
+    background-image: url(/Images/Gulgul.jpg),linear-gradient(180deg, #0D1A2C 0%, #1F2C74 100%);
+    background-size: contain;
+}
+
+#spellbook_title{
+    background-image: url(/Images/Spellbook.jpg),linear-gradient(180deg, #0D1A2C 0%, #1F2C74 100%);
+    background-size: contain;
+}
+
+.character_main{
+    display: flex;
+    flex-direction: column;
+}
+
+.character_desc{
+    width: 55%;
+    padding: 50px;
+    background: #192535;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 50px 50px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.hero_desc{
+    height: 510px;
+}
+
+.enemy_desc{
+    height: 310px;
+}
+
+.character_card{
+    display: flex;
+}
+
+@media only screen and (max-width: 900px){
+    .detail_bg{
+        flex-direction: column;
+    }
+    .character_main{
+        flex-direction: row;
+    }
+    .hero_gif{
+        width: 40vw;
+        height: 40vw;
+    }
+    .enemy_gif{
+        width: 40vw;
+        height: 20vw;
+    }
+    .character_title{
+        height: auto;
+        width: 40vw;
+        border: 10px solid #68C7FC;
+        border-left: none;
+        border-radius: 0px 50px 0px 0px;
+        background-position: center bottom;
+    }
+    .character_desc{
+        width: calc(80vw - 90px);
+        height: auto;
+        border-radius: 0px 0px 50px 50px;
+        gap: 100px;
+    }
+    .character_name{
+        background: rgba(0, 0, 0, 0.75);
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        border-radius: 0px 50px 0px 0px;
+        text-align: center;
+    }
+    .fifty_text{
+        text-align: center;
+    }
+    .forty_text{
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 620px){
+    .character_main{
+        flex-direction: column;
+    }
+    .hero_gif{
+        width: 80vw;
+        height: 80vw;
+    }
+    .enemy_gif{
+        width: 80vw;
+        height: 40vw;
+    }
+    .gif_container{
+        border-radius: 50px 50px 0px 0px;
+    }
+    .character_title{
+        width: auto;
+        height: 30vw;
+        border-radius: 0px;
+        border: 10px solid #68C7FC;
+        border-top: none;
+    }
+    .character_name{
+        border-radius: 0px;
+    }
+    .eighty_text{
+        font-size: 60px;
+    }
+}

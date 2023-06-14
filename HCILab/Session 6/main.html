@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Form</title>
     <script src="main.js" defer></script> <!-- defer makes it so it loads html first then the js-->
+    <link rel="stylesheet" href="main.css">
 </head>
 <body>
     <form> <!-- get -> submit the data into our url like in the url has name=blabla, post -->
@@ -29,6 +30,7 @@
         <br>
         <input type="radio" name="gender" id="male"> Male
         <input type="radio" name="gender" id="female"> Female
+        <input type="radio" name="gender" id="no"> Other
         <br>
         <input type="checkbox" id="terms"> I agree to the Terms and Conditions
         <!-- for the dropdown menu itss input list -->
@@ -36,5 +38,24 @@
         <span id="error_msg"></span>
         <button type="button" onclick="validate()">Submit</button> <!-- make type = button because if its a form, it automatically makes it a submit button and we dont have a server just yet, so error-->
     </form>
+    <!-- <div class="grid">
+        <div class="box1"></div>
+        <div class="box1"></div>
+        <div class="box1"></div>
+    </div> -->
+    <!-- <div class="gridcol"> -->
+        <div class="grid">
+            <div class="box1"></div>
+            <div class="box2"></div>
+        </div>
+        <div class="grid">
+            <div class="box3"></div>
+            <div class="box4"></div>
+        </div>
+    <!-- </div> -->
+    
+    
+    
+
 </body>
 </html>

@@ -4,6 +4,11 @@
 
 #info_bg{
     background-image: url(/Images/sea-of-stars-GI-cover-standard.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
 #vidbox{
@@ -18,9 +23,78 @@
 }
 
 #steam_button{
-    height: 100px;
+    width: 250px;
     background: linear-gradient(286.2deg, #00ADEE -38.67%, #000000 79.93%);
     box-shadow: 0px 0px 41px rgba(255, 255, 255, 0.5);
     border-radius: 20px;
     padding: 15px 30px 15px 30px;
 }
+
+.info_box{
+    padding: 30px 20px 30px 20px;
+    background: rgba(25, 37, 53, 0.95);
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.info_img{
+    width: 280px;
+    height: auto;
+}
+
+.info_title{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Handjet';
+    width: 280px;
+}
+
+.info_desc{
+    text-align: center;
+    color: #909090;
+    font-size: 25px;
+    font-family: 'Handjet';
+    width: 280px;
+    height: 400px;
+}
+
+#twentygap{
+    gap: 20px;
+}
+
+@media only screen and (max-width: 1470px){
+    .info_img{
+        width: 40vw;
+        height: auto;
+    }
+    .info_title{
+        width: 40vw;
+    }
+    .info_desc{
+        width: 40vw;
+        height: 20vw;
+    }
+}
+
+@media only screen and (max-width: 1150px){
+    .info_box{
+        padding: 20px;
+    }
+    .info_img{
+        width: 90vw;
+        height: auto;
+    }
+    .info_title{
+        width: 90vw;
+    }
+    .info_desc{
+        width: 90vw;
+        height: auto;
+    }
+}
+
+
