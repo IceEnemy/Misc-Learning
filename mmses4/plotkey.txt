@@ -1,0 +1,8 @@
+t = 1
+Voltmeter_VR1 = 2
+Voltmeter_VR2 = 3
+Voltmeter_VR3 = 4
+Ammeter_IR1 = 5
+Ammeter_IR2 = 6
+Ammeter_IR3 = 7
+Ammeter_Isource = 8

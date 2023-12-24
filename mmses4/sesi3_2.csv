@@ -1,0 +1,9 @@
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire
+wire,,,,wire,,,,wire,,,,wire
+Resistor_Rsource,,wire,wire,wire,,wire,wire,wire,,wire,wire,wire
+wire,,wire,,Resistor_R1,,wire,,Resistor_R2,,wire,,Resistor_R3
+VoltageSource_acsource,,Voltmeter_VR1,,wire,,Voltmeter_VR2,,wire,,Voltmeter_VR3,,wire
+wire,,wire,,Ammeter_IR1,,wire,,Ammeter_IR2,,wire,,Ammeter_IR3
+Ammeter_Isource,,wire,wire,wire,,wire,wire,wire,,wire,wire,wire
+wire,,,,wire,,,,wire,,,,wire
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire

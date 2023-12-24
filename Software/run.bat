@@ -1,0 +1,1 @@
+environments\computational_physics\Scripts\activate.bat && python ppe_webapp_py3_4_4_0/simulator_interface\manage.py runserver

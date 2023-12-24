@@ -1,0 +1,3 @@
+t = 1
+Ammeter_Iload = 2
+Voltmeter_Vload = 3

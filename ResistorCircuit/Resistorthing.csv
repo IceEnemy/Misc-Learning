@@ -1,0 +1,11 @@
+wire,wire,wire,Resistor_R2,wire,Ammeter_IR2,wire,wire,wire
+wire,,wire,,,,wire,,wire
+wire,,wire,wire,Voltmeter_VR2,wire,wire,,wire
+wire,,,,,,,,wire
+wire,wire,wire,,,,wire,wire,wire
+Ammeter_IR1,,wire,,,,wire,,Resistor_R3
+wire,,Voltmeter_VR1,,,,Voltmeter_VR3,,wire
+Resistor_R1,,wire,,,,wire,,Ammeter_IR3
+wire,wire,wire,,,,wire,wire,wire
+wire,,,,,,,,wire
+wire,Ammeter_IRSource,wire,Resistor_rsource,wire,wire,VoltageSource_acsource,wire,wire
