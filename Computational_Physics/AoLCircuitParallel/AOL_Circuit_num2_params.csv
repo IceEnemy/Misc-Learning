@@ -1,0 +1,18 @@
+Inductor,Ind,1B,0.004
+Resistor,Ri,1D,0.2
+Resistor,Rsource,6A,0.1
+Resistor,Rc,8H,2.2e-05
+Resistor,R1,8J,510.0
+Resistor,R2,8N,510.0
+Resistor,R3,8R,510.0
+Ammeter,Isource,1F,Positive polarity towards (cell) = 1G
+Ammeter,IR1,6J,Positive polarity towards (cell) = 7J
+Ammeter,IR2,6N,Positive polarity towards (cell) = 7N
+Ammeter,IR3,6R,Positive polarity towards (cell) = 7R
+Diode,diode,3A,Voltage level (V) = 120.000000,Cathode polarity towards (cell) = 2A
+Capacitor,Cap,6H,0.1,Positive polarity towards (cell) = 5H
+Voltmeter,source,7C,Rated voltage level to be measured = 120.0,Positive polarity towards (cell) = 6C
+Voltmeter,VR1,7L,Rated voltage level to be measured = 120.0,Positive polarity towards (cell) = 6L
+Voltmeter,VR2,7P,Rated voltage level to be measured = 120.0,Positive polarity towards (cell) = 6P
+Voltmeter,VR3,7T,Rated voltage level to be measured = 120.0,Positive polarity towards (cell) = 6T
+VoltageSource,Vsource,8A,Peak (Volts) = 7.070000,Frequency (Hertz) = 20.000000,Phase (degrees) = 0.000000,Dc offset = 0.000000,Positive polarity towards (cell) = 7A

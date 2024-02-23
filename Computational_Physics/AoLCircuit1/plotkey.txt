@@ -1,0 +1,8 @@
+t = 1
+Voltmeter_V2 = 2
+Voltmeter_V1 = 3
+Voltmeter_V3 = 4
+Voltmeter_Vsource = 5
+Ammeter_I2 = 6
+Ammeter_Ieq = 7
+Ammeter_I3 = 8

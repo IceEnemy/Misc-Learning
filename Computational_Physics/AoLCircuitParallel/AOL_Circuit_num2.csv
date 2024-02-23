@@ -1,0 +1,13 @@
+wire,Inductor_Ind,wire,Resistor_Ri,wire,Ammeter_Isource,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,,
+wire,,,,,,,wire,,wire,,,,wire,,,,wire,,
+Diode_diode,,,,,,,wire,,wire,,,,wire,,,,wire,,
+wire,,,,,,,wire,,wire,,,,wire,,,,wire,,
+wire,wire,wire,,,,,wire,,wire,wire,wire,,wire,wire,wire,,wire,wire,wire
+Resistor_Rsource,,wire,,,,,Capacitor_Cap,,Ammeter_IR1,,wire,,Ammeter_IR2,,wire,,Ammeter_IR3,,wire
+wire,,Voltmeter_source,,,,,wire,,wire,,Voltmeter_VR1,,wire,,Voltmeter_VR2,,wire,,Voltmeter_VR3
+VoltageSource_Vsource,,wire,,,,,Resistor_Rc,,Resistor_R1,,wire,,Resistor_R2,,wire,,Resistor_R3,,wire
+wire,wire,wire,,,,,wire,,wire,wire,wire,,wire,wire,wire,,wire,wire,wire
+wire,,,,,,,wire,,wire,,,,wire,,,,wire,,
+wire,,,,,,,wire,,wire,,,,wire,,,,wire,,
+wire,,,,,,,wire,,wire,,,,wire,,,,wire,,
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,,

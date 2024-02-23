@@ -1,0 +1,17 @@
+,,,,,,,,,wire,wire,Voltmeter_V2,wire,wire,,,
+,,,,,,,,,wire,,,,wire,,,
+,wire,wire,Voltmeter_V1,wire,wire,,,wire,wire,Ammeter_I2,wire,Resistor_R2,wire,wire,,
+,wire,,,,wire,,,wire,,,,,,wire,,
+wire,wire,Ammeter_Ieq,wire,Resistor_R1,wire,wire,wire,wire,,,,,,wire,wire,wire
+wire,,,,,,,,wire,,,,,,wire,,wire
+wire,,,,,,,,wire,wire,Ammeter_I3,wire,Resistor_R3,wire,wire,,wire
+wire,,,,,,,,,wire,,,,wire,,,wire
+wire,,,,,,,,,wire,wire,Voltmeter_V3,wire,wire,,,wire
+wire,,,,,,,,,,,,,,,,wire
+wire,,,,,,,,,,,,,,,,wire
+wire,,,,,,,,,,,,,,,,wire
+wire,,,,,,,,,,,,,,,,wire
+wire,,,,,,,,,,,,,,,,wire
+wire,,,,,wire,wire,Voltmeter_Vsource,wire,wire,,,,,,,wire
+wire,,,,,wire,,,,wire,,,,,,,wire
+wire,wire,wire,wire,wire,wire,Resistor_Rsource,wire,VoltageSource_Vsource,wire,wire,wire,wire,wire,wire,wire,wire

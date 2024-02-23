@@ -1,0 +1,12 @@
+Voltmeter,V2,1L,Rated voltage level to be measured = 120.0,Positive polarity towards (cell) = 1K
+Voltmeter,V1,3D,Rated voltage level to be measured = 120.0,Positive polarity towards (cell) = 3C
+Voltmeter,V3,9L,Rated voltage level to be measured = 120.0,Positive polarity towards (cell) = 9K
+Voltmeter,Vsource,15H,Rated voltage level to be measured = 120.0,Positive polarity towards (cell) = 15G
+Ammeter,I2,3K,Positive polarity towards (cell) = 3L
+Ammeter,Ieq,5C,Positive polarity towards (cell) = 5D
+Ammeter,I3,7K,Positive polarity towards (cell) = 7L
+Resistor,R2,3M,3.0
+Resistor,R1,5E,2.0
+Resistor,R3,7M,6.0
+Resistor,Rsource,17G,0.01
+VoltageSource,Vsource,17I,Peak (Volts) = 0.000000,Frequency (Hertz) = 60.000000,Phase (degrees) = 0.000000,Dc offset = 3.000000,Positive polarity towards (cell) = 17H
