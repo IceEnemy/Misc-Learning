@@ -1,0 +1,108 @@
+{
+    "products":
+    [
+        {
+            "id": 1,
+            "name": "Product 1",
+            "price": 100,
+            "description": "This is a product 1"
+        },
+        {
+            "id": 2,
+            "name": "Product 2",
+            "price": 200,
+            "description": "This is a product 2"
+        },
+        {
+            "id": 3,
+            "name": "Product 3",
+            "price": 300,
+            "description": "This is a product 3"
+        },
+        {
+            "id": 4,
+            "name": "Product 4",
+            "price": 400,
+            "description": "This is a product 4"
+        },
+        {
+            "id": 5,
+            "name": "Product 5",
+            "price": 500,
+            "description": "This is a product 5"
+        }
+    ],
+    "postcodes":[
+        {
+            "postcode": "3000",
+            "suburb": "Melbourne",
+            "state": "VIC"
+        },
+        {
+            "postcode": "3001",
+            "suburb": "Melbourne",
+            "state": "VIC"
+        },
+        {
+            "postcode": "3002",
+            "suburb": "East Melbourne",
+            "state": "VIC"
+        },
+        {
+            "postcode": "3003",
+            "suburb": "West Melbourne",
+            "state": "VIC"
+        },
+        {
+            "postcode": "3004",
+            "suburb": "Melbourne",
+            "state": "VIC"
+        }
+    ],
+    "featured-products":[
+        {
+            "id": 1,
+            "name": "Featured Product 1",
+            "price": 100,
+            "description": "This is a product 1"
+        },
+        {
+            "id": 2,
+            "name": "Featured Product 2",
+            "price": 200,
+            "description": "This is a product 2"
+        },
+        {
+            "id": 3,
+            "name": "Featured Product 3",
+            "price": 300,
+            "description": "This is a product 3"
+        }
+    ],
+    "stocks": [
+        {
+            "symbol": "STOCK D",
+            "price": 520.0
+        },
+        {
+            "symbol": "STOCK E",
+            "price": 110.0
+        },
+        {
+            "symbol": "STOCK F",
+            "price": 510.0
+        }
+    ],
+    "most-active-stock": {
+        "symbol":"STOCK A",
+        "price": 251.0
+    },
+    "top-gaining-stock": {
+        "symbol":"STOCK B",
+        "price": 60.0
+    },
+    "top-losing-stock": {
+        "symbol":"STOCK C",
+        "price": 200.0
+    }
+}
