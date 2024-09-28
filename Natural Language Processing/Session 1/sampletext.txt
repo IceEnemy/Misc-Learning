@@ -1,0 +1,1 @@
+text = "The sun rises in the east, and it sets in the west. Many people enjoy watching the sunrise over the mountains."
