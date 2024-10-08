@@ -74,7 +74,7 @@ legend("topleft", legend = labels.salary, fill = c("red","blue"))
 
 data.employee$age <- c(20,24,25,30,22,31,23,35)
 
-png("scatterplot.png",width = 800, height = 600)
+png("scatterplot2.png",width = 800, height = 600)
 plot(x = data.employee$age, y = data.employee$salary, main = "Employee Salary", xlab = "Age", ylab = "Salary", col = rainbow(length(data.employee)), pch = 19)
 
 dev.off() # so it saves properly
