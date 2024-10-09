@@ -37,3 +37,5 @@ library(writexl)
 
 write_xlsx(combined_retail, "cleaned_combined_retail.xlsx")
 
+summary(combined_retail)
+
