@@ -114,13 +114,6 @@ ggpairs(
   title = "Pairwise Plot of Original RFM Variables by Cluster"
 )
 
-# Using log-transformed RFM variables
-ggpairs(
-  data = rfm_clustered,
-  columns = c("Recency_log", "Frequency_log", "Monetary_log"),
-  mapping = aes(color = Cluster),
-  title = "Pairwise Plot of Log-Transformed RFM Variables by Cluster"
-)
 
 # Step 9: Interpret and Summarize the Clusters
 
