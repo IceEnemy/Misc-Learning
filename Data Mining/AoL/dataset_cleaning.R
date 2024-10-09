@@ -29,6 +29,9 @@ combined_retail <- na.omit(combined_retail)
 combined_retail<- combined_retail %>%
   filter(across(where(is.numeric), ~ . > 0))
 
+combined_retail <- combined_retail %>%
+  filter(grepl("[0-9]", StockCode))
+
 install.packages("writexl")
 library(writexl)
 
