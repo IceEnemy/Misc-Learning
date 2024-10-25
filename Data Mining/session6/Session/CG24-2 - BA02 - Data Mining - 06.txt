@@ -1,0 +1,25 @@
+CG24-2 - BA02 - Data Mining
+We start at 5.25, don't forget to take attendance on BinusMaya and lab.slc.net!
+
+COURSE OUTLINE - Intro to RapidMiner
+====================================
+[] GUI Explanation
+[] Import csv files
+[] Operators
+[] Filter Example
+[] Set Role
+[] Generate Attribute
+[] Sample
+[] Generate ID
+[] Pivot
+[] Replace
+[] Replace Missing Values
+[] Rename
+[] Rename by Replacing
+[] Cut
+[] Map
+[] Select Attributes
+[] Discretize
+[] Normalization
+[] Aggregate
+
