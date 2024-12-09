@@ -18,10 +18,8 @@ retail.1 <- retail.1 %>%
 combined_retail <- rbind(retail.1, retail.2, retail.2.pt2)
 combined_retail <- combined_retail[!duplicated(combined_retail), ]
 
-# Step 1: Check the number of NA values in each column
 na_count <- colSums(is.na(combined_retail))
 
-# View the result
 print(na_count)
 
 combined_retail <- na.omit(combined_retail)
