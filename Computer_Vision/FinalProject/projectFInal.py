@@ -4,12 +4,20 @@ import pyautogui
 import mediapipe as mp
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder, StandardScaler
+from sklearn.preprocessing import LabelEncoder
 import warnings
 import time
 import pickle
+import tkinter as tk
+from PIL import Image, ImageTk
+import threading
+import queue
+
 
 warnings.filterwarnings("ignore")
+
+# Initiliaze current label
+current_label = "Ready"
 
 # Initialize the webcam
 cap = cv2.VideoCapture(0)
@@ -29,10 +37,6 @@ hands = mp_hands.Hands(
 )
 mp_drawing = mp.solutions.drawing_utils
 
-# Placeholder for training data
-landmarks_list = []
-labels = []
-
 # Function to normalize landmarks
 def normalize_landmarks(landmarks):
     landmarks_array = np.array([[lm.x, lm.y, lm.z] for lm in landmarks])
@@ -46,95 +50,8 @@ def normalize_landmarks(landmarks):
     normalized_landmarks = landmarks_normalized.flatten().tolist()
     return normalized_landmarks
 
-# Apply Gaussian Blur
-def apply_gaussian_blur(frame):
-    return cv2.GaussianBlur(frame, (5, 5), 0)
-
-# Apply Histogram Equalization
-def histogram_equalization(frame):
-    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-    equalized = cv2.equalizeHist(gray)
-    return cv2.cvtColor(equalized, cv2.COLOR_GRAY2BGR)
-
-# Preprocess frame
-def preprocess_frame(frame):
-    frame = apply_gaussian_blur(frame)
-    frame = histogram_equalization(frame)
-    return frame
-
-# Collect training data
-def collect_training_data():
-    gestures = ['next', 'previous', 'none']
-    print("Starting data collection...")
-    for gesture in gestures:
-        print(f"\nPrepare for collecting data for gesture: '{gesture}'.")
-        print("Press 's' to start collecting data for this gesture.")
-        while True:
-            ret, frame = cap.read()
-            if not ret:
-                print("Warning: Could not read frame.")
-                continue
-            frame = cv2.flip(frame, 1)
-            frame = preprocess_frame(frame)  # Apply preprocessing
-            cv2.putText(
-                frame, f"Prepare for '{gesture}' gesture", (10, 50),
-                cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 255), 2
-            )
-            cv2.putText(
-                frame, "Press 's' to start", (10, 100),
-                cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2
-            )
-            cv2.imshow('Preparation', frame)
-            key = cv2.waitKey(1) & 0xFF
-            if key == ord('s'):
-                cv2.destroyWindow('Preparation')
-                break
-            elif key == ord('q'):
-                cap.release()
-                cv2.destroyAllWindows()
-                print("Data collection aborted by user.")
-                exit()
-        count = 0
-        target_count = 1000 if gesture == 'none' else 500
-        print(f"Collecting data for gesture: '{gesture}'")
-        while count < target_count:
-            ret, frame = cap.read()
-            if not ret:
-                print("Warning: Could not read frame.")
-                continue
-            frame = cv2.flip(frame, 1)
-            frame = preprocess_frame(frame)  # Apply preprocessing
-            frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-            results = hands.process(frame_rgb)
-            if results.multi_hand_landmarks:
-                for hand_landmarks in results.multi_hand_landmarks:
-                    normalized_landmarks = normalize_landmarks(hand_landmarks.landmark)
-                    landmarks_list.append(normalized_landmarks)
-                    labels.append(gesture)
-                    count += 1
-                    cv2.putText(
-                        frame, f"Gesture: '{gesture}', Count: {count}/{target_count}", (10, 30),
-                        cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2
-                    )
-                    mp_drawing.draw_landmarks(
-                        frame, hand_landmarks, mp_hands.HAND_CONNECTIONS
-                    )
-                    if count >= target_count:
-                        break
-            else:
-                cv2.putText(
-                    frame, "No hands detected", (10, 30),
-                    cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2
-                )
-            cv2.imshow('Data Collection (MediaPipe)', frame)
-            if cv2.waitKey(1) & 0xFF == ord('q') or count >= target_count:
-                break
-        print(f"Data collection for gesture '{gesture}' completed.")
-    print("Data collection for all gestures completed.")
-    cv2.destroyAllWindows()
-
 # Train the classifier and save the model
-def train_and_save_classifier():
+def train_and_save_classifier(landmarks_list, labels):
     print("\nTraining classifier...")
     X = np.array(landmarks_list)
     y = np.array(labels)
@@ -143,13 +60,9 @@ def train_and_save_classifier():
     le = LabelEncoder()
     y_encoded = le.fit_transform(y)
 
-    # Standardize features
-    scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(X)
-
     # Split data
     X_train, X_test, y_train, y_test = train_test_split(
-        X_scaled, y_encoded, test_size=0.2, random_state=42
+        X, y_encoded, test_size=0.2, random_state=42
     )
 
     # Train Random Forest Classifier
@@ -160,103 +73,315 @@ def train_and_save_classifier():
     accuracy = clf.score(X_test, y_test)
     print(f"Classifier accuracy: {accuracy * 100:.2f}%")
 
-    # Save the classifier, label encoder, and scaler to a pickle file
+    # Save the classifier, label encoder to a pickle file
     with open('gesture_model.pkl', 'wb') as f:
-        pickle.dump((clf, le, scaler), f)
+        pickle.dump((clf, le), f)
     print("Model saved to 'gesture_model.pkl'")
-    return clf, le, scaler
+    return clf, le
 
 # Load the classifier from the pickle file
 def load_classifier():
     try:
         with open('gesture_model.pkl', 'rb') as f:
-            clf, le, scaler = pickle.load(f)
-        print("Model loaded from 'gesture_model.pkl'")
-        return clf, le, scaler
+            clf, le = pickle.load(f)
+        current_label = "Model loaded from 'gesture_model.pkl'"
+        return clf, le
     except FileNotFoundError:
         print("No saved model found. Please train a new model first.")
         exit()
 
 # Main function for gesture recognition
-def gesture_recognition(clf, le, scaler):
-    print("\nStarting gesture recognition...")
-    print("Press 'q' to quit.")
-    last_action_times = {}
-    action_delay = 1.0
 
-    while True:
-        ret, frame = cap.read()
-        if not ret:
-            print("Warning: Could not read frame.")
-            continue
-        frame = cv2.flip(frame, 1)
-        frame = preprocess_frame(frame)  # Apply preprocessing
-        frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-        results = hands.process(frame_rgb)
+class App:
+    def __init__(self, root):
+        self.root = root
+        self.root.title("Hand Gesture Recognition")
 
-        if results.multi_hand_landmarks:
-            for idx, hand_landmarks in enumerate(results.multi_hand_landmarks):
-                normalized_landmarks = normalize_landmarks(hand_landmarks.landmark)
-                landmarks = np.array(normalized_landmarks).reshape(1, -1)
-                landmarks_scaled = scaler.transform(landmarks)
-                prediction = clf.predict(landmarks_scaled)
-                gesture = le.inverse_transform(prediction)[0]
+        self.landmarks_list = []
+        self.labels = []
 
-                # Display gesture prediction on the frame
+        # self.current_label = "Ready"
+        self.flag_update_frame = True
+
+        self.app_label = tk.Label(root, text=current_label, font=("Arial", 16))
+        self.app_label.grid(row=0, column=0)
+
+        # Create a Label to display the video frames
+        self.video_label = tk.Label(root)
+        self.video_label.grid(row=1, column=0)
+
+        # Create dynamic Button
+        self.dynamic_button_flag = False
+        self.dynamic_button = tk.Button(root, text="Execute", command=self.execute_btn)
+        self.dynamic_button.grid(row=2, column=0, padx=10, pady=10)
+        self.dynamic_button.grid_forget()
+
+
+        # Start updating frames
+        self.update_frame()
+
+        # Buttons for options
+        self.train_button = tk.Button(
+            root, text="Create and Train New Model", command=self.train_new_model
+        )
+        self.train_button.grid(row=3, column=0, padx=10, pady=10)
+
+        self.use_button = tk.Button(
+            root, text="Use Existing Model", command=self.use_existing_model
+        )
+        self.use_button.grid(row=4, column=0, padx=10, pady=10)
+
+        # Add a quit button
+        self.quit_button = tk.Button(root, text="Quit", command=self.quit_app)
+        self.quit_button.grid(row=5, column=0, padx=10, pady=10)
+
+
+        self.previous_label = current_label
+        self.update_label()
+
+    def update_frame(self):
+        if cap and self.flag_update_frame:
+            ret, frame = cap.read()
+            if ret:
+                frame = cv2.flip(frame, 1)
+                frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+                img = Image.fromarray(frame)
+                imgtk = ImageTk.PhotoImage(image=img)
+                self.video_label.config(image=imgtk)
+                self.video_label.image = imgtk
+
+        self.video_label.after(10, self.update_frame)
+
+    def quit_app(self):
+        if cap:
+            cap.release()
+        self.root.destroy()
+        return
+
+    def update_label(self):
+        global current_label
+
+        if current_label != self.previous_label:
+            self.app_label.config(text=current_label)  # Update the label widget
+            self.previous_label = current_label  # Update the previous value
+
+        # Schedule the next check
+        self.root.after(30, self.update_label)
+
+    def execute_btn(self):
+        self.dynamic_button_flag = True
+        self.root.after(50, self.reset_dynamic_button_flag)
+    
+    def reset_dynamic_button_flag(self):
+        self.dynamic_button_flag = False
+
+    def hide_dynamic_button(self):
+        self.dynamic_button.grid_forget()  # Hide the button
+
+    def show_dynamic_button(self):
+        self.dynamic_button.grid(row=2, column=0, padx=10, pady=10)  # Show the button
+
+    def disable_dynamic_button(self):
+        self.dynamic_button.config(state="disabled")  # Disable the button
+
+    def enable_dynamic_button(self):
+        self.dynamic_button.config(state="normal")  # Enable the button
+
+    def change_dynamic_button_text(self, new_text):
+        self.dynamic_button.config(text=new_text)  # Change the button text
+
+
+    def train_new_model(self):
+        global current_label
+        current_label = "Starting training process..."
+
+        def training_workflow():
+            self.collect_training_data()
+            classifier, label_encoder = train_and_save_classifier(self.landmarks_list, self.labels)
+            self.gesture_recognition(classifier, label_encoder)
+
+        threading.Thread(target=training_workflow).start()
+    
+    def use_existing_model(self):
+        global current_label
+        current_label = "Using existing model..."
+        classifier, label_encoder = load_classifier()
+        threading.Thread(target=self.gesture_recognition, args=(classifier, label_encoder)).start()
+
+    def collect_training_data(self):
+        global current_label
+        gestures = ['next', 'previous', 'none']
+        current_label = "Starting data collection..."
+        time.sleep(1)
+
+        for gesture in gestures:
+            current_label = f"Prepare for collecting data for gesture: '{gesture}'."
+            time.sleep(1)
+            current_label = "Press Start to start collecting data for this gesture."
+
+            while True:
+                ret, frame = cap.read()
+                if not ret:
+                    print("Warning: Could not read frame.")
+                    continue
+                frame = cv2.flip(frame, 1)
+                # frame = preprocess_frame(frame)  # Apply preprocessing
+
+                # Draw the text on the video frame
                 cv2.putText(
-                    frame, f"Gesture: {gesture}", (10, 30 + idx * 30),
-                    cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2
-                )
-                mp_drawing.draw_landmarks(
-                    frame, hand_landmarks, mp_hands.HAND_CONNECTIONS
+                    frame, f"Prepare for '{gesture}' gesture", (10, 50),
+                    cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 255), 2
                 )
 
-                # Trigger actions based on gesture
-                current_time = time.time()
-                hand_id = idx
-                if hand_id not in last_action_times:
-                    last_action_times[hand_id] = 0
-                if gesture in ['next', 'previous']:
-                    if (current_time - last_action_times[hand_id]) > action_delay:
-                        if gesture == 'next':
-                            pyautogui.press('right')
-                        elif gesture == 'previous':
-                            pyautogui.press('left')
-                        last_action_times[hand_id] = current_time
+                # Convert the frame to ImageTk format and update the video label
+                self.flag_update_frame = False
+                self.change_dynamic_button_text("Start")
+                self.enable_dynamic_button()
+                self.show_dynamic_button()
 
-        else:
-            cv2.putText(
-                frame, "No hands detected", (10, 30),
-                cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2
-            )
+                frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+                img = Image.fromarray(frame_rgb)
+                imgtk = ImageTk.PhotoImage(image=img)
+                self.video_label.config(image=imgtk)
+                self.video_label.image = imgtk
 
-        # Show the gesture recognition frame
-        cv2.imshow('Gesture Recognition (MediaPipe)', frame)
+                # Check for key input
+                if self.dynamic_button_flag:
+                    self.disable_dynamic_button()
+                    self.hide_dynamic_button()
+                    break
 
-        # Exit on 'q' key
-        if cv2.waitKey(1) & 0xFF == ord('q'):
-            break
+            count = 0
+            target_count = 1000 if gesture == 'none' else 500
+            current_label = f"Collecting data for gesture: '{gesture}'..."
 
-    cap.release()
-    cv2.destroyAllWindows()
-    print("Gesture recognition ended.")
+            while count < target_count:
+                ret, frame = cap.read()
+                if not ret:
+                    print("Warning: Could not read frame.")
+                    continue
+                frame = cv2.flip(frame, 1)
+                # frame = preprocess_frame(frame)  # Apply preprocessing
+                frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+                results = hands.process(frame_rgb)
+
+                if results.multi_hand_landmarks:
+                    for hand_landmarks in results.multi_hand_landmarks:
+                        normalized_landmarks = normalize_landmarks(hand_landmarks.landmark)
+                        self.landmarks_list.append(normalized_landmarks)
+                        self.labels.append(gesture)
+                        count += 1
+
+                        # Draw the text and hand landmarks on the video frame
+                        cv2.putText(
+                            frame, f"Gesture: '{gesture}', Count: {count}/{target_count}", (10, 30),
+                            cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2
+                        )
+                        mp_drawing.draw_landmarks(
+                            frame, hand_landmarks, mp_hands.HAND_CONNECTIONS
+                        )
+                        if count >= target_count:
+                            break
+                else:
+                    cv2.putText(
+                        frame, "No hands detected", (10, 30),
+                        cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2
+                    )
+
+                # Update the video label
+                self.change_dynamic_button_text("Exit")
+                self.enable_dynamic_button()
+                self.show_dynamic_button()
+
+                frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+                img = Image.fromarray(frame_rgb)
+                imgtk = ImageTk.PhotoImage(image=img)
+                self.video_label.config(image=imgtk)
+                self.video_label.image = imgtk
+
+                if self.dynamic_button_flag:
+                    break
+
+            current_label = f"Data collection for gesture '{gesture}' completed."
+
+        self.flag_update_frame = True
+        self.hide_dynamic_button()
+        self.disable_dynamic_button()
+        current_label = "Data collection for all gestures completed."
+
+    def gesture_recognition(self, clf, le):
+        global current_label
+        current_label = "Starting gesture recognition..."
+        last_action_times = {}
+        action_delay = 1.0
+
+        while True:
+            ret, frame = cap.read()
+            if not ret:
+                current_label = "Warning: Could not read frame."
+                continue
+            frame = cv2.flip(frame, 1)
+            # frame = preprocess_frame(frame)  # Apply preprocessing
+            frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+            results = hands.process(frame_rgb)
+
+            if results.multi_hand_landmarks:
+                for idx, hand_landmarks in enumerate(results.multi_hand_landmarks):
+                    normalized_landmarks = normalize_landmarks(hand_landmarks.landmark)
+                    landmarks = np.array(normalized_landmarks).reshape(1, -1)
+                    prediction = clf.predict(landmarks)
+                    gesture = le.inverse_transform(prediction)[0]
+
+                    # Display gesture prediction on the frame
+                    cv2.putText(
+                        frame, f"Gesture: {gesture}", (10, 30 + idx * 30),
+                        cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2
+                    )
+                    mp_drawing.draw_landmarks(
+                        frame, hand_landmarks, mp_hands.HAND_CONNECTIONS
+                    )
+
+                    # Trigger actions based on gesture
+                    current_time = time.time()
+                    hand_id = idx
+                    if hand_id not in last_action_times:
+                        last_action_times[hand_id] = 0
+                    if gesture in ['next', 'previous']:
+                        if (current_time - last_action_times[hand_id]) > action_delay:
+                            if gesture == 'next':
+                                pyautogui.press('right')
+                            elif gesture == 'previous':
+                                pyautogui.press('left')
+                            last_action_times[hand_id] = current_time
+
+            else:
+                cv2.putText(
+                    frame, "No hands detected", (10, 30),
+                    cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2
+                )
+
+            # Update the video label
+            self.change_dynamic_button_text("Exit")
+            self.enable_dynamic_button()
+            self.show_dynamic_button()
+
+            self.flag_update_frame = False
+            frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+            img = Image.fromarray(frame_rgb)
+            imgtk = ImageTk.PhotoImage(image=img)
+            self.video_label.config(image=imgtk)
+            self.video_label.image = imgtk
+
+            if self.dynamic_button_flag:
+                break
+        
+        current_label = "Gesture recognition ended."
+        self.flag_update_frame = True
+        self.disable_dynamic_button()
+        self.hide_dynamic_button()
 
 # Run the steps
 if __name__ == "__main__":
-    print("Choose an option:")
-    print("1. Create a new gesture dataset and train a new model")
-    print("2. Use the existing model")
-    choice = input("Enter 1 or 2: ")
-
-    if choice == '1':
-        collect_training_data()
-        classifier, label_encoder, scaler = train_and_save_classifier()
-        gesture_recognition(classifier, label_encoder, scaler)
-    elif choice == '2':
-        classifier, label_encoder, scaler = load_classifier()
-        gesture_recognition(classifier, label_encoder, scaler)
-    else:
-        print("Invalid choice. Exiting.")
-        cap.release()
-        cv2.destroyAllWindows()
-        exit()
+    root = tk.Tk()
+    app = App(root)
+    root.mainloop()
