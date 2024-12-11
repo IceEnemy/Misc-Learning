@@ -54,7 +54,7 @@ def preprocess_frame(frame):
     frame_edges = cv2.Canny(frame_blur, 100, 200)
     return frame_edges
 
-# Collect training data with preparation pause
+# Collect training data
 def collect_training_data():
     gestures = ['next', 'previous', 'none']
     print("Starting data collection...")
@@ -168,59 +168,6 @@ def load_classifier():
         print("No saved model found. Please train a new model first.")
         exit()
 
-# Implement feature detection and keypoints matching
-def find_keypoints_and_match(frame1, frame2):
-    orb = cv2.ORB_create()  # Using ORB as a local feature detector
-    kp1, des1 = orb.detectAndCompute(frame1, None)
-    kp2, des2 = orb.detectAndCompute(frame2, None)
-
-    # Use BFMatcher to find correspondences
-    bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
-    matches_orb = bf.match(des1, des2)
-    matches_orb = sorted(matches_orb, key=lambda x: x.distance)
-
-    # Draw ORB matches
-    match_img_orb = cv2.drawMatches(frame1, kp1, frame2, kp2, matches_orb[:10], None, flags=cv2.DrawMatchesFlags_NOT_DRAW_SINGLE_POINTS)
-    cv2.imshow('ORB Keypoints Matching', match_img_orb)
-
-    # Using SIFT as a local feature detector
-    sift = cv2.SIFT_create()
-    kp1_sift, des1_sift = sift.detectAndCompute(frame1, None)
-    kp2_sift, des2_sift = sift.detectAndCompute(frame2, None)
-
-    # Use BFMatcher to find correspondences for SIFT
-    bf_sift = cv2.BFMatcher()
-    matches_sift = bf_sift.match(des1_sift, des2_sift)
-    matches_sift = sorted(matches_sift, key=lambda x: x.distance)
-
-    # Draw SIFT matches
-    match_img_sift = cv2.drawMatches(frame1, kp1_sift, frame2, kp2_sift, matches_sift[:10], None, flags=cv2.DrawMatchesFlags_NOT_DRAW_SINGLE_POINTS)
-    cv2.imshow('SIFT Keypoints Matching', match_img_sift)
-
-    # Wait for a key press to close the windows
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
-
-    # Comparison between ORB and SIFT
-    print(f"ORB: Number of keypoints in Image 1: {len(kp1)}, Image 2: {len(kp2)}")
-    print(f"SIFT: Number of keypoints in Image 1: {len(kp1_sift)}, Image 2: {len(kp2_sift)}")
-    print(f"ORB: Number of matches: {len(matches_orb)}")
-    print(f"SIFT: Number of matches: {len(matches_sift)}")
-
-    # Use keypoints matches to find correspondences and compare images
-    if len(matches_sift) > 10:  # Ensure there are enough matches to proceed
-        src_pts = np.float32([kp1_sift[m.queryIdx].pt for m in matches_sift[:10]]).reshape(-1, 1, 2)
-        dst_pts = np.float32([kp2_sift[m.trainIdx].pt for m in matches_sift[:10]]).reshape(-1, 1, 2)
-        M, mask = cv2.findHomography(src_pts, dst_pts, cv2.RANSAC, 5.0)
-        if M is not None:
-            h, w = frame1.shape[:2]
-            pts = np.float32([[0, 0], [0, h - 1], [w - 1, h - 1], [w - 1, 0]]).reshape(-1, 1, 2)
-            dst = cv2.perspectiveTransform(pts, M)
-            frame2 = cv2.polylines(frame2, [np.int32(dst)], True, 255, 3, cv2.LINE_AA)
-            cv2.imshow('SIFT Correspondence', frame2)
-            cv2.waitKey(0)
-            cv2.destroyAllWindows()
-
 # Main function for gesture recognition
 def gesture_recognition(clf, le, scaler):
     print("\nStarting gesture recognition...")
@@ -228,14 +175,13 @@ def gesture_recognition(clf, le, scaler):
     last_action_times = {}
     action_delay = 1.0
 
-    reference_frame = None  # For keypoints matching
-
     while True:
         ret, frame = cap.read()
         if not ret:
             print("Warning: Could not read frame.")
             continue
         frame = cv2.flip(frame, 1)
+        frame = preprocess_frame(frame)  # Apply preprocessing
         frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
         results = hands.process(frame_rgb)
 
@@ -275,33 +221,6 @@ def gesture_recognition(clf, le, scaler):
                 cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2
             )
 
-        # Run SIFT and ORB on the current frame with the reference frame
-        if reference_frame is None:
-            reference_frame = frame.copy()
-        else:
-            orb = cv2.ORB_create()
-            kp1, des1 = orb.detectAndCompute(reference_frame, None)
-            kp2, des2 = orb.detectAndCompute(frame, None)
-            if des1 is not None and des2 is not None:
-                bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
-                matches_orb = bf.match(des1, des2)
-                matches_orb = sorted(matches_orb, key=lambda x: x.distance)
-                match_img_orb = cv2.drawMatches(reference_frame, kp1, frame, kp2, matches_orb[:10], None, flags=cv2.DrawMatchesFlags_NOT_DRAW_SINGLE_POINTS)
-                cv2.imshow('ORB Keypoints Matching', match_img_orb)
-
-            sift = cv2.SIFT_create()
-            kp1_sift, des1_sift = sift.detectAndCompute(reference_frame, None)
-            kp2_sift, des2_sift = sift.detectAndCompute(frame, None)
-            if des1_sift is not None and des2_sift is not None:
-                bf_sift = cv2.BFMatcher()
-                matches_sift = bf_sift.match(des1_sift, des2_sift)
-                matches_sift = sorted(matches_sift, key=lambda x: x.distance)
-                match_img_sift = cv2.drawMatches(reference_frame, kp1_sift, frame, kp2_sift, matches_sift[:10], None, flags=cv2.DrawMatchesFlags_NOT_DRAW_SINGLE_POINTS)
-                cv2.imshow('SIFT Keypoints Matching', match_img_sift)
-
-            # Update the reference frame periodically
-            reference_frame = frame.copy()
-
         # Show the gesture recognition frame
         cv2.imshow('Gesture Recognition (MediaPipe)', frame)
 
@@ -312,7 +231,6 @@ def gesture_recognition(clf, le, scaler):
     cap.release()
     cv2.destroyAllWindows()
     print("Gesture recognition ended.")
-
 
 # Run the steps
 if __name__ == "__main__":
