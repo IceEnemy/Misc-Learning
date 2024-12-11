@@ -46,13 +46,21 @@ def normalize_landmarks(landmarks):
     normalized_landmarks = landmarks_normalized.flatten().tolist()
     return normalized_landmarks
 
-# Apply image processing functions
+# Apply Gaussian Blur
+def apply_gaussian_blur(frame):
+    return cv2.GaussianBlur(frame, (5, 5), 0)
+
+# Apply Histogram Equalization
+def histogram_equalization(frame):
+    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+    equalized = cv2.equalizeHist(gray)
+    return cv2.cvtColor(equalized, cv2.COLOR_GRAY2BGR)
+
+# Preprocess frame
 def preprocess_frame(frame):
-    # Apply Gaussian Blur
-    frame_blur = cv2.GaussianBlur(frame, (5, 5), 0)
-    # Apply Canny edge detection
-    frame_edges = cv2.Canny(frame_blur, 100, 200)
-    return frame_edges
+    frame = apply_gaussian_blur(frame)
+    frame = histogram_equalization(frame)
+    return frame
 
 # Collect training data
 def collect_training_data():
@@ -95,6 +103,7 @@ def collect_training_data():
                 print("Warning: Could not read frame.")
                 continue
             frame = cv2.flip(frame, 1)
+            frame = preprocess_frame(frame)  # Apply preprocessing
             frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             results = hands.process(frame_rgb)
             if results.multi_hand_landmarks:
