@@ -1,0 +1,2001 @@
+ID,region,age,body_temperature,blood_pressure,aspyhxiation,last_contact,weight,height
+B6DD47D9-83D5-1446-471C-778BFA0472AB,Suwon,11,37.9°C,125mm/Hg,none,public place,59kg,150cm
+E1E6CE31-5127-089B-816C-41C840ED799F,Busan,14,38.4°C,121mm/Hg,normal,public place,85kg,138cm
+80506E79-599E-3F47-A1D0-B9C486E51C80,Gwangju,56,37.3°C,120mm/Hg,normal,overseas inflow,58kg,141cm
+96952142-5513-725D-4F57-C9A564189868,Ulsan,16,38.9°C,126mm/Hg,normal,overseas inflow,90kg,131cm
+461EF7BB-85B9-4CBD-A229-BDFD2CFD4A60,Incheon,57,37.3°C,121mm/Hg,none,overseas inflow,41kg,158cm
+06769A07-0A49-7378-3C33-381FF9140268,Seoul,20,37.2°C,121mm/Hg,none,overseas inflow,85kg,175cm
+579160E9-25BA-96BA-22C2-1C4DE36605F1,Ulsan,14,36.1°C,120mm/Hg,none,public place,69kg,156cm
+D33CC8E4-0626-A4C0-6D13-DE5BBFE99FB9,Gwangju,15,37.6°C,135mm/Hg,moderate,none,86kg,171cm
+9BCECD77-70EC-2B4D-8B23-D92919439C01,Daegu,55,37.4°C,127mm/Hg,normal,overseas inflow,70kg,149cm
+DAB1B6BF-98F2-2B83-69B6-66403B298D06,Gwangju,14,39°C,121mm/Hg,moderate,contact with patient,45kg,139cm
+E92BEB53-2945-2AAB-6984-9C55D931426D,Incheon,50,37.9°C,145mm/Hg,severe,overseas inflow,59kg,163cm
+245B8155-0206-346D-A50F-DA61AED27F62,Ulsan,13,38.6°C,136mm/Hg,moderate,public place,81kg,171cm
+AE1C4411-492E-83F8-9681-020DDFC56C01,Busan,59,38.4°C,142mm/Hg,none,public place,66kg,157cm
+C678CE83-987E-648A-5631-909E08921F1C,Suwon,14,37.7°C,148mm/Hg,none,public place,88kg,170cm
+1CF16996-6DF7-1481-4411-C5B71653536B,Gwangju,56,37.6°C,142mm/Hg,none,overseas inflow,50kg,148cm
+10A0367F-961C-48BE-55CA-A86FDD26A72D,Incheon,19,37.1°C,125mm/Hg,none,overseas inflow,40kg,140cm
+1A532784-8AF5-21B9-2ED0-8EAA06F60579,Busan,59,37°C,122mm/Hg,none,overseas inflow,57kg,159cm
+FDBB60ED-5B57-67D0-8078-B10746AD5093,Gwangju,17,38.3°C,144mm/Hg,moderate,contact with patient,85kg,172cm
+FB044B77-3E87-39A7-1D0F-DEC0448215AD,Daegu,54,37.4°C,126mm/Hg,severe,public place,50kg,170cm
+DD20C116-2B3D-28B0-0499-D3FE84CB8B86,Ulsan,15,37.4°C,129mm/Hg,normal,overseas inflow,48kg,138cm
+1760B2C1-2C77-23A6-0659-C354D09D620E,Busan,50,36.1°C,124mm/Hg,none,overseas inflow,48kg,145cm
+C96906D6-94FA-3DA4-5A2E-43D09DAEA305,Ulsan,14,36.9°C,128mm/Hg,normal,contact with patient,41kg,134cm
+1C3C4AD5-1AD9-2BD7-53D4-EEF59067A179,Busan,52,37.7°C,127mm/Hg,normal,overseas inflow,49kg,140cm
+B2D1DAC0-5613-3233-99E3-199DA2388EC4,Incheon,20,37.5°C,120mm/Hg,normal,overseas inflow,77kg,174cm
+080D5087-8C2E-33BE-573E-D26773B295DC,Busan,59,37°C,131mm/Hg,normal,public place,45kg,144cm
+6C55E1A5-A4BD-9265-1C2F-B9E423AE5E1E,Ulsan,51,37.2°C,127mm/Hg,none,public place,49kg,170cm
+18B2B12C-9DC6-1A78-99A0-2DA99A02850C,Busan,55,38.2°C,126mm/Hg,normal,overseas inflow,41kg,158cm
+479565C5-8DAF-A6EB-4F3E-B572C651415B,Seoul,15,37.6°C,142mm/Hg,normal,contact with patient,44kg,140cm
+2C1539D4-1C4A-8DF5-738B-CC2316AA94C0,Ulsan,59,36.7°C,129mm/Hg,normal,overseas inflow,54kg,153cm
+ED865249-7DC0-9B3F-0BDE-BB2991FF59A8,Seoul,18,36.9°C,121mm/Hg,none,public place,86kg,172cm
+9753AFA4-1ADE-9B7E-0BD7-D826A0707B6A,Seoul,50,36.9°C,123mm/Hg,chronic,public place,42kg,140cm
+AC2D444B-1973-32C7-4D00-A558FBC6868F,Incheon,19,38.2°C,125mm/Hg,normal,overseas inflow,85kg,133cm
+8DDC110F-49F8-6CDF-672B-58D26EEE230F,Incheon,59,37.9°C,122mm/Hg,none,overseas inflow,41kg,155cm
+44CAA572-5421-1723-0F8B-2B01237F9666,Ulsan,20,37.2°C,122mm/Hg,normal,none,81kg,134cm
+7BC34610-25D1-A314-90E1-A33A43FE0092,Incheon,53,38.2°C,130mm/Hg,none,overseas inflow,49kg,145cm
+FECE216B-6D13-5855-5FD6-29D0FEA782D6,Daegu,19,37°C,120mm/Hg,none,none,90kg,179cm
+F442BBEE-6AAB-06A3-12DB-1B1157D883A5,Busan,8,37.6°C,146mm/Hg,moderate,public place,42kg,158cm
+92969145-16A9-3BB4-7E18-E49D581F0881,Daegu,15,37°C,129mm/Hg,severe,overseas inflow,47kg,179cm
+CF6CF4CF-10B0-76F1-1945-B2D66509A7AF,Daegu,59,38.7°C,128mm/Hg,none,overseas inflow,59kg,155cm
+8C72E941-25A3-6653-5AE3-B1621425A063,Incheon,16,36.2°C,130mm/Hg,normal,contact with patient,86kg,140cm
+0B4E1BBA-A151-225F-7272-E203D02F98E1,Ulsan,8,38.5°C,121mm/Hg,none,overseas inflow,40kg,169cm
+55D97FE5-8175-5D83-7141-AFA8E23A9730,Ulsan,14,37.4°C,139mm/Hg,severe,contact with patient,77kg,178cm
+0BDF57CD-8DC7-9329-A302-EAD7C697A6F8,Incheon,54,36.8°C,130mm/Hg,none,public place,67kg,156cm
+06D9A2BB-2633-7FFC-54E6-4554CDDF6506,Ulsan,18,37.9°C,126mm/Hg,severe,none,40kg,139cm
+A9AB5C5E-444D-340B-9815-3C70D58F9FC2,Ulsan,59,37°C,124mm/Hg,moderate,overseas inflow,41kg,143cm
+454E10B9-37C7-063D-352B-9B26AD797C8B,Seoul,14,36.4°C,127mm/Hg,normal,none,87kg,135cm
+57C412B1-1421-27CF-3450-22FE2B4F65A8,Daegu,52,37.9°C,127mm/Hg,chronic,overseas inflow,49kg,150cm
+0AA03958-29D8-A524-9701-D114DEC00EC4,Busan,18,37.1°C,129mm/Hg,none,overseas inflow,86kg,185cm
+52A9BEEB-7CE4-5102-0EA5-A2DFD5899BAB,Suwon,7,36°C,135mm/Hg,normal,public place,41kg,173cm
+F7BE582F-22CA-4742-915F-17BDE5FB0449,Seoul,16,38.8°C,122mm/Hg,none,none,88kg,130cm
+6FDD0ED3-8DEA-9BE9-0531-E28034D71F47,Seoul,53,37.7°C,122mm/Hg,normal,overseas inflow,42kg,145cm
+81596DF5-3BEC-06B9-66A9-C731EE3572AC,Seoul,17,36°C,125mm/Hg,normal,overseas inflow,89kg,130cm
+11DF77FB-5C91-920B-72A9-C27C96D11203,Seoul,52,36.2°C,120mm/Hg,normal,overseas inflow,42kg,160cm
+665C4FEF-8A41-012E-8A72-5489E6599C96,Seoul,19,38.5°C,141mm/Hg,none,contact with patient,78kg,187cm
+4FE8E7E1-652E-4DEC-17C6-DE058DFC1E7D,Incheon,54,37°C,126mm/Hg,severe,public place,66kg,146cm
+CD22828C-43DD-68F2-49DB-4775F4E615CD,Daegu,15,38.3°C,120mm/Hg,normal,overseas inflow,80kg,132cm
+585EA445-1E49-064E-673D-E5F9DC26A5EA,Seoul,7,36.3°C,122mm/Hg,normal,overseas inflow,48kg,159cm
+C1DFC70F-4CEF-8181-A0FE-59B48CD88FC7,Seoul,16,39°C,141mm/Hg,none,contact with patient,80kg,130cm
+06D9186C-2738-4D06-A515-C22C94198518,Daegu,58,37.1°C,123mm/Hg,chronic,overseas inflow,44kg,148cm
+7F530973-011F-05FE-909D-34AA004852D6,Ulsan,19,36.7°C,142mm/Hg,normal,overseas inflow,80kg,179cm
+1CF53DC9-2C79-1A98-8C73-011214185C10,Ulsan,53,36.1°C,121mm/Hg,moderate,public place,50kg,151cm
+9D7EFF29-30B7-0305-0194-0D4173E85FFF,Daegu,19,38.5°C,137mm/Hg,moderate,public place,49kg,132cm
+2F2D187D-4D16-A2B3-5E14-B1BBA7CB4F34,Suwon,54,37.1°C,141mm/Hg,moderate,overseas inflow,52kg,143cm
+94267308-A3A8-235C-8081-8893913C6382,Gwangju,15,37.3°C,142mm/Hg,severe,public place,49kg,131cm
+26F74523-0F36-4990-99A0-D3D2179F99A5,Seoul,57,37.9°C,124mm/Hg,none,overseas inflow,46kg,150cm
+C0F29433-3F97-2BFB-3A48-88C1A401065E,Busan,50,38.5°C,142mm/Hg,chronic,none,88kg,178cm
+76A432EF-4247-A315-A1CD-0C783635432A,Incheon,57,37.9°C,131mm/Hg,normal,public place,69kg,158cm
+8C2A9143-1CAA-0720-A6B9-F0D7A3BC9AFF,Daegu,18,37.5°C,141mm/Hg,moderate,none,89kg,134cm
+EE2076E4-318E-93BB-7DB5-D3DB6E731D8A,Incheon,55,36.8°C,142mm/Hg,normal,overseas inflow,50kg,141cm
+F3AFE30C-52A0-17D7-084F-43FAADC9653C,Gwangju,17,37.7°C,127mm/Hg,moderate,public place,45kg,130cm
+949091EF-6486-818A-0FCB-0B5C37362B88,Gwangju,51,36.3°C,122mm/Hg,none,overseas inflow,50kg,154cm
+9DB01E02-1481-1A3F-5458-0081DBA719ED,Gwangju,15,36.6°C,124mm/Hg,severe,none,84kg,180cm
+2C06109F-3031-38E2-9269-48EA287F6E94,Busan,51,37.1°C,121mm/Hg,normal,public place,61kg,149cm
+950CAC39-6895-9813-981B-04FCCA1B50C1,Daegu,18,37.6°C,129mm/Hg,normal,contact with patient,50kg,140cm
+D0B912FC-47A0-1F2D-4C5D-46B8D21C56A1,Daegu,58,38.5°C,130mm/Hg,normal,overseas inflow,46kg,154cm
+9CD3B336-829C-5E24-8212-487AE40231B1,Daegu,57,37.7°C,120mm/Hg,severe,contact with patient,47kg,130cm
+5005D9B5-A3D8-A757-66EE-961C83E79982,Busan,11,37.7°C,143mm/Hg,chronic,overseas inflow,42kg,151cm
+E77A766C-3A48-3B2E-6513-5BA319C91C07,Busan,20,36.3°C,122mm/Hg,normal,none,73kg,179cm
+65A97291-7461-A095-478D-97DE0CD0619B,Busan,53,38.5°C,132mm/Hg,chronic,public place,61kg,141cm
+B1266E7D-2791-9C39-778A-74D9E6E49487,Suwon,52,37.8°C,133mm/Hg,severe,contact with patient,84kg,130cm
+2C72BBDC-4A3B-35AE-75E8-8187FDE26E0F,Busan,59,36°C,124mm/Hg,normal,overseas inflow,42kg,174cm
+E4AAC7F6-6EE9-7537-3D1C-6F18D9349AD0,Ulsan,15,38.9°C,121mm/Hg,normal,overseas inflow,48kg,133cm
+BC61602C-4FA5-4250-8082-374E636833C4,Daegu,11,37°C,122mm/Hg,normal,overseas inflow,41kg,148cm
+3754B5D3-51FA-20D1-A404-45C64D74638E,Ulsan,15,38.1°C,130mm/Hg,none,overseas inflow,83kg,170cm
+EAE8CDF7-6B1E-47ED-3C7A-3669C85B378C,Busan,53,37°C,125mm/Hg,normal,public place,53kg,159cm
+ADE2D7F0-33FD-24B4-2EF8-458E63A27777,Incheon,15,37.7°C,120mm/Hg,normal,public place,40kg,132cm
+005E901E-06BC-07C6-837F-F16C22F51C39,Ulsan,53,37.8°C,150mm/Hg,none,overseas inflow,44kg,170cm
+21A07AA4-739D-6957-A2FC-8019721488D5,Ulsan,54,37.4°C,149mm/Hg,normal,contact with patient,90kg,138cm
+B86020EA-3968-9C31-356D-2F3AC1025D9C,Incheon,56,37.3°C,124mm/Hg,normal,overseas inflow,40kg,145cm
+9BED62A4-3F2B-50D2-56F7-A1EDE48F6F34,Suwon,18,38.7°C,127mm/Hg,chronic,contact with patient,80kg,179cm
+61689D52-07A4-2BF1-63BD-2B718BDE3270,Gwangju,8,36°C,126mm/Hg,normal,public place,40kg,142cm
+D58EDB5E-0127-48C0-71B1-1BBEF399A1AA,Suwon,19,37.2°C,139mm/Hg,chronic,overseas inflow,81kg,131cm
+56CE05FF-2F93-8255-3CE0-85B8F38F97CD,Daegu,60,38.1°C,141mm/Hg,moderate,overseas inflow,51kg,166cm
+2732CB3B-3F32-0F1C-200D-EF811AA4A0F4,Suwon,20,37.5°C,128mm/Hg,none,contact with patient,42kg,132cm
+C2E1582B-1C2A-87BF-7EDC-153FE8296D57,Ulsan,55,37.3°C,147mm/Hg,chronic,overseas inflow,41kg,140cm
+1EB8A602-97EF-72DF-3557-9F4CCAD11B85,Daegu,18,37.8°C,121mm/Hg,moderate,none,82kg,178cm
+C92BF0C4-52B4-92B6-0AEE-9E607ADA8D2B,Daegu,57,36.6°C,122mm/Hg,none,public place,64kg,141cm
+F79260D3-2480-900C-73FB-9FA136576873,Incheon,18,36°C,120mm/Hg,moderate,overseas inflow,49kg,132cm
+AA270431-0499-3B3D-704F-BDA3DC58A46E,Suwon,58,37.6°C,122mm/Hg,normal,overseas inflow,59kg,141cm
+72702EB8-0B2A-8024-74D7-81B66C0D3D76,Seoul,19,36.5°C,126mm/Hg,none,public place,45kg,138cm
+D9D80F1D-453E-81A7-7180-3287D94A7813,Incheon,56,38°C,126mm/Hg,severe,overseas inflow,51kg,149cm
+0C2A0295-1FD9-7FE5-9B58-64C374DC9BEF,Incheon,13,37.1°C,124mm/Hg,none,public place,78kg,170cm
+CF326D86-8853-670C-8977-707D54AF816F,Incheon,14,36.5°C,121mm/Hg,chronic,public place,70kg,160cm
+E189111C-6DD8-5E17-931A-8912A14D9E43,Seoul,19,36°C,128mm/Hg,normal,public place,84kg,179cm
+4DBB74CB-5076-0A88-9DAC-9477449223F9,Daegu,55,37.1°C,127mm/Hg,moderate,overseas inflow,45kg,153cm
+AB9F9B5C-96A4-350C-37B0-518BB935A6B3,Busan,20,38.4°C,147mm/Hg,severe,public place,87kg,138cm
+73646C5D-4330-04F8-A011-604F91E83545,Ulsan,6,37.7°C,142mm/Hg,moderate,overseas inflow,45kg,143cm
+7E9A5F6E-6F26-1430-3C43-F82BA46130B2,Suwon,14,38.2°C,144mm/Hg,severe,public place,72kg,179cm
+3DC4B790-68EF-0035-40DD-7D5405040E89,Seoul,10,37°C,128mm/Hg,none,public place,61kg,155cm
+4679F7C1-49AE-5AB3-6E48-39F941E421F0,Gwangju,19,36.3°C,121mm/Hg,normal,none,81kg,140cm
+6F37932A-7EA2-61E6-7E9E-B7C6748E95DD,Suwon,58,36.5°C,145mm/Hg,normal,overseas inflow,42kg,173cm
+38708F99-5B7D-4E8B-8E13-6D4A350523E9,Ulsan,17,38.4°C,123mm/Hg,normal,none,85kg,139cm
+A64D48E4-39A4-3653-0022-56E2AADB7DE3,Suwon,50,38.6°C,122mm/Hg,none,overseas inflow,50kg,144cm
+40ECCDB3-46FA-5A6A-1109-CC21041B0FCD,Seoul,14,37.7°C,126mm/Hg,moderate,contact with patient,74kg,171cm
+0F248647-7F7F-A66E-7C1F-043565793727,Daegu,51,38.6°C,130mm/Hg,normal,public place,67kg,145cm
+5B97619F-459A-87E0-4F7D-8A6120E850A4,Gwangju,17,39°C,133mm/Hg,none,none,87kg,140cm
+FE8CEE39-97E3-7ACB-37DA-4B8498A29A62,Seoul,55,36.5°C,126mm/Hg,normal,overseas inflow,40kg,152cm
+607CB326-6D75-103F-906B-414C158C78DC,Seoul,15,38.2°C,129mm/Hg,normal,contact with patient,88kg,134cm
+E645B6DC-262F-7E6A-6B3C-80D0FF339D68,Gwangju,56,38.6°C,126mm/Hg,none,overseas inflow,40kg,145cm
+7E847990-17D7-3A6F-A316-B702AAE463B9,Incheon,18,37.1°C,142mm/Hg,none,contact with patient,82kg,176cm
+85BAD634-A514-3B5C-1B4A-CD0B8E3A0AF7,Daegu,50,38.3°C,139mm/Hg,chronic,public place,68kg,145cm
+D64A13E0-6C36-1160-4F1F-49D792044FC2,Suwon,15,37.4°C,135mm/Hg,normal,overseas inflow,87kg,135cm
+65CE5F02-8D62-9858-112D-98DFA4DA083B,Suwon,54,38°C,130mm/Hg,none,overseas inflow,60kg,162cm
+C9A88CAE-854A-9C37-57C7-E73FC596A188,Gwangju,13,37.4°C,130mm/Hg,normal,overseas inflow,82kg,137cm
+A971C76C-2CE5-644C-2B8F-DF965044911C,Busan,6,37.3°C,128mm/Hg,normal,overseas inflow,50kg,144cm
+0B0F4377-151C-97AB-87CA-72A40D970840,Incheon,16,38.4°C,130mm/Hg,none,public place,87kg,176cm
+07FA0D55-60D4-9FE3-6860-D429BC9D4A1D,Daegu,11,37.2°C,123mm/Hg,normal,public place,41kg,142cm
+EB342BC2-076B-247B-A0D6-ADB20CFF7E8B,Incheon,17,37°C,123mm/Hg,normal,contact with patient,41kg,136cm
+0D31E241-A4A5-271F-9960-13D17A501163,Seoul,54,37.5°C,123mm/Hg,normal,overseas inflow,48kg,146cm
+3829930E-4AAC-60D9-24E4-9AF7C7044248,Daegu,14,36.1°C,134mm/Hg,severe,public place,89kg,136cm
+9548ADEF-9B57-1B90-8A4E-1F255D079ED6,Ulsan,50,37.7°C,129mm/Hg,none,overseas inflow,47kg,158cm
+DD268275-9E94-7538-5A60-A937C2AF2219,Ulsan,16,37.1°C,121mm/Hg,normal,contact with patient,81kg,171cm
+033C33CC-75B9-0095-1E6D-778FCCD03E36,Gwangju,57,37.1°C,126mm/Hg,moderate,public place,45kg,164cm
+E94BF82B-084B-59E9-3A5B-4EEB2BEF912E,Daegu,13,38.9°C,120mm/Hg,moderate,overseas inflow,42kg,172cm
+E27A7CA1-A3B9-376A-5AD7-B0B37DDF6C2C,Busan,60,36.3°C,127mm/Hg,normal,overseas inflow,50kg,156cm
+BD71DA4E-4EF9-2D7A-3B02-5D2E89261E26,Incheon,19,38.9°C,124mm/Hg,none,public place,86kg,137cm
+4469C887-1A3E-8CF3-3911-C04EE0B02E28,Gwangju,12,37.8°C,141mm/Hg,normal,overseas inflow,48kg,147cm
+02CA05D7-3E4A-6E15-100D-7ADB93AB2039,Seoul,51,37.5°C,150mm/Hg,none,none,84kg,174cm
+CB6D8E57-76F9-9F72-4546-DD58E14D86DF,Ulsan,51,38°C,144mm/Hg,moderate,public place,59kg,148cm
+6CEB8511-1930-7B79-3027-BDBC8A2922B9,Seoul,13,38.4°C,146mm/Hg,none,overseas inflow,90kg,140cm
+FF66EBB4-993A-2232-10F9-B94F6035180E,Daegu,51,37.6°C,126mm/Hg,severe,overseas inflow,48kg,141cm
+88DC791B-157B-2E47-3129-E10791FB26D2,Incheon,16,36.3°C,141mm/Hg,chronic,contact with patient,84kg,138cm
+FC9F37DA-09A5-7D43-9C83-567F391B0188,Seoul,7,38°C,121mm/Hg,severe,overseas inflow,70kg,142cm
+656C1F17-466E-396B-40A0-E6E7DC2352F4,Suwon,17,36.2°C,146mm/Hg,severe,none,84kg,175cm
+B22EA950-8D6E-02AF-15CE-E2EB115B359A,Daegu,59,37.1°C,121mm/Hg,chronic,public place,43kg,149cm
+8797B2E4-4172-7778-4854-C619FD36720D,Ulsan,14,36.5°C,132mm/Hg,normal,contact with patient,86kg,130cm
+FF30B384-1AE2-739A-3F75-20E7CE8C01C8,Gwangju,8,37.6°C,147mm/Hg,normal,overseas inflow,40kg,153cm
+3F1ABC3D-1B5B-1052-169A-B6FAC58445B4,Daegu,19,36.4°C,144mm/Hg,none,contact with patient,90kg,137cm
+6DDBCC23-5F15-7415-714B-847375A61038,Daegu,52,36.6°C,122mm/Hg,none,overseas inflow,42kg,148cm
+A4CFC57D-6187-0A53-59A9-D34721C26CD2,Daegu,16,37.2°C,120mm/Hg,normal,contact with patient,82kg,179cm
+FFFD9CB1-0EAA-5A1F-9610-73DC81A23A04,Busan,52,38.1°C,120mm/Hg,none,public place,55kg,168cm
+F6647A43-1FEB-609F-4C91-57754622730F,Incheon,19,36.3°C,121mm/Hg,none,public place,84kg,131cm
+2C6B26A2-821B-87B7-4A1B-3C77F9D46B4D,Busan,58,37.7°C,120mm/Hg,none,overseas inflow,50kg,158cm
+583BB579-7414-A5F4-0DAB-F3F23287664D,Daegu,60,37°C,130mm/Hg,normal,none,83kg,172cm
+522992EB-9FA9-811E-237B-F0703CA438AA,Busan,51,38.6°C,147mm/Hg,severe,overseas inflow,62kg,140cm
+47695DB6-01A2-5B8A-7625-864F28494FB5,Incheon,13,37.5°C,149mm/Hg,normal,public place,81kg,171cm
+70A7C9B9-6863-118A-56DD-C6C35D774677,Daegu,50,37.3°C,121mm/Hg,none,public place,48kg,155cm
+3D477403-29F4-0863-1580-3BBFE9123DEC,Daegu,16,37.3°C,130mm/Hg,normal,none,90kg,175cm
+CF789F4F-990F-728F-66DA-FB7C24879BB0,Gwangju,60,37.9°C,124mm/Hg,normal,overseas inflow,65kg,155cm
+3E80E6FF-58C9-9C6A-795A-9ECA523991C1,Gwangju,16,36.6°C,120mm/Hg,normal,public place,44kg,136cm
+6AFB4639-9E1D-9BD2-4B07-EDDCB7708E70,Ulsan,60,37°C,129mm/Hg,chronic,overseas inflow,45kg,141cm
+C68BD3C0-31EE-5B15-2446-D2CE3DFD4DDB,Busan,17,36.4°C,146mm/Hg,moderate,public place,81kg,188cm
+A8D8CC65-3B5F-8452-6107-EF18D3F72E18,Busan,56,38.4°C,124mm/Hg,none,public place,48kg,154cm
+B2728691-5013-2329-9ABC-683D49DF1514,Gwangju,20,36.2°C,149mm/Hg,none,public place,87kg,135cm
+5DCC1F34-1B3D-0F62-A0AC-88786F9F7A7F,Busan,12,36.2°C,125mm/Hg,normal,overseas inflow,52kg,140cm
+CDFE4E66-3EF5-8C52-69BD-07D498E85504,Busan,18,38.3°C,123mm/Hg,none,public place,88kg,173cm
+732E6DD5-3FDF-421E-4505-F865D59C61AB,Ulsan,56,37.4°C,126mm/Hg,none,overseas inflow,49kg,148cm
+EC26451E-0B56-3794-05D7-786483152303,Suwon,20,38°C,144mm/Hg,chronic,contact with patient,73kg,185cm
+40C650E5-5CB2-70E3-6F8E-0B5EE6499FC2,Daegu,59,38.7°C,135mm/Hg,moderate,public place,42kg,162cm
+77238879-78B2-4557-1F34-47DB1C9726E1,Seoul,18,38.2°C,134mm/Hg,normal,public place,50kg,178cm
+F8D91C94-8160-438A-2777-C0E355D3670C,Gwangju,51,38.6°C,129mm/Hg,none,overseas inflow,55kg,158cm
+6013FCB7-6BBC-7E25-2853-225EE14580A0,Seoul,13,38.1°C,149mm/Hg,normal,none,82kg,171cm
+90CC0EB8-5654-40F3-4D2E-6E0F830A53DC,Busan,55,38.6°C,143mm/Hg,severe,overseas inflow,49kg,162cm
+E37FA297-1BF0-4016-77CD-97E2E34B189C,Daegu,13,37.3°C,126mm/Hg,normal,public place,88kg,174cm
+2811103F-4705-4B1D-081F-604B5DC20D6E,Seoul,60,37°C,130mm/Hg,moderate,public place,53kg,159cm
+3DEFF358-A49F-17AB-9468-068C71EE6830,Suwon,14,37.6°C,126mm/Hg,none,public place,87kg,130cm
+86156CE6-420D-44DA-7BB0-0322D4C8675A,Suwon,58,37.7°C,126mm/Hg,normal,overseas inflow,48kg,168cm
+15BA4E0E-2006-1651-0B85-83CD648F819A,Suwon,41,37.7°C,120mm/Hg,none,public place,47kg,140cm
+D45B01FB-7900-4749-29F8-7CF81C4668AE,Daegu,54,37.7°C,120mm/Hg,none,overseas inflow,70kg,159cm
+9DE5B66A-2491-60F5-42F0-8CDA6B9E78EF,Suwon,13,37.2°C,122mm/Hg,normal,overseas inflow,86kg,179cm
+41AE077A-9CEB-7E05-3B0A-3F43BB34A2AD,Busan,54,37.4°C,120mm/Hg,none,public place,46kg,173cm
+0A446E02-3BC8-0166-75B6-58CF8E6A5B50,Suwon,17,37°C,127mm/Hg,none,overseas inflow,80kg,170cm
+C28EF3B6-93B3-995C-09B0-894B80428A42,Suwon,52,37.8°C,123mm/Hg,none,overseas inflow,50kg,164cm
+F24E3BFB-0223-0EC0-0689-6845C045610F,Seoul,18,37.4°C,120mm/Hg,none,none,40kg,180cm
+DB9E87B5-3A2C-5E9B-2383-111D69F68CD6,Ulsan,58,37.1°C,121mm/Hg,none,overseas inflow,66kg,145cm
+B3D0E653-1A66-09A1-A009-6A7AADFA7B85,Busan,14,37.1°C,123mm/Hg,none,overseas inflow,73kg,174cm
+92435CE0-1FD3-9BE9-7977-8EA0DEFB2D30,Ulsan,52,38.8°C,128mm/Hg,moderate,public place,46kg,144cm
+EAC3F17C-3E56-4457-9D5A-F0B6D3B28556,Ulsan,14,36°C,125mm/Hg,severe,public place,45kg,131cm
+55816A12-8BC7-0880-7260-30E494E08430,Seoul,50,37.6°C,130mm/Hg,chronic,overseas inflow,64kg,160cm
+302A8C12-5DA6-2E23-9C18-8AC960BB3367,Daegu,18,37°C,130mm/Hg,none,public place,82kg,131cm
+AD5C593E-4DEC-586E-0F80-B0CF6DB885E5,Ulsan,7,38.8°C,138mm/Hg,chronic,overseas inflow,68kg,155cm
+F05AC014-7A0F-8B28-5188-675ACE084F39,Ulsan,18,38°C,126mm/Hg,none,overseas inflow,89kg,186cm
+5F3AE394-1A7B-2C51-01EF-35A282DC5FB3,Ulsan,54,37.1°C,123mm/Hg,normal,public place,42kg,157cm
+32EA6007-6278-017D-6593-7C703A480613,Daegu,52,37.8°C,121mm/Hg,none,none,44kg,133cm
+328FCE9D-907C-309F-1803-146EB0525F87,Busan,58,37.8°C,123mm/Hg,moderate,overseas inflow,42kg,143cm
+3D0F3C58-3F38-76E5-2620-EAF74BAA1C2E,Incheon,14,36.4°C,129mm/Hg,normal,contact with patient,86kg,138cm
+54EDCD5D-84B6-066F-3FA6-ACDF59311751,Daegu,54,37.8°C,122mm/Hg,normal,overseas inflow,64kg,160cm
+1F6ED93F-6375-56E8-3208-7B77FA6C3D3B,Ulsan,19,38.8°C,123mm/Hg,normal,contact with patient,84kg,179cm
+DDCF40E6-89FA-5310-A50F-2B2D5717887C,Daegu,50,36.8°C,140mm/Hg,none,contact with patient,51kg,164cm
+44A49FCC-636A-8EE4-8D3D-F18613887C42,Ulsan,14,37.4°C,127mm/Hg,severe,public place,87kg,139cm
+3CC08AFA-5887-4793-07CB-4441041517D6,Busan,10,38.1°C,123mm/Hg,none,overseas inflow,45kg,141cm
+C6AFF693-A363-06DB-8B21-7DA0B28304F2,Incheon,17,37.5°C,137mm/Hg,chronic,overseas inflow,85kg,135cm
+86097D9C-0EBB-0638-7A45-7875232B772B,Daegu,54,38.2°C,120mm/Hg,normal,overseas inflow,44kg,155cm
+A08BB91C-0E8C-701A-8DEC-A28DA5A167E1,Daegu,19,37.3°C,130mm/Hg,normal,contact with patient,85kg,173cm
+BD68D926-8303-10AB-3F5D-ABEADF539842,Busan,7,36.9°C,128mm/Hg,normal,public place,49kg,151cm
+B7D3B66A-519D-1A05-87A8-5FC0AD6F9E34,Ulsan,20,37.8°C,122mm/Hg,none,overseas inflow,82kg,137cm
+E7959B32-9D7C-01FC-9147-1AE2A7589C5C,Ulsan,55,37.3°C,127mm/Hg,none,overseas inflow,65kg,157cm
+EC0E1D67-4533-7153-3F0C-D87979D5543E,Incheon,14,36.4°C,133mm/Hg,none,contact with patient,81kg,132cm
+73757E81-2BED-5BF6-76DF-2C3B1D8819B5,Gwangju,53,36.4°C,129mm/Hg,normal,overseas inflow,47kg,152cm
+F44C963B-9870-7E1F-3672-87AD0A8F92B4,Incheon,18,37.9°C,129mm/Hg,chronic,contact with patient,80kg,171cm
+021C4EE6-38AF-77F8-56FD-2E324D492993,Ulsan,12,38.3°C,137mm/Hg,chronic,public place,41kg,157cm
+03A56FBD-8F36-03F6-317D-54010C5FA639,Busan,17,36.2°C,144mm/Hg,normal,contact with patient,47kg,138cm
+4FD18948-9E9B-4898-8A6B-0B5C265E825A,Suwon,56,37°C,128mm/Hg,none,overseas inflow,42kg,174cm
+43BD628C-9224-775C-98F7-1EB9C98E9878,Seoul,56,36.1°C,120mm/Hg,none,none,83kg,140cm
+AF8A12D1-5F27-9E32-3FE7-DE9467DC94E4,Daegu,56,37.2°C,120mm/Hg,chronic,overseas inflow,57kg,159cm
+19E32FD7-83A1-7370-2054-7C708FA71309,Ulsan,50,37.2°C,126mm/Hg,normal,overseas inflow,72kg,187cm
+E3B184D4-6BE3-5278-6044-6AFCDCA0490D,Daegu,60,37.8°C,149mm/Hg,none,public place,57kg,159cm
+10AAEE6A-8E34-002A-28EA-6297C184A247,Daegu,14,38.3°C,144mm/Hg,normal,public place,80kg,134cm
+8D4E957B-1031-7F8F-562B-5862FF8124BD,Seoul,12,37.2°C,124mm/Hg,normal,overseas inflow,45kg,140cm
+75E0EF9C-727A-0E7A-95C5-DD1B08F0A0D9,Busan,19,37.2°C,127mm/Hg,normal,public place,82kg,134cm
+08FBA9F9-3523-7B56-3614-5381F1774FD6,Ulsan,56,39°C,122mm/Hg,normal,overseas inflow,45kg,149cm
+6B00F4E9-1246-1B41-987E-41D4E4237B74,Seoul,19,37.4°C,121mm/Hg,none,none,84kg,177cm
+8B823E51-0BA6-074B-6FBA-5C52858314EA,Incheon,59,37.5°C,121mm/Hg,none,public place,50kg,143cm
+4A30CA6C-4D02-5655-6D74-8C9C9C125A1A,Ulsan,17,36.1°C,121mm/Hg,none,none,82kg,134cm
+4E158C3C-02AC-0435-A67E-76774E6B361B,Daegu,11,38.8°C,123mm/Hg,none,overseas inflow,47kg,149cm
+962390B8-5BA4-7319-5D63-4C1B9000A169,Suwon,13,37.5°C,125mm/Hg,normal,contact with patient,87kg,137cm
+430D2A35-34B7-41DC-764B-5D9854B06418,Seoul,9,37.9°C,129mm/Hg,moderate,overseas inflow,62kg,175cm
+0082AA7F-64FC-0D52-1701-087832EE3CBD,Seoul,55,37.7°C,123mm/Hg,none,contact with patient,81kg,185cm
+9A5A1065-7531-861E-3823-87FD8CAD2C85,Busan,55,38.2°C,125mm/Hg,normal,public place,51kg,151cm
+FF79F02B-758B-1E24-8353-406A75C10C27,Ulsan,17,36.6°C,148mm/Hg,normal,public place,85kg,137cm
+6F0C3220-1842-0616-8AEE-F8C3F7DA0235,Seoul,57,36.1°C,130mm/Hg,none,overseas inflow,44kg,153cm
+8E4C6D4C-23A8-46E6-641F-30D163E33D9D,Busan,18,37.3°C,126mm/Hg,none,contact with patient,43kg,132cm
+E1256FDD-175F-149A-949C-7AE954BE2A17,Ulsan,14,37.7°C,121mm/Hg,none,overseas inflow,54kg,159cm
+8A790E01-9D1E-5B7C-041B-43700EFD5CA4,Busan,14,38.2°C,128mm/Hg,none,contact with patient,82kg,180cm
+7E1B8CA8-7FE8-3207-01C8-6ED220403776,Incheon,53,37°C,126mm/Hg,normal,public place,41kg,146cm
+A9D009CB-7124-6C3B-A0EE-6A55E8CC0EE6,Daegu,14,37.4°C,125mm/Hg,none,public place,41kg,177cm
+10BBBD58-A00B-58A8-5B0E-6257ECC54C34,Ulsan,52,37.6°C,121mm/Hg,normal,overseas inflow,40kg,173cm
+3011DF97-1A47-0755-4956-1C485B8A6174,Incheon,13,37.8°C,137mm/Hg,moderate,contact with patient,48kg,175cm
+8C489CE2-60E3-9006-9CC2-87FF7A6F4FC1,Busan,52,37.9°C,122mm/Hg,none,overseas inflow,67kg,161cm
+CA0B9A2D-1252-16E6-42DB-F184749188ED,Gwangju,17,37.4°C,147mm/Hg,none,public place,73kg,174cm
+507CE612-3BD9-2EE0-94A4-DCF65B925FC6,Ulsan,14,37°C,125mm/Hg,none,public place,55kg,151cm
+88EFF17E-792E-6DBA-29B1-B3B55F98393B,Ulsan,16,37.5°C,122mm/Hg,none,overseas inflow,42kg,176cm
+5D30B36D-32A9-A6B2-8CC7-B429193769E4,Gwangju,11,36.2°C,130mm/Hg,moderate,overseas inflow,42kg,155cm
+F15376A9-28B0-91E2-8B7B-A2ABE2551DD3,Gwangju,20,38.8°C,130mm/Hg,none,overseas inflow,85kg,130cm
+51BD2292-09C3-08D9-9E37-08F785D79F20,Ulsan,52,37.1°C,127mm/Hg,none,overseas inflow,40kg,169cm
+47D265A4-547E-2DA2-6A6D-E7B8D8473B7B,Seoul,14,37.3°C,127mm/Hg,chronic,public place,88kg,179cm
+B79E44FB-8BB5-234E-27A8-B95614123348,Daegu,11,37.7°C,124mm/Hg,normal,public place,53kg,166cm
+B73B59FA-2491-5552-8342-E8D9922F99B7,Suwon,19,37°C,142mm/Hg,severe,contact with patient,44kg,138cm
+69AAB332-6B9B-123C-4189-372CA5E06DCD,Suwon,55,37.4°C,121mm/Hg,none,overseas inflow,57kg,158cm
+AD3EE565-8243-6776-7A18-F289541A7208,Daegu,14,37.8°C,123mm/Hg,none,public place,82kg,133cm
+F1C052B8-9C98-A753-33C1-08B3D16C4840,Daegu,52,37.4°C,122mm/Hg,moderate,overseas inflow,42kg,156cm
+3534917E-887C-84C7-95E2-4FFBAAA6057B,Busan,16,38.2°C,125mm/Hg,normal,public place,89kg,180cm
+F54EFE82-2724-885B-87E7-C7710AD57E41,Gwangju,54,36°C,129mm/Hg,normal,public place,45kg,151cm
+EC6369E4-029B-84FC-4602-AFA16D2B3827,Daegu,16,37°C,129mm/Hg,normal,contact with patient,85kg,138cm
+8A09925C-41E9-816D-97DF-9925C1CB005C,Seoul,59,38.6°C,125mm/Hg,moderate,overseas inflow,40kg,161cm
+9262428A-08A1-2036-1D38-29B1995D3585,Incheon,20,36.4°C,148mm/Hg,none,contact with patient,83kg,175cm
+A63C71D4-7E66-1163-5CB1-1DFB59575E79,Daegu,10,37.5°C,130mm/Hg,chronic,overseas inflow,43kg,143cm
+E2E66AAF-06BD-47C6-9ED9-BDA21F34445B,Gwangju,42,38.9°C,140mm/Hg,normal,overseas inflow,80kg,171cm
+7A7709F5-5491-8A69-1FB1-C2AB6AA14499,Ulsan,7,37°C,125mm/Hg,normal,none,48kg,165cm
+EE552A41-8753-192D-8E48-2C83BEE84EF5,Suwon,14,37.5°C,136mm/Hg,none,contact with patient,88kg,134cm
+D84CAD5D-4550-023C-707A-7C302E4773E2,Gwangju,60,37.3°C,120mm/Hg,severe,overseas inflow,46kg,148cm
+D04A8A42-50AD-3FB9-835E-F1C5386A9C5C,Daegu,15,37.8°C,145mm/Hg,normal,overseas inflow,84kg,180cm
+93070F09-7825-11E7-1431-886103451553,Suwon,52,37.4°C,135mm/Hg,none,overseas inflow,47kg,146cm
+38818A2F-7B08-5093-2CE2-3B66AAC15CE4,Daegu,19,36.6°C,126mm/Hg,normal,overseas inflow,83kg,172cm
+BA57A26B-3BC7-42C8-9978-3EF25B95274A,Busan,59,37.9°C,128mm/Hg,normal,public place,47kg,154cm
+3160903A-61F4-1DEF-0042-597EBAEE0CDC,Daegu,13,37.2°C,122mm/Hg,none,contact with patient,81kg,131cm
+ADB9414B-22D0-3F58-7EDC-8D796AD32D80,Ulsan,9,38.8°C,124mm/Hg,severe,overseas inflow,44kg,144cm
+8CA039F0-499B-5E81-15AB-5212FEB9A34C,Daegu,15,37°C,135mm/Hg,chronic,contact with patient,40kg,171cm
+FD73CD01-4A03-59E6-4051-367E74C47B77,Incheon,52,37.8°C,127mm/Hg,none,overseas inflow,46kg,145cm
+2AEB23A0-4BC7-784E-A30C-9BBAA1AC82A4,Seoul,18,37.3°C,125mm/Hg,normal,none,81kg,178cm
+46063171-8BA9-8467-7173-5D16252D55FA,Suwon,14,37.9°C,120mm/Hg,normal,public place,48kg,148cm
+7EA6A98C-2C8F-36EA-483E-85DDF8A9A3F9,Busan,19,37.7°C,121mm/Hg,normal,none,81kg,138cm
+EA2A495D-1E8F-1E95-6CB3-8E8EBFF41E31,Gwangju,55,38.1°C,125mm/Hg,severe,overseas inflow,41kg,146cm
+E9ECE4BC-03FB-A54A-29E9-562B22317ED3,Daegu,18,38.1°C,120mm/Hg,normal,contact with patient,85kg,132cm
+FB72E0DA-7178-9DC5-A60A-B1423283566C,Daegu,56,36.2°C,125mm/Hg,severe,overseas inflow,53kg,163cm
+EEFBBE1A-3513-35F8-98A6-BEB9E40CA56B,Gwangju,17,36.8°C,135mm/Hg,normal,none,81kg,180cm
+87D9F41E-918E-7176-9B48-73601DF6487D,Ulsan,52,37.7°C,145mm/Hg,severe,public place,48kg,144cm
+A52D7DD8-3F2D-2964-7571-B68BBC7E7022,Daegu,15,38.6°C,129mm/Hg,none,none,50kg,131cm
+09B9F85F-A59F-9EFA-38E5-CC5F5C0C3253,Ulsan,14,37.4°C,144mm/Hg,moderate,overseas inflow,50kg,163cm
+0D15E518-6D26-03E9-9499-B80E530D2C82,Busan,19,37.7°C,127mm/Hg,none,contact with patient,40kg,139cm
+162F5172-45CF-7098-94A4-31C7FA97994C,Busan,12,37.4°C,125mm/Hg,normal,overseas inflow,46kg,157cm
+AC05320D-250D-65E5-0A51-4CBB8AEC8990,Daegu,57,38.2°C,144mm/Hg,severe,public place,77kg,177cm
+0B97005A-3EEF-9D51-6F10-0DF59A0930EB,Suwon,54,38°C,134mm/Hg,chronic,public place,49kg,142cm
+BE70C91A-4B51-3062-0501-7F003D9A0E1A,Busan,14,38°C,133mm/Hg,normal,public place,46kg,138cm
+DE06E86C-5DBE-396E-5BF1-C9715AF1904B,Gwangju,55,38.3°C,122mm/Hg,chronic,overseas inflow,57kg,169cm
+CC56FC60-3E33-A54F-2440-9B5F155737CD,Ulsan,20,37.7°C,150mm/Hg,none,public place,89kg,137cm
+C9D15977-6550-2D84-6CB1-6E7D00EE8EA4,Incheon,54,38°C,137mm/Hg,chronic,overseas inflow,40kg,152cm
+EB6E77E9-840B-5307-43DF-BEDC307489BD,Incheon,17,37.2°C,127mm/Hg,normal,public place,87kg,189cm
+6F439EAA-5CDB-15E5-1691-BB5347AD03A5,Ulsan,54,37.4°C,149mm/Hg,normal,none,49kg,153cm
+FBB339EA-41A8-532F-46B7-A31A1C067031,Ulsan,15,38.9°C,130mm/Hg,normal,contact with patient,48kg,135cm
+11EAAB56-8D0D-53F3-5CFE-B01A4F457D28,Ulsan,59,36.9°C,137mm/Hg,none,overseas inflow,69kg,161cm
+E8AE9778-A749-5369-5454-1B7D51A424E9,Suwon,16,37.3°C,123mm/Hg,severe,public place,85kg,131cm
+CF1E02AB-165F-A168-A132-073E29527F9C,Ulsan,11,37.6°C,133mm/Hg,chronic,overseas inflow,66kg,152cm
+80B144C3-5FC6-8AFC-A6A7-274C021DA74A,Busan,13,38.3°C,144mm/Hg,normal,overseas inflow,72kg,186cm
+A895A360-6A16-20D5-121E-13630E75670D,Suwon,58,37.9°C,143mm/Hg,none,public place,47kg,146cm
+F933D7FA-5CB6-83DC-63F2-5A02EE3178ED,Incheon,18,37.8°C,121mm/Hg,none,contact with patient,44kg,136cm
+3E79CD0E-21D4-2EFC-4BDA-E5CFCB707A87,Busan,56,36.4°C,133mm/Hg,normal,overseas inflow,46kg,160cm
+F92FA95F-8547-6D21-89E7-94377D5557CB,Seoul,16,38.5°C,121mm/Hg,normal,overseas inflow,43kg,131cm
+79FFB867-1FE5-3F0F-0F63-39F843B375F7,Seoul,13,37.2°C,132mm/Hg,severe,overseas inflow,63kg,159cm
+A4DC70EF-2B56-6946-37E9-F518432C3E48,Busan,13,37.2°C,138mm/Hg,none,overseas inflow,80kg,188cm
+AD537C00-38C9-4AA2-44C4-16F8DA441095,Busan,53,37°C,139mm/Hg,moderate,public place,56kg,155cm
+B8215E7F-8757-9A47-218C-42B162B004AF,Seoul,56,38.6°C,128mm/Hg,normal,overseas inflow,88kg,133cm
+EB9BD152-5494-5965-177E-D4C00F7E9D68,Gwangju,56,36.2°C,126mm/Hg,normal,overseas inflow,63kg,157cm
+4E2B4AB4-2F9D-769A-31C9-098789109C57,Busan,18,38°C,145mm/Hg,severe,overseas inflow,49kg,136cm
+BF0EEE9E-57EB-7E3C-153D-2E349DD41A48,Incheon,54,38.5°C,123mm/Hg,none,overseas inflow,60kg,158cm
+F5B9234C-0C66-5803-441A-845C2BD065BC,Suwon,59,36.3°C,129mm/Hg,severe,contact with patient,72kg,173cm
+B5A4E8EF-6EFD-6BB8-07AC-D7B31C314547,Daegu,11,38.2°C,124mm/Hg,none,public place,47kg,153cm
+9FC8257E-527A-20CE-0F26-23FC2A2F45A5,Ulsan,18,36.6°C,123mm/Hg,none,public place,89kg,138cm
+63504C63-4DFA-86BC-9699-0BF000FE1E42,Busan,50,38.1°C,125mm/Hg,normal,overseas inflow,67kg,152cm
+57EEE6CD-3B5E-A41B-5B3E-BD8901964B7E,Seoul,18,36.9°C,123mm/Hg,normal,overseas inflow,47kg,138cm
+E479340C-9DB7-1AFE-0E10-5751E2C40EF7,Gwangju,50,37.6°C,127mm/Hg,none,overseas inflow,40kg,153cm
+56291FC3-8750-0AF7-99E8-5815FBB36095,Busan,14,38.1°C,149mm/Hg,none,public place,71kg,180cm
+8E9F93C3-647B-5F75-7BB3-4DFA44EF3E30,Daegu,52,38.9°C,146mm/Hg,severe,public place,42kg,152cm
+AE9B587A-0236-402C-94A0-BE461A0088D7,Ulsan,18,37.9°C,125mm/Hg,chronic,contact with patient,80kg,131cm
+86341CF1-20B2-A20F-5B73-2970BD879CC6,Gwangju,51,37°C,123mm/Hg,none,overseas inflow,43kg,151cm
+CF72B83A-A281-2E46-3D20-04352ABA37AA,Daegu,17,37.2°C,136mm/Hg,normal,contact with patient,43kg,135cm
+523CA6D3-7729-6CE5-0D02-A3A8DC418AC7,Suwon,51,37.3°C,146mm/Hg,chronic,overseas inflow,46kg,149cm
+08844E2B-2FDC-668F-6B1F-550FCBB940FD,Busan,14,37.1°C,120mm/Hg,normal,overseas inflow,87kg,180cm
+E837AE72-08D4-09B9-1060-CB47C1664D12,Gwangju,60,37.9°C,135mm/Hg,normal,public place,48kg,143cm
+C2F538D9-4E8E-11CD-2497-090885384EE5,Daegu,41,36.9°C,127mm/Hg,normal,overseas inflow,85kg,130cm
+746C553C-76BA-4ED5-1601-940604722237,Ulsan,13,36.8°C,150mm/Hg,severe,overseas inflow,58kg,158cm
+A6409E51-2B4F-9809-445E-A8D1F2C88429,Incheon,19,37.1°C,127mm/Hg,normal,overseas inflow,80kg,136cm
+9F493C09-85B8-4956-1021-683B0E42230A,Daegu,53,37.6°C,122mm/Hg,normal,overseas inflow,52kg,172cm
+0E6EF17B-252A-3D4E-04F2-B0A5DD5954C0,Ulsan,20,37.4°C,130mm/Hg,none,contact with patient,80kg,177cm
+8F804D28-9033-6718-0F36-BC7F55A658B8,Ulsan,58,37.6°C,126mm/Hg,normal,public place,57kg,172cm
+8298A85B-9094-06D8-0B89-5549817A0FF7,Gwangju,15,37.1°C,128mm/Hg,none,none,41kg,135cm
+701C2589-0CBF-3E81-2D5E-D11AF5388DA7,Suwon,14,38.8°C,150mm/Hg,none,overseas inflow,47kg,154cm
+7E72D434-8FCB-5EE7-3BEA-18FB0A4F7AE7,Daegu,16,37.3°C,129mm/Hg,normal,public place,86kg,136cm
+D67A9EAB-04CC-8216-7C1B-F6F50F200ACF,Busan,58,38.9°C,143mm/Hg,severe,overseas inflow,50kg,173cm
+CF5862B5-39C8-433C-2799-9543F13A5BC0,Gwangju,17,38.2°C,120mm/Hg,none,public place,70kg,188cm
+E69069D2-6F6E-9276-44BB-4CCC2BE69240,Suwon,54,37.8°C,121mm/Hg,normal,public place,43kg,153cm
+A6008BD6-59B7-1D31-8B57-692F9AB301E6,Ulsan,13,37.9°C,124mm/Hg,normal,contact with patient,82kg,131cm
+4C9DC38E-9F0A-9569-A028-282F68DA5C2C,Gwangju,11,37.7°C,123mm/Hg,normal,overseas inflow,46kg,150cm
+E285A688-0557-0A01-5139-25CC73738A03,Seoul,19,37.7°C,127mm/Hg,normal,contact with patient,49kg,132cm
+A8BE4CF0-423C-3439-5372-D3CD46977059,Daegu,59,39°C,127mm/Hg,none,overseas inflow,68kg,153cm
+54B9048D-8EE6-2DCF-51F6-1F84B7D25A45,Incheon,20,37.4°C,150mm/Hg,none,contact with patient,74kg,174cm
+52B5A036-7279-0FCA-28D4-A46CD3652316,Incheon,52,37.1°C,127mm/Hg,none,public place,42kg,149cm
+CE810F8B-7581-7883-704B-242CD0999925,Busan,19,36.6°C,127mm/Hg,normal,none,83kg,133cm
+E9B11EBC-4D30-A099-3F30-86DDD6EC0509,Gwangju,50,36.4°C,137mm/Hg,moderate,overseas inflow,42kg,147cm
+B0374264-2445-2605-1D2C-329A63B0521A,Seoul,17,38.8°C,122mm/Hg,none,overseas inflow,87kg,136cm
+1379EF53-4254-807B-9A7E-FCC5A7072134,Seoul,54,38°C,126mm/Hg,none,overseas inflow,65kg,155cm
+397C832C-6BF1-68E4-428B-CA08D1DD7C03,Daegu,15,37.4°C,134mm/Hg,none,public place,83kg,175cm
+E6DA6C69-8391-2537-8A8E-AD0BBE4A7E91,Gwangju,11,37.6°C,128mm/Hg,severe,public place,70kg,153cm
+F0B0093C-29FC-A2BB-263A-7E20E6195327,Incheon,15,36.9°C,124mm/Hg,moderate,none,44kg,180cm
+6DD4331E-815B-5E10-1229-8C1D77910BEE,Daegu,52,38.1°C,123mm/Hg,moderate,overseas inflow,43kg,147cm
+2F5E8A37-A27E-8317-A739-183F5542758F,Suwon,59,36.6°C,145mm/Hg,chronic,overseas inflow,46kg,138cm
+BB4F9EDB-0E82-52E6-23A1-1CE81FDD0C72,Busan,60,38.1°C,126mm/Hg,none,overseas inflow,50kg,153cm
+353A31CB-8B27-38A3-0D6C-0948436038D1,Suwon,15,36.4°C,149mm/Hg,normal,contact with patient,74kg,172cm
+3D8F6F01-8A2A-7B3B-66B7-62309D9F129C,Daegu,51,37.5°C,139mm/Hg,chronic,none,58kg,140cm
+9C805A46-9590-0DB4-01A0-F44DC2B3495B,Busan,16,37.7°C,129mm/Hg,none,overseas inflow,89kg,138cm
+0D2407B7-1E85-2E70-3F1C-2106F2910578,Incheon,57,37.1°C,121mm/Hg,none,overseas inflow,70kg,152cm
+0A0481A3-4E74-9C1C-851F-1632084B8092,Seoul,17,37.6°C,130mm/Hg,severe,public place,48kg,179cm
+A745DBDD-970B-58D1-236A-C9D23E0A3A5D,Ulsan,57,36.5°C,141mm/Hg,chronic,overseas inflow,49kg,153cm
+87B09809-64E6-1D18-99D8-A2C65B74229B,Daegu,19,37.1°C,122mm/Hg,none,overseas inflow,82kg,176cm
+743EC1A9-7273-69E1-0841-12A9BED03302,Suwon,54,37.1°C,122mm/Hg,none,public place,64kg,141cm
+8FB3AC9B-5E03-A3B7-3150-FFBAD88972B6,Seoul,17,37.5°C,121mm/Hg,moderate,overseas inflow,45kg,136cm
+E6599962-2563-20EA-7F46-87F1DE160FAB,Busan,55,39°C,121mm/Hg,severe,overseas inflow,47kg,159cm
+C0373B04-6554-85E0-5F60-2DB262E51CE5,Suwon,20,37°C,130mm/Hg,chronic,contact with patient,84kg,139cm
+9148A0B9-74F1-6DA0-12FB-FB53ECD70066,Incheon,10,37.2°C,148mm/Hg,chronic,overseas inflow,57kg,142cm
+DE120493-359E-50F3-07CA-2EC115B28650,Seoul,17,37.9°C,129mm/Hg,normal,public place,81kg,175cm
+D980883C-7952-7A06-4804-8859AB5B0AFC,Suwon,56,37.4°C,135mm/Hg,none,public place,42kg,168cm
+49A86B0E-1AA3-3F74-9CCF-9CE51BB89E2A,Gwangju,15,37°C,123mm/Hg,none,overseas inflow,90kg,133cm
+0AA229A1-A3FC-1E3E-1DB6-49A6F48F07A2,Incheon,54,36.7°C,129mm/Hg,none,overseas inflow,49kg,172cm
+119CD8E8-340B-5002-098D-720391F75F4B,Seoul,15,37.2°C,143mm/Hg,normal,public place,45kg,132cm
+260DB4BE-8FEC-2BE6-209F-F5519D52934F,Ulsan,51,37.1°C,138mm/Hg,moderate,overseas inflow,48kg,155cm
+42B5D4CB-25DE-2DC4-0CC1-9643360E836A,Gwangju,18,36.8°C,123mm/Hg,severe,overseas inflow,88kg,179cm
+36FA7BB8-14B6-4C5E-A126-8114CF1D3D9A,Ulsan,59,37°C,143mm/Hg,normal,public place,63kg,140cm
+FC07CA7D-125D-1B55-247C-DC8368DE77B7,Busan,13,37.3°C,128mm/Hg,none,none,50kg,137cm
+2EC99024-9EE9-337D-017A-99D04A6D67E1,Gwangju,58,37°C,122mm/Hg,none,overseas inflow,45kg,167cm
+706790AE-077D-8C71-0876-4CE0FF8765F9,Suwon,57,38.3°C,145mm/Hg,normal,public place,46kg,133cm
+36A59123-3BBA-5217-5826-71001089539A,Busan,11,38.3°C,129mm/Hg,none,overseas inflow,49kg,157cm
+7C6458CA-1CC7-7ED1-A670-F26137F12CBC,Ulsan,13,38.6°C,124mm/Hg,normal,contact with patient,71kg,174cm
+E4D614A3-277C-881F-34E6-D5D8A0C08873,Busan,53,36.2°C,127mm/Hg,none,public place,57kg,152cm
+0D5B2B67-6111-11B9-3E84-8D50290F31F6,Busan,19,37.2°C,144mm/Hg,chronic,overseas inflow,41kg,133cm
+EE07FC0D-0790-8BC9-4177-F25F2407A3F0,Incheon,60,36°C,140mm/Hg,normal,overseas inflow,50kg,146cm
+49A42EAE-3517-4E64-3F1B-A5C15DF892DE,Incheon,20,39°C,126mm/Hg,normal,none,50kg,134cm
+9E9763A9-48C0-8163-5725-9E9A319D893F,Suwon,50,38°C,133mm/Hg,severe,overseas inflow,47kg,146cm
+FB7BFD75-5CCC-025B-173E-D5603CFF114D,Ulsan,13,36°C,128mm/Hg,normal,public place,79kg,189cm
+36CA54F8-84D7-1865-55CE-BB431A00A76D,Suwon,50,37.2°C,148mm/Hg,normal,public place,61kg,158cm
+F5B1BD75-5265-9A00-3880-7874EC8E6D8B,Seoul,20,37.9°C,129mm/Hg,severe,contact with patient,86kg,130cm
+F0CC7A40-5D29-3984-0C1E-3AC865FC52BD,Seoul,50,36°C,129mm/Hg,normal,overseas inflow,44kg,160cm
+B9148330-47C2-738F-87D7-24D3E2AA7F36,Daegu,17,39°C,128mm/Hg,moderate,overseas inflow,80kg,172cm
+5CA6E35B-681C-487E-74BA-4F31048FA67E,Ulsan,53,37.2°C,138mm/Hg,normal,overseas inflow,60kg,144cm
+9BAD86B1-7B8C-8EFD-6924-245590A7067D,Incheon,16,36.8°C,130mm/Hg,none,none,88kg,170cm
+221FC40F-3E51-8DCB-6142-7EF5DADC931D,Busan,60,37.8°C,120mm/Hg,none,public place,40kg,174cm
+7E6951ED-6819-6DF8-0B9E-360B970E4FAE,Ulsan,19,38°C,124mm/Hg,none,contact with patient,86kg,139cm
+B72BA68A-69A6-8B8B-32A4-C841092298DF,Incheon,50,36.9°C,124mm/Hg,normal,overseas inflow,54kg,159cm
+6DED364C-4AB7-2C63-7F4D-67918FC76153,Daegu,17,38°C,125mm/Hg,moderate,public place,81kg,139cm
+38CB15BE-01B5-3809-7518-1222CCB88EE7,Gwangju,54,38.6°C,131mm/Hg,chronic,overseas inflow,44kg,149cm
+99167225-4247-74E8-65B9-EBBA2DC72421,Ulsan,18,37.9°C,124mm/Hg,normal,overseas inflow,72kg,180cm
+33797EEC-54ED-391A-1A24-04BAFB8D04A7,Ulsan,60,37.3°C,131mm/Hg,normal,public place,45kg,145cm
+02A5F1A2-9919-4972-97E4-F47E97EA4416,Suwon,15,39°C,124mm/Hg,normal,public place,84kg,139cm
+351704D5-5532-396C-0F4A-7E63933B3400,Busan,7,38.8°C,121mm/Hg,none,overseas inflow,50kg,144cm
+83B4BA6C-9483-2263-8F69-3DD393333123,Gwangju,14,37.9°C,126mm/Hg,none,public place,85kg,130cm
+EEE4EC13-0D35-135F-3781-989B6B7E57E7,Suwon,60,36°C,143mm/Hg,none,overseas inflow,41kg,152cm
+58FC7384-65B2-664C-11D5-DBF0FB0B8029,Daegu,18,38.4°C,126mm/Hg,none,contact with patient,90kg,186cm
+D4F7364B-2EE3-3657-08DB-913A47262553,Ulsan,52,37.8°C,121mm/Hg,chronic,public place,44kg,163cm
+F70B92A8-613C-389E-32F1-BAA526A66E85,Gwangju,20,38.1°C,122mm/Hg,normal,contact with patient,83kg,137cm
+C8EBDD2E-782A-3C14-74CA-DE95227F5CBC,Seoul,6,37.2°C,126mm/Hg,none,overseas inflow,63kg,144cm
+CE26CADC-9332-7B9E-51A3-A6DB925C1D63,Seoul,59,36.4°C,124mm/Hg,normal,public place,45kg,130cm
+FAF1E92D-119E-3AFA-0272-26273875042E,Daegu,55,38.3°C,130mm/Hg,severe,overseas inflow,44kg,151cm
+5D13F770-181E-4DA3-8E31-A9BCF83F044B,Gwangju,17,36.7°C,121mm/Hg,none,overseas inflow,87kg,178cm
+80CB8297-8E2D-6D68-8D18-F605496872AD,Gwangju,53,37.8°C,136mm/Hg,severe,public place,59kg,163cm
+E73FE2A2-8713-997B-837E-D49EA8335A80,Ulsan,18,38.4°C,138mm/Hg,chronic,contact with patient,82kg,176cm
+2344E568-63B5-8167-1897-C04165322C2A,Busan,52,38.9°C,121mm/Hg,none,overseas inflow,40kg,142cm
+253683AD-A031-1841-A1DA-B66361E7495B,Ulsan,15,38.9°C,130mm/Hg,none,public place,42kg,138cm
+9716D518-7D90-66F2-445D-2BD916B30613,Daegu,57,37.3°C,127mm/Hg,normal,overseas inflow,62kg,143cm
+DA0E550B-A19E-8E25-2AA4-0E6A4F49007B,Incheon,13,36.6°C,128mm/Hg,normal,public place,76kg,171cm
+1C648E7D-4720-50B4-48F8-A21E21825945,Seoul,54,36.7°C,146mm/Hg,normal,public place,55kg,159cm
+B7A182FE-4CDA-6CDE-4CC0-EE0A17CE3FDF,Incheon,60,38.4°C,134mm/Hg,chronic,overseas inflow,89kg,133cm
+D1493EE6-8498-740F-71B8-CA0FED773EB1,Busan,56,37.4°C,121mm/Hg,severe,overseas inflow,53kg,141cm
+E2FA8A66-3087-8AB4-1D3F-4F5EBDC34CD3,Ulsan,17,36.7°C,124mm/Hg,severe,overseas inflow,42kg,133cm
+AF83CB4F-5A36-093E-67FF-2260483E6BB8,Ulsan,58,38.6°C,146mm/Hg,none,overseas inflow,49kg,148cm
+0C932037-4B0D-A7B9-9F11-0395D5628C86,Busan,13,36.9°C,122mm/Hg,moderate,public place,84kg,187cm
+2C650501-93CC-A216-9FDF-924942487559,Incheon,60,38°C,130mm/Hg,normal,public place,43kg,155cm
+BAED3429-9673-139A-7F4A-255B01069397,Daegu,14,37.3°C,130mm/Hg,none,overseas inflow,84kg,136cm
+1A33F06C-6000-8AD9-3F89-DE104C120F62,Ulsan,57,37.4°C,127mm/Hg,normal,overseas inflow,61kg,158cm
+FB21EB0A-92BB-7292-9C1C-5D43DB585307,Daegu,18,38.7°C,126mm/Hg,severe,contact with patient,83kg,132cm
+06FE5A94-0485-90EB-4451-B728B1270497,Ulsan,53,36.2°C,122mm/Hg,none,overseas inflow,50kg,160cm
+D9CA394E-02C6-4D02-4926-DA5C278E3879,Gwangju,20,37.7°C,130mm/Hg,none,contact with patient,87kg,174cm
+6FD8BDCF-83A9-1FD8-99CD-6F0AA2384CCB,Suwon,50,36.6°C,142mm/Hg,normal,public place,55kg,157cm
+9C444A5B-853C-02E8-53A4-B91C81B10281,Ulsan,18,37.3°C,127mm/Hg,none,contact with patient,83kg,139cm
+3B7237E4-3117-6DE7-4AC6-E4ED5D757E1E,Suwon,50,36.7°C,124mm/Hg,none,overseas inflow,48kg,175cm
+42F2095F-49B6-3630-5CD4-BC31CA5E22C8,Busan,44,37.9°C,128mm/Hg,none,public place,83kg,135cm
+6E806DD6-A4F5-13F9-0945-81D0D5CFA067,Daegu,50,37.2°C,121mm/Hg,normal,overseas inflow,44kg,152cm
+04D45518-934B-4E9A-3B08-515D97D6427B,Ulsan,52,39°C,122mm/Hg,normal,contact with patient,83kg,175cm
+37D71A7B-7C9D-0490-5D36-DD72C6226DFF,Daegu,59,38.1°C,146mm/Hg,severe,public place,42kg,148cm
+A0F032F4-542C-14BB-4269-AA84CC7D67B8,Ulsan,18,36.9°C,127mm/Hg,normal,none,84kg,175cm
+BF1BF7A7-8329-7501-63A0-293185DB0642,Incheon,6,37.2°C,131mm/Hg,none,overseas inflow,47kg,154cm
+C6E93444-01E4-4A8A-5153-BD1C587894F0,Suwon,55,38.9°C,149mm/Hg,severe,public place,88kg,131cm
+1C1B1D55-58E3-97B0-1834-9B46AC387EE0,Suwon,60,37.2°C,126mm/Hg,none,overseas inflow,43kg,165cm
+E2A3422A-181D-4430-8770-5F40908D5F04,Busan,47,38.6°C,121mm/Hg,normal,none,80kg,190cm
+59AF8AB8-6C7F-35B0-5125-F828EF3A9617,Busan,12,37.5°C,144mm/Hg,severe,public place,44kg,145cm
+9ADE8A90-9E2C-28D2-6706-814081122106,Busan,19,36.7°C,128mm/Hg,chronic,public place,82kg,134cm
+4D536130-8D9E-0155-277B-B5D472B43380,Daegu,52,36°C,127mm/Hg,severe,overseas inflow,60kg,147cm
+9C81D987-2F58-0941-60BD-5AB6CACB5B32,Seoul,43,36.1°C,120mm/Hg,normal,overseas inflow,46kg,133cm
+210D91B3-3E14-1AAD-84C2-358AD3A4A477,Ulsan,57,37.9°C,138mm/Hg,chronic,overseas inflow,54kg,142cm
+AEF6E42C-748E-0C2C-6FAC-BC67AC6B5B6F,Ulsan,15,37.6°C,137mm/Hg,none,none,88kg,172cm
+B312BD60-7146-3BEB-5E79-8EBFC246A70A,Gwangju,58,37°C,127mm/Hg,none,contact with patient,44kg,151cm
+12D6AAA4-043C-6E91-5D61-7CD4DBEA754C,Incheon,20,38.3°C,125mm/Hg,normal,none,41kg,175cm
+BE67CC83-54D9-5678-01E0-561233BE9375,Daegu,57,38.5°C,123mm/Hg,none,overseas inflow,61kg,166cm
+01E72D39-A310-1A0E-14D3-E434681859C4,Seoul,15,36°C,125mm/Hg,severe,overseas inflow,87kg,135cm
+ED520948-9526-05AA-7B36-0121F0B3324F,Suwon,51,37°C,134mm/Hg,chronic,overseas inflow,45kg,151cm
+9B6DC625-45B6-0941-42F8-DBAFCFAC2AE4,Busan,54,37.1°C,122mm/Hg,severe,overseas inflow,71kg,170cm
+C21A9440-991F-929B-A686-2697CDEB77C1,Ulsan,57,37.4°C,149mm/Hg,severe,public place,61kg,164cm
+1F9888A6-3598-7AE3-28C2-4664D45073BF,Incheon,19,37.6°C,124mm/Hg,normal,none,89kg,137cm
+945B6E9A-A3CC-65C9-25AB-B778C40B2713,Gwangju,8,36.1°C,145mm/Hg,normal,overseas inflow,41kg,149cm
+D07D6972-2CF7-9F00-6E86-A626DFAA072C,Seoul,14,38.5°C,139mm/Hg,chronic,overseas inflow,89kg,133cm
+D9D7BC02-11F4-305B-527A-995768C661D0,Busan,55,36.5°C,121mm/Hg,none,overseas inflow,47kg,159cm
+A0E19E63-4F6C-61DB-37CB-F27B3E4514B5,Ulsan,17,38.5°C,133mm/Hg,normal,none,88kg,171cm
+FDA3F25C-9A25-6DCE-5890-F4CED09961CC,Incheon,56,36.2°C,125mm/Hg,none,public place,43kg,160cm
+A846A6B3-8938-5AE6-A1B9-30E698E3161E,Daegu,44,38.5°C,122mm/Hg,none,none,81kg,137cm
+E7916943-39F1-2F70-8898-4609E40E48A2,Incheon,53,38°C,140mm/Hg,moderate,overseas inflow,45kg,155cm
+84E01EE5-1A1A-703C-50F1-09CE9C4C5F98,Daegu,19,37°C,134mm/Hg,chronic,contact with patient,44kg,173cm
+27A099E8-7E6F-3491-4172-55F61BA60328,Seoul,54,37.3°C,141mm/Hg,none,overseas inflow,45kg,160cm
+6301F215-5F1F-75BC-6B3F-2CFD3A1E29E9,Gwangju,15,38.7°C,120mm/Hg,normal,overseas inflow,80kg,190cm
+02984663-2C79-8CC8-6AB8-94563229A3E7,Ulsan,50,37.4°C,120mm/Hg,none,public place,68kg,144cm
+822D93B7-9CF2-41BF-6F7A-3EC08E71487F,Incheon,19,38.7°C,128mm/Hg,none,public place,82kg,130cm
+1A863440-11A2-2AA8-44D8-6CC8E7D49A73,Suwon,52,38.5°C,146mm/Hg,normal,overseas inflow,47kg,157cm
+FD894A21-088A-4D31-34AB-7703CA917DDD,Busan,14,37.3°C,124mm/Hg,normal,none,85kg,134cm
+F9863BB1-893E-291F-A254-BE9E3D0C7B3E,Daegu,54,38.3°C,144mm/Hg,severe,overseas inflow,49kg,150cm
+CAB6F604-9369-40F6-80A8-8967BC500B45,Suwon,18,38.2°C,142mm/Hg,none,public place,89kg,186cm
+A811EBFF-1AA4-24F3-7458-A770A9E8277A,Suwon,60,38.5°C,123mm/Hg,normal,public place,59kg,157cm
+28FE1B07-1E5E-9313-4FE0-78B1DBCB44D4,Gwangju,13,36.8°C,122mm/Hg,normal,contact with patient,89kg,131cm
+D157C2FB-1F57-7B05-3561-241A006418D6,Ulsan,50,38°C,146mm/Hg,chronic,overseas inflow,56kg,166cm
+AAEB3046-7FBD-0BAB-0A1B-DCB922CF88DC,Daegu,20,37.8°C,128mm/Hg,none,public place,40kg,173cm
+D1337E67-8542-5FCA-5273-C9FEEC82A623,Seoul,52,38.9°C,138mm/Hg,chronic,overseas inflow,69kg,142cm
+FD5574AC-6AEA-8CCF-20D4-480F7A5C15C0,Incheon,18,39°C,128mm/Hg,none,overseas inflow,80kg,187cm
+D2DFB3FF-0C3D-5A98-1590-C087B8E338EF,Seoul,55,38°C,120mm/Hg,none,public place,64kg,152cm
+B6DDBE18-730E-5860-94A3-ED7C17643740,Busan,15,36.6°C,125mm/Hg,normal,none,83kg,140cm
+4EAE0026-7428-6567-0EFA-AC36C1095470,Incheon,51,36.2°C,137mm/Hg,moderate,overseas inflow,67kg,148cm
+43957E6C-906A-9CFE-5D75-7E6710144BA7,Seoul,17,37°C,132mm/Hg,none,public place,86kg,134cm
+4FA964E6-4C17-50C3-3222-BE6CEBCD6AF0,Busan,56,37.4°C,127mm/Hg,chronic,overseas inflow,61kg,149cm
+FA209019-8909-1EC7-2FAC-29475B7B2876,Incheon,17,38.1°C,143mm/Hg,none,overseas inflow,83kg,172cm
+8264F474-A638-426D-34E1-9C7A2C6BA7C1,Seoul,58,37.6°C,120mm/Hg,normal,public place,44kg,145cm
+790F5A4D-97C8-7B91-17F4-47C7666507FD,Suwon,17,37.8°C,124mm/Hg,normal,none,50kg,130cm
+0232DDBF-A1DF-6CEA-1F50-1A9C70B95625,Daegu,11,36.5°C,130mm/Hg,none,overseas inflow,42kg,154cm
+47DE5D76-2EA3-1160-1052-21BD3CD02FBA,Gwangju,14,38.7°C,121mm/Hg,none,overseas inflow,88kg,132cm
+6FA62468-8062-9B44-9DC8-98D3D9B14EF0,Daegu,57,38°C,128mm/Hg,normal,overseas inflow,49kg,149cm
+5A715E98-A25D-1F31-28E4-812689AF7712,Gwangju,17,37.9°C,126mm/Hg,normal,public place,71kg,180cm
+57E9077F-9145-7AF4-42D9-58B301045295,Incheon,56,37.9°C,146mm/Hg,chronic,public place,45kg,150cm
+C7197FAE-8848-9C0C-82C8-47DDEB8E3BC9,Ulsan,15,38.3°C,125mm/Hg,none,overseas inflow,43kg,136cm
+3CF7E334-989A-9756-9304-2EA3D239668D,Seoul,52,37.2°C,124mm/Hg,chronic,overseas inflow,47kg,154cm
+8202EC2F-1263-0B50-17EB-051C1E110A55,Incheon,56,36.3°C,120mm/Hg,severe,contact with patient,48kg,140cm
+9C175BED-20B6-65DD-8B5F-C1A3CF74A547,Suwon,59,39°C,150mm/Hg,normal,overseas inflow,70kg,147cm
+54EC942B-958A-68E9-4460-CCD71CD37701,Daegu,15,36.3°C,135mm/Hg,chronic,overseas inflow,78kg,188cm
+C63A805D-80C0-4E00-003A-FA2FCE31735A,Ulsan,52,38.6°C,122mm/Hg,normal,public place,40kg,144cm
+1A4801D3-05C7-7FF8-7EB2-CAA109E05762,Ulsan,56,37.8°C,122mm/Hg,none,overseas inflow,42kg,139cm
+BF4E5638-855F-9DA0-9EB6-E79D50623486,Daegu,59,36.7°C,122mm/Hg,none,overseas inflow,46kg,157cm
+47B9BE5B-985D-0695-7260-13FEEE8875DF,Seoul,14,38.8°C,137mm/Hg,severe,contact with patient,81kg,140cm
+DD4D0F3F-5456-8D84-7BC0-34C249832ABD,Incheon,58,38.9°C,138mm/Hg,normal,overseas inflow,40kg,143cm
+197699CB-6FAC-8EB9-52B9-9BFB56DE804C,Incheon,18,38.3°C,129mm/Hg,normal,public place,82kg,174cm
+9FD2110E-59FA-20F2-508D-1B67198E9976,Suwon,53,37.2°C,121mm/Hg,none,public place,65kg,146cm
+FCB4E2C2-5F3F-6CC7-73E2-C6A9681A97AF,Ulsan,20,37.3°C,127mm/Hg,none,contact with patient,82kg,130cm
+9D6FACA4-8E01-351F-490B-4D4087A008B1,Incheon,12,37.7°C,130mm/Hg,moderate,overseas inflow,63kg,147cm
+CF9D2BA9-2D61-42C2-3A02-54D6AA702BD9,Ulsan,13,38.3°C,147mm/Hg,chronic,overseas inflow,82kg,138cm
+7BC49E1C-38B5-3EE5-099B-DE75708B6B12,Busan,9,36.2°C,121mm/Hg,normal,overseas inflow,67kg,140cm
+ABE4FC06-8A69-2CD7-7790-66C57F9A939A,Busan,18,38.7°C,125mm/Hg,moderate,contact with patient,77kg,179cm
+4D97F533-20CF-01F6-0842-51382C772971,Daegu,52,37°C,122mm/Hg,none,public place,40kg,173cm
+4CDF8087-728C-7E49-868E-3560F43B30F8,Ulsan,20,36°C,135mm/Hg,normal,none,43kg,137cm
+D0A8D3C0-9341-288F-0B1D-3B3967ED1459,Daegu,55,38.2°C,149mm/Hg,normal,overseas inflow,55kg,144cm
+34B584E8-0A3C-6FD0-3498-87639F136EA9,Incheon,17,37.2°C,122mm/Hg,normal,overseas inflow,40kg,133cm
+2DACA188-3ED2-A104-0DFF-041C62A03F53,Daegu,50,36.5°C,134mm/Hg,moderate,overseas inflow,59kg,140cm
+8FD11D16-1225-3703-65B4-AC902B5F3D51,Daegu,19,37.6°C,129mm/Hg,normal,contact with patient,87kg,175cm
+D7021A64-17D9-1B25-6F28-45694DAAA3DE,Ulsan,53,36.5°C,127mm/Hg,none,public place,45kg,158cm
+C6B743E8-6B82-049A-625C-8637F26E724B,Incheon,19,37.7°C,126mm/Hg,none,contact with patient,86kg,131cm
+07212509-7650-055F-7AA2-A9661D43020D,Busan,53,37.2°C,120mm/Hg,none,overseas inflow,70kg,147cm
+AF00E9AD-5A42-4DEC-833A-880BEB8B7556,Gwangju,17,38.3°C,123mm/Hg,chronic,none,86kg,140cm
+E8DBF78F-1575-790F-1765-EF57B6A02077,Seoul,60,37°C,130mm/Hg,normal,overseas inflow,66kg,157cm
+211BE59F-1B51-5F7E-4536-25B159A458B6,Ulsan,13,36.8°C,121mm/Hg,normal,contact with patient,81kg,170cm
+7E18F863-6108-81C3-A6C9-7A54346C70E5,Suwon,53,37.6°C,123mm/Hg,none,public place,43kg,146cm
+CA49EA21-1023-1D4D-92B7-941220C35DFE,Daegu,55,38°C,120mm/Hg,moderate,public place,45kg,131cm
+9D640860-509C-8C23-8397-A35538857BEE,Gwangju,55,37.5°C,147mm/Hg,severe,overseas inflow,53kg,147cm
+E51D9992-9282-5D6A-43A6-AF647A8E6CA3,Suwon,50,37.7°C,129mm/Hg,none,contact with patient,90kg,136cm
+3A90FA5F-379A-6209-6CC4-E300372D58D4,Suwon,54,38.7°C,125mm/Hg,normal,overseas inflow,46kg,160cm
+E5905629-1190-4575-2A4F-2EE528E9577E,Seoul,14,37.7°C,125mm/Hg,normal,none,81kg,180cm
+EA0A4370-113C-0A11-9375-367C32A36F65,Ulsan,57,37.4°C,129mm/Hg,moderate,public place,66kg,156cm
+0F8E0BC3-344B-0EA3-5A69-6AA2BE0B6C4E,Suwon,17,36.1°C,145mm/Hg,severe,overseas inflow,48kg,175cm
+429FE583-1B2F-3F57-9A76-1E5CC41C0E58,Ulsan,51,37.3°C,126mm/Hg,chronic,overseas inflow,47kg,158cm
+64D80772-9AFB-419F-7C08-9C70675A7F1E,Seoul,13,38°C,134mm/Hg,moderate,none,45kg,130cm
+613CF27D-04EB-2705-8707-FD91C78053A9,Ulsan,15,37.6°C,141mm/Hg,chronic,overseas inflow,56kg,151cm
+F522D2A1-6AB2-0928-8C4E-A4722B614C74,Seoul,20,36.3°C,147mm/Hg,none,contact with patient,90kg,170cm
+6AFA778B-8249-85C8-9936-F5E1DEA62638,Incheon,55,38.9°C,120mm/Hg,none,none,60kg,140cm
+86689FA5-813D-4585-22C3-6F3BCCBA6658,Incheon,20,37.2°C,130mm/Hg,severe,contact with patient,49kg,175cm
+D87C271F-3923-6278-5D90-D6D235FE998B,Gwangju,54,37.9°C,121mm/Hg,none,overseas inflow,44kg,170cm
+E7211D3B-27E9-8A98-800E-FEF7627F0A42,Ulsan,13,37.7°C,138mm/Hg,moderate,none,44kg,139cm
+F30D3F18-96E2-3F6C-A139-673DE41A938F,Incheon,9,37.6°C,145mm/Hg,none,overseas inflow,48kg,150cm
+466DF7F8-710E-70AB-807C-A34F241176A3,Seoul,19,37.8°C,125mm/Hg,severe,overseas inflow,75kg,175cm
+F3ACDE67-8EEC-712F-2F27-6D9C8C860D24,Busan,58,37.4°C,121mm/Hg,none,public place,50kg,154cm
+7FCA36E6-01A4-A09A-3DFE-F1982E6C576D,Gwangju,17,36.9°C,122mm/Hg,none,contact with patient,89kg,170cm
+8FEA7A10-31B0-5B05-1266-C5262869019D,Ulsan,51,37.6°C,144mm/Hg,moderate,overseas inflow,69kg,142cm
+AD21FC26-55E1-9957-1B31-9DE5FBA59193,Seoul,20,36°C,140mm/Hg,normal,overseas inflow,86kg,136cm
+226B3DE7-7FA5-26E2-A1F2-FDFE82FB088C,Seoul,58,36.7°C,144mm/Hg,none,overseas inflow,40kg,140cm
+FA1DFBFE-485A-52F3-5769-A6E1959313EE,Ulsan,17,38.9°C,138mm/Hg,normal,contact with patient,80kg,180cm
+12BF9AF5-339E-36C8-4B93-4E436F2141B8,Busan,57,36.9°C,122mm/Hg,none,public place,51kg,158cm
+A24570C3-1499-1413-8337-19D7C8A13B97,Suwon,14,36.1°C,127mm/Hg,normal,public place,46kg,137cm
+5CF569C4-18AC-1AD6-901E-65D6E27F9EBC,Suwon,52,38.4°C,121mm/Hg,normal,overseas inflow,64kg,157cm
+E198EDD2-7001-57C0-3342-5DBD1432453C,Gwangju,40,38.9°C,136mm/Hg,severe,contact with patient,86kg,170cm
+598B76D8-123A-6CC5-8283-B7FC5DCF35DD,Ulsan,57,37.5°C,138mm/Hg,none,overseas inflow,63kg,156cm
+E414E899-9FC1-A60E-A213-044D7C4930DE,Seoul,15,37.7°C,137mm/Hg,severe,overseas inflow,75kg,173cm
+3B970ECD-57E9-8DEF-8804-A0D933B3971C,Seoul,59,37°C,122mm/Hg,chronic,public place,42kg,152cm
+3732F42C-5742-7EBD-7529-F18927547A11,Ulsan,15,37.2°C,141mm/Hg,normal,overseas inflow,87kg,131cm
+5AF338D4-5761-2DB3-4553-91ECB6EE0A75,Busan,52,37.5°C,146mm/Hg,moderate,overseas inflow,43kg,148cm
+5AAFDE8B-1CF4-6CA3-7B10-4C203D5EA34A,Ulsan,14,36.7°C,145mm/Hg,severe,none,45kg,132cm
+15A48887-5A15-90EA-5F1B-BDEEC5C0912E,Daegu,10,37.7°C,125mm/Hg,moderate,overseas inflow,46kg,170cm
+06C18009-34B7-0D99-3266-10D10FAB9F5B,Gwangju,19,37.4°C,142mm/Hg,chronic,none,70kg,171cm
+9F9E73AE-9CF9-1293-2F3F-4249005D6167,Seoul,60,36.2°C,140mm/Hg,normal,public place,40kg,141cm
+FB971DB7-7034-5861-93CD-E80A10305940,Incheon,49,37.7°C,125mm/Hg,none,overseas inflow,49kg,132cm
+DBD58BD4-5C95-3A1B-3D8C-E4BF1AB611C1,Daegu,11,36.4°C,128mm/Hg,moderate,overseas inflow,63kg,148cm
+EE3B01E6-829D-0581-8105-18D3E11E6559,Incheon,20,38.9°C,122mm/Hg,normal,overseas inflow,85kg,137cm
+F2956AEA-63EA-618B-A3A0-C90BD4E01D26,Busan,53,38.8°C,127mm/Hg,chronic,overseas inflow,42kg,174cm
+D832D830-0466-1D91-7BC3-8C5B35BC2519,Incheon,45,39°C,126mm/Hg,none,none,71kg,173cm
+71A0D1DA-6601-617F-12CD-566F5CC4866B,Seoul,11,37.3°C,124mm/Hg,normal,public place,48kg,150cm
+4E6ACCA4-9901-37C9-0C11-019FE03E1EF3,Seoul,18,36.3°C,124mm/Hg,none,overseas inflow,42kg,139cm
+4822F212-6F89-A54D-6CFA-8F8B412704C8,Gwangju,55,37.7°C,133mm/Hg,chronic,overseas inflow,42kg,172cm
+68ACDD06-265B-4BEF-0A0B-78AD42BF7229,Ulsan,19,37.8°C,130mm/Hg,normal,contact with patient,44kg,130cm
+AD7E931A-3BB7-805E-6509-E9AEDF594F89,Daegu,57,37.6°C,129mm/Hg,normal,overseas inflow,51kg,140cm
+2B5329B5-50A9-8E7B-9C95-A798D3836BC8,Incheon,19,37.6°C,147mm/Hg,chronic,contact with patient,71kg,180cm
+10D6D342-5EC0-2C73-81CC-43CE01B819B7,Daegu,60,37.7°C,128mm/Hg,normal,public place,50kg,140cm
+B993D2F6-862B-245A-0E4E-EF4168FD521D,Incheon,18,38.3°C,148mm/Hg,normal,public place,86kg,135cm
+3AB8AAD3-53AB-9A6D-2EBA-0E23DC1043E4,Daegu,51,37.6°C,127mm/Hg,none,overseas inflow,62kg,158cm
+828EFC8B-2E7E-92F4-9F42-FE4991863A63,Gwangju,14,37.9°C,139mm/Hg,chronic,contact with patient,44kg,134cm
+F8D0B1B4-26AD-26ED-60DA-B839BF308E96,Daegu,6,38.4°C,141mm/Hg,moderate,overseas inflow,41kg,143cm
+3DEB3000-7510-66B8-8CF6-B60A7E87587E,Ulsan,43,37.3°C,129mm/Hg,severe,none,70kg,170cm
+3BF62B0B-79D6-39A3-5EDA-D5581C220368,Gwangju,59,36.3°C,127mm/Hg,normal,public place,41kg,151cm
+FBD07A7F-5FEF-5784-0E61-D183D3997ABA,Incheon,14,37.4°C,121mm/Hg,none,public place,85kg,137cm
+0B8B3223-714A-4FE2-47DC-6413012390FB,Ulsan,50,38°C,122mm/Hg,none,overseas inflow,50kg,140cm
+206DA0E0-688F-7ECE-1F0F-365ED88F5DB2,Suwon,17,37.6°C,132mm/Hg,chronic,overseas inflow,42kg,175cm
+F69161C2-827E-5DFA-1B39-F0F6E3CA1A07,Gwangju,59,36.4°C,121mm/Hg,normal,overseas inflow,50kg,165cm
+BCFFE795-1B67-6DBE-1364-0E4C352252F2,Seoul,18,38.2°C,129mm/Hg,normal,contact with patient,89kg,171cm
+5C8807E2-374C-7583-7A2A-F04903416DFA,Incheon,57,36.7°C,125mm/Hg,normal,public place,57kg,156cm
+1D520261-1773-8874-4E7B-E5E1B0CD0EBA,Seoul,16,37.3°C,143mm/Hg,chronic,none,46kg,136cm
+DFC835A4-99FE-9620-91B0-C70688ED824E,Seoul,53,38.8°C,128mm/Hg,normal,overseas inflow,45kg,146cm
+87CC30BC-9393-19E1-0BD9-ECE1EA1F8AE4,Suwon,16,36.1°C,132mm/Hg,moderate,overseas inflow,90kg,133cm
+F6CC245E-558F-0A04-318A-22CD962D7002,Incheon,50,37.8°C,123mm/Hg,normal,overseas inflow,50kg,151cm
+F7DCFF49-75F3-54DF-3E04-80A0F0651EF9,Seoul,19,37.7°C,124mm/Hg,normal,public place,83kg,173cm
+ECDFFBFF-7CEC-8FC5-1CBA-1F10D83A7809,Ulsan,9,37.6°C,125mm/Hg,chronic,public place,43kg,172cm
+229F39D3-3D1B-058E-6A7F-3639684C499C,Busan,16,37.5°C,147mm/Hg,normal,public place,47kg,134cm
+7B177EC9-974C-7ED5-27E4-C4B130524C28,Incheon,59,36.2°C,132mm/Hg,none,overseas inflow,70kg,153cm
+8ACEDA59-98DB-4636-11A0-B82D19F4417C,Suwon,15,37.8°C,130mm/Hg,none,none,88kg,172cm
+ED350D97-0A09-286B-638D-B46FDBF98EFA,Daegu,59,38.9°C,130mm/Hg,normal,overseas inflow,50kg,145cm
+43245CE2-74D8-6AB0-1001-4F490DF61503,Seoul,15,37.3°C,123mm/Hg,normal,contact with patient,74kg,170cm
+389EA432-1E47-912D-696D-A68218B4533D,Incheon,11,36.5°C,130mm/Hg,none,contact with patient,42kg,168cm
+0CF43374-3E1D-024E-0A88-9B26B08E6D50,Seoul,18,37.1°C,123mm/Hg,normal,overseas inflow,83kg,135cm
+18BFFCC0-8FF6-40F8-24CF-B196A9633D94,Daegu,58,37.1°C,121mm/Hg,none,overseas inflow,46kg,140cm
+489A83AA-2F61-0BBE-3661-83A843413D05,Busan,16,37.2°C,138mm/Hg,chronic,public place,85kg,139cm
+2AFF7976-33BF-140F-52A0-4953949F61E7,Ulsan,59,37.3°C,127mm/Hg,none,overseas inflow,42kg,145cm
+70B2B4D9-4D80-21A3-3807-E02F6ADC8B01,Suwon,58,38°C,127mm/Hg,normal,none,74kg,171cm
+3C418400-8476-6D67-0B54-05A94F515FAC,Incheon,50,37.8°C,134mm/Hg,normal,public place,62kg,152cm
+6A45BE15-13B2-441A-6010-2562B8CF28BE,Suwon,18,37.7°C,122mm/Hg,normal,none,80kg,131cm
+3F0CE5C3-9ECD-6AED-09BA-8E47E9485FE4,Busan,56,38.5°C,137mm/Hg,normal,overseas inflow,50kg,160cm
+2F94DCE9-916D-6DE1-8FB7-C697D22E3C25,Suwon,18,36.1°C,135mm/Hg,severe,contact with patient,83kg,135cm
+B53AC4A4-1495-9083-540F-26EAFC892B9E,Seoul,51,38.9°C,120mm/Hg,none,overseas inflow,62kg,161cm
+8BFD70A0-86C5-24C9-7BDB-3E7F5F9B6EF4,Ulsan,13,37.4°C,125mm/Hg,none,public place,87kg,179cm
+7FEB9B4E-9A92-1368-834F-4186ECC50912,Incheon,10,36.3°C,125mm/Hg,normal,public place,47kg,144cm
+0DC69F83-5D7B-59DD-6A27-BD2513A87DD7,Suwon,19,37.6°C,129mm/Hg,normal,public place,50kg,139cm
+8F825A76-1195-3CA1-A2FB-70B1A29E7F4C,Daegu,51,37.3°C,128mm/Hg,chronic,overseas inflow,47kg,156cm
+E805B109-2669-48B5-94F5-456492A31224,Gwangju,13,38.9°C,126mm/Hg,chronic,none,90kg,133cm
+F5C85E4C-199C-94BC-47CD-F67D1C350B75,Busan,56,36.2°C,125mm/Hg,none,overseas inflow,47kg,157cm
+9F301964-7805-2895-75A6-0E50D99A40FC,Suwon,20,36.9°C,129mm/Hg,normal,public place,81kg,187cm
+302B69E6-6DD0-1314-A6A3-29FF6B2536B1,Busan,57,36.8°C,124mm/Hg,severe,public place,70kg,144cm
+2423BAAA-35A2-1345-0B88-07537A8844BB,Daegu,18,37.9°C,124mm/Hg,none,public place,80kg,140cm
+69855090-87BD-3DF2-3706-91B9F30A5049,Suwon,14,37.4°C,124mm/Hg,normal,overseas inflow,41kg,150cm
+A5978174-8A56-916A-6BBA-F5FC883A9487,Seoul,59,37.2°C,136mm/Hg,severe,contact with patient,82kg,132cm
+6F0F4E98-51BA-78AF-33E1-275B606539C3,Daegu,56,37.1°C,139mm/Hg,moderate,overseas inflow,47kg,160cm
+86EB3E87-419D-90A3-6674-492F063669BC,Daegu,14,36.2°C,135mm/Hg,severe,overseas inflow,71kg,171cm
+1E377E11-1F8E-40E8-65EB-D8E063E130F9,Incheon,50,37.3°C,132mm/Hg,chronic,public place,44kg,164cm
+5C906301-7CA2-046E-6832-B760E221A4A2,Ulsan,20,38.8°C,131mm/Hg,moderate,overseas inflow,88kg,140cm
+10A7F72D-634F-2291-A123-41D2761B7F43,Incheon,59,37.3°C,139mm/Hg,moderate,overseas inflow,48kg,141cm
+0C21C7DB-4DEE-31D2-283A-C5AE4C3D9B7F,Busan,20,36°C,124mm/Hg,chronic,public place,48kg,135cm
+B2BAF177-8722-48C1-636F-479A5F1599DA,Incheon,55,37.1°C,126mm/Hg,normal,overseas inflow,51kg,147cm
+2A1C5601-3A75-A46D-0F01-18C5AB6656CA,Suwon,13,37.2°C,122mm/Hg,chronic,public place,81kg,171cm
+8D660F09-9529-9C39-37A4-50CEE4E08977,Incheon,60,37.7°C,120mm/Hg,moderate,public place,67kg,151cm
+16E3EA4B-8C13-1BFE-3883-A6C7E9944868,Suwon,19,36.3°C,147mm/Hg,none,contact with patient,46kg,137cm
+182E820C-955E-95D8-3DF2-8C04B26E1382,Gwangju,58,38°C,126mm/Hg,severe,overseas inflow,43kg,156cm
+26AF6EDC-1FE6-2DF4-210C-80F497E52A14,Seoul,59,37°C,146mm/Hg,moderate,contact with patient,89kg,175cm
+AE80828E-5131-1D92-25F7-9E2A749B95D8,Busan,53,39°C,123mm/Hg,normal,overseas inflow,49kg,149cm
+782DDA18-A4C2-5734-7664-8EB1AA471F97,Ulsan,15,36.1°C,128mm/Hg,none,overseas inflow,88kg,174cm
+AD20A65A-3091-9984-8FFA-67C9A67E4635,Gwangju,57,36.8°C,122mm/Hg,severe,public place,59kg,142cm
+E0662486-1AD2-2504-89D9-48682ABA19A3,Busan,15,38.1°C,137mm/Hg,moderate,public place,45kg,135cm
+17E76419-868F-6792-2BC2-41038DCC032D,Suwon,7,38.1°C,136mm/Hg,severe,overseas inflow,61kg,159cm
+31FCE717-141D-5A88-2C9D-3F4643CC492B,Seoul,15,38.1°C,125mm/Hg,none,public place,88kg,170cm
+D16E145E-5698-92F0-9FCC-43D7433B2FA1,Incheon,53,37.6°C,129mm/Hg,normal,overseas inflow,69kg,148cm
+3669398C-5BCA-7039-2008-0FD1C09D5DBC,Incheon,20,37.9°C,125mm/Hg,none,contact with patient,83kg,187cm
+643CDD9A-648F-6B3C-7BA0-B4EC6080701D,Seoul,51,36.8°C,124mm/Hg,none,public place,64kg,158cm
+321CDB51-01D9-5B8C-0F05-75E802BB85A1,Suwon,20,38.5°C,122mm/Hg,normal,overseas inflow,43kg,139cm
+C040966E-4F1E-39F0-1320-73BB32D94909,Ulsan,52,37.4°C,130mm/Hg,none,overseas inflow,43kg,146cm
+BFB9C3EB-7D18-377F-07E5-9DA7ACC28786,Seoul,58,37.7°C,138mm/Hg,normal,contact with patient,88kg,135cm
+2469114D-489D-5698-77AA-C827AF3836BB,Gwangju,57,36.6°C,149mm/Hg,none,overseas inflow,43kg,153cm
+2FF434B4-0E25-14F7-34FD-FC3A4EA32B48,Seoul,13,37.4°C,128mm/Hg,normal,public place,76kg,175cm
+39209767-1110-A226-A484-DC17E2E9A417,Daegu,60,36.6°C,129mm/Hg,severe,public place,49kg,159cm
+A02D4CED-2EAB-0AE1-A3C4-886DDF7D5210,Seoul,20,36°C,122mm/Hg,normal,none,81kg,135cm
+E688E292-2E0E-804C-892E-F706DDE59508,Incheon,55,39°C,126mm/Hg,normal,overseas inflow,45kg,172cm
+9FEA8D1E-9F78-A5AB-2903-A80AB9F42C2D,Daegu,20,37°C,123mm/Hg,none,contact with patient,87kg,134cm
+46F4A20D-87EA-3B06-0A94-24E8AF69723C,Ulsan,8,36.2°C,130mm/Hg,none,overseas inflow,42kg,150cm
+EDFD7153-58FA-1711-5DE0-5CBA62113B2A,Gwangju,20,37°C,141mm/Hg,chronic,overseas inflow,73kg,176cm
+6F2E3D4E-3A40-A47B-8DAC-BA42F6BC91E5,Incheon,56,37.1°C,144mm/Hg,chronic,public place,47kg,172cm
+3929EA74-0ED1-9C40-555D-388C0A936EAE,Busan,20,37.5°C,127mm/Hg,normal,overseas inflow,89kg,170cm
+452DA8EF-78E5-3FDC-5A55-109FD26A85E1,Suwon,53,37.6°C,124mm/Hg,normal,overseas inflow,41kg,145cm
+36B95C2D-6CD3-5434-8A90-0C6395E80DCC,Daegu,13,38.4°C,124mm/Hg,severe,public place,47kg,132cm
+308AF5C8-5341-1B8D-6AE6-B7A777551EE4,Gwangju,9,36.9°C,130mm/Hg,chronic,overseas inflow,64kg,144cm
+934259E4-8C7D-51FB-2F4B-9AB562EE7D16,Daegu,40,37.6°C,120mm/Hg,normal,public place,76kg,177cm
+740AB500-846E-4318-5CF4-DAB9C7929E47,Suwon,57,38.9°C,121mm/Hg,chronic,public place,67kg,144cm
+A8ABB00D-9EEA-4A09-3CB5-21FE130EA330,Ulsan,19,36.9°C,127mm/Hg,none,overseas inflow,82kg,179cm
+F8A58D46-4E5F-47FD-4E65-FF6750F7184A,Daegu,55,37.3°C,134mm/Hg,none,overseas inflow,67kg,148cm
+F002061D-6895-3F10-5C9F-0182CC6831F7,Busan,14,38.3°C,128mm/Hg,moderate,contact with patient,48kg,138cm
+39A7C95E-902E-756F-248F-7E9E71057D3E,Busan,50,37.6°C,136mm/Hg,none,overseas inflow,55kg,141cm
+09149FF3-33C1-579C-2625-07E5E4803F36,Daegu,13,37.9°C,144mm/Hg,severe,overseas inflow,85kg,170cm
+0318B4E0-21B8-96D7-23EF-6C6F95E98E45,Daegu,60,36.1°C,128mm/Hg,chronic,public place,42kg,146cm
+43752982-2A11-7A06-2EF9-4383E6B568D9,Seoul,42,37.8°C,144mm/Hg,moderate,none,87kg,130cm
+CEDC33BA-9B10-5E28-5E92-8B11287C1C51,Daegu,55,36.2°C,130mm/Hg,normal,overseas inflow,56kg,144cm
+9F5AFB66-0B16-07FB-0E53-C32D78B71937,Gwangju,45,38.2°C,150mm/Hg,normal,contact with patient,83kg,134cm
+2B19E0DE-58CC-4F46-64CB-06DCD12A7980,Seoul,56,37.6°C,129mm/Hg,none,overseas inflow,42kg,158cm
+AF680858-370A-80F0-A31E-472E7B4E62FA,Daegu,19,36.6°C,122mm/Hg,normal,none,71kg,177cm
+3909A036-7AF6-3C15-76BE-34DA4BC53A74,Busan,54,37.8°C,137mm/Hg,none,public place,48kg,149cm
+8B8C84B4-5366-A7BB-6866-49D177F59779,Busan,16,37.8°C,133mm/Hg,moderate,public place,82kg,140cm
+52F45927-99F5-8BD9-123B-7664351240AF,Busan,52,37.2°C,140mm/Hg,moderate,overseas inflow,41kg,148cm
+EA420741-0600-756D-022E-2114FC092EB3,Gwangju,18,37.8°C,124mm/Hg,normal,contact with patient,46kg,130cm
+E6191C7D-0F4A-523E-437E-83D7687D8B57,Suwon,57,38°C,150mm/Hg,normal,overseas inflow,57kg,141cm
+D6B8454A-8604-2D8B-9AE8-CB87BA5E0634,Incheon,15,37.3°C,129mm/Hg,none,overseas inflow,71kg,174cm
+00789F0C-9F79-9332-0A80-05335AF79040,Incheon,53,38.4°C,129mm/Hg,none,contact with patient,65kg,149cm
+30FABFB0-8378-0A30-3D27-C3C02F8371C6,Daegu,16,36.5°C,133mm/Hg,chronic,contact with patient,40kg,139cm
+70410578-1F4D-A720-28B5-A2CA28511C28,Suwon,58,36.2°C,121mm/Hg,normal,overseas inflow,45kg,140cm
+4C2CED75-5949-894D-7922-124C7CC94A9F,Busan,59,36.1°C,149mm/Hg,normal,none,44kg,130cm
+DD9C780C-88E7-154F-5C45-7821C84D70BA,Daegu,15,38.9°C,128mm/Hg,normal,overseas inflow,42kg,153cm
+DEFD35D0-2FB2-4E4B-35DB-13E9A05365F0,Gwangju,13,36.6°C,124mm/Hg,none,overseas inflow,79kg,185cm
+2EA5DE80-4B05-4438-295C-FB330B328E0B,Incheon,53,37.3°C,129mm/Hg,none,public place,50kg,169cm
+F626F87E-9041-86E9-19AD-45F58A1E23A4,Suwon,18,37°C,136mm/Hg,normal,contact with patient,82kg,137cm
+A9A37CCF-03AF-5515-567C-5AEBB82A60A9,Seoul,58,37.6°C,127mm/Hg,severe,overseas inflow,40kg,158cm
+D06B282A-3950-A71C-7EEE-106F423E8C88,Seoul,14,37.7°C,121mm/Hg,chronic,public place,47kg,132cm
+70650A21-3416-1579-7DCB-B7337A6E4B2E,Daegu,58,37.8°C,130mm/Hg,none,overseas inflow,41kg,160cm
+9DCF4EFC-6E03-6BD0-7428-607C3F7C1F7F,Ulsan,20,38°C,134mm/Hg,moderate,overseas inflow,76kg,186cm
+002AEB5F-20EB-6797-7997-0C2E895005BF,Gwangju,59,36.3°C,125mm/Hg,normal,public place,47kg,141cm
+5E6EB3C3-599B-7CCE-6106-8F1BB095149C,Seoul,14,37.5°C,150mm/Hg,none,contact with patient,45kg,175cm
+70F8E218-53A4-172D-A4FF-89C6C3896AA3,Gwangju,55,37.9°C,121mm/Hg,moderate,overseas inflow,44kg,148cm
+1DECDAC3-1DEA-304B-2BCC-5416B3C11828,Busan,59,38.4°C,129mm/Hg,moderate,public place,84kg,134cm
+F6E0F114-13C2-9E31-5DE1-2D2517B78058,Seoul,52,37.6°C,136mm/Hg,none,overseas inflow,49kg,146cm
+2F8B5018-36C7-39F6-3A8F-CFC0AE1D0178,Suwon,13,37.4°C,124mm/Hg,normal,contact with patient,80kg,170cm
+6B394127-4A77-27F6-A3CD-5887DD2D785B,Daegu,9,37.3°C,144mm/Hg,normal,public place,42kg,165cm
+4453FB30-3D61-9629-56BA-4FA4A88034DD,Busan,19,37.2°C,128mm/Hg,none,overseas inflow,45kg,138cm
+38B45BA0-9A89-1A9C-8FDE-CFFFBB6B0DD5,Daegu,57,36.4°C,142mm/Hg,chronic,overseas inflow,50kg,148cm
+B27C7239-24B6-20BC-3806-6EBA61F59AF3,Gwangju,14,37.1°C,136mm/Hg,normal,none,87kg,131cm
+D5FE0C9E-8C36-0DDD-110B-8E0646F48B06,Gwangju,9,37.8°C,125mm/Hg,none,overseas inflow,45kg,141cm
+44AFE1CA-A172-8784-4A13-8F68E9C3A003,Gwangju,18,37.9°C,126mm/Hg,severe,none,76kg,177cm
+201DBDA4-4687-3D0C-2B21-C0E225BB4EFF,Busan,12,39°C,123mm/Hg,normal,public place,40kg,144cm
+EC742D75-50E3-7CF1-8F19-9801725598C1,Daegu,59,37.4°C,122mm/Hg,normal,none,80kg,138cm
+17A5A8F4-4D10-7C92-97EC-76617B959415,Daegu,52,37.7°C,122mm/Hg,normal,overseas inflow,45kg,146cm
+890C940B-1509-239E-3A6F-71ED0614A6EE,Seoul,19,36.8°C,128mm/Hg,chronic,contact with patient,86kg,177cm
+DBD37B37-9F3A-5CFF-2DE3-2F69EA699C59,Gwangju,6,38.2°C,121mm/Hg,severe,overseas inflow,44kg,161cm
+4C5E4661-320F-6474-95D8-15AAA2198EF0,Incheon,13,36.1°C,130mm/Hg,normal,overseas inflow,79kg,175cm
+B6D85D0D-A2DA-6A69-7F4C-49E19D3D461E,Daegu,57,38.9°C,124mm/Hg,none,public place,47kg,159cm
+9B43B6FD-098E-92F3-86FC-B78ABC9E26C2,Daegu,19,37.1°C,129mm/Hg,normal,none,42kg,133cm
+C5D33531-73A6-72CA-3AEF-2EA39CFA1042,Incheon,52,39°C,125mm/Hg,normal,overseas inflow,47kg,157cm
+4FE50A1F-02A7-424F-A157-B93A45051D32,Incheon,17,37.8°C,131mm/Hg,none,none,90kg,172cm
+BE0A5237-62EA-11E9-00DE-6C5EEA888E43,Busan,50,38.6°C,149mm/Hg,normal,overseas inflow,68kg,154cm
+51C03C51-25B1-330C-94BD-82E38E348EB1,Daegu,18,38.7°C,149mm/Hg,chronic,overseas inflow,81kg,180cm
+1E661DD0-24C5-60AC-A096-F7A78DAF7A8A,Gwangju,55,38.2°C,128mm/Hg,none,public place,44kg,175cm
+8E9B021C-5749-9E3E-14A9-3B82D08893CC,Incheon,55,37.1°C,123mm/Hg,moderate,overseas inflow,83kg,139cm
+F753E6D2-0C84-327B-6F86-4FB94BD08426,Gwangju,51,37.8°C,124mm/Hg,chronic,overseas inflow,50kg,166cm
+7F169E34-1777-8C37-60CF-61E08E2262F5,Ulsan,20,37.8°C,121mm/Hg,severe,overseas inflow,81kg,132cm
+282DD56C-01E7-2748-79C8-135EB4C02FDD,Busan,55,38.4°C,141mm/Hg,moderate,overseas inflow,46kg,163cm
+EF5FDADD-2CAE-8453-192D-DABF10CFA796,Suwon,14,38.2°C,146mm/Hg,normal,contact with patient,75kg,171cm
+1B9AA916-5DFD-39DD-62C5-6C220F863230,Busan,56,36°C,120mm/Hg,moderate,public place,46kg,157cm
+BF6933E1-A60B-4C9C-8A3B-338CD59449DA,Ulsan,15,37.9°C,122mm/Hg,none,public place,45kg,140cm
+4A38AF8C-1E56-6AB2-6E64-CFBD3AC5216F,Ulsan,60,36°C,127mm/Hg,normal,overseas inflow,41kg,148cm
+E61829F5-7084-5121-2913-CA8FFCC55370,Suwon,14,38.4°C,128mm/Hg,none,public place,89kg,134cm
+A9EDC623-18AB-4394-0CC9-0AD3B25884EC,Incheon,58,37.2°C,126mm/Hg,moderate,overseas inflow,56kg,147cm
+9F2A42F9-1C55-5973-5EF3-F708B5513713,Ulsan,19,37.5°C,126mm/Hg,none,public place,87kg,177cm
+27F93BC5-00FF-0FF9-A191-1BD4B24786B8,Ulsan,59,38.4°C,122mm/Hg,none,public place,50kg,175cm
+BB0226D1-5436-1981-A0FF-1EC80CB93605,Daegu,15,38.3°C,130mm/Hg,moderate,contact with patient,87kg,137cm
+DB31F139-4C4C-00B2-0598-38729D112FCE,Busan,50,38.1°C,126mm/Hg,severe,overseas inflow,57kg,144cm
+F5B48547-37E6-2C6F-5F1F-5252568D79CB,Incheon,19,38.4°C,130mm/Hg,moderate,contact with patient,85kg,137cm
+4A9B9FAC-356C-3518-0A56-8533B9EF2928,Busan,51,37.8°C,149mm/Hg,chronic,overseas inflow,46kg,161cm
+650CB7B9-1DC4-8DAE-5560-945FF155253E,Gwangju,17,37.5°C,122mm/Hg,normal,none,87kg,180cm
+2EBF1C82-2E91-86FE-5662-65245C496588,Suwon,52,38.9°C,128mm/Hg,none,public place,45kg,168cm
+0BD67944-6CDA-2AC4-2EEB-69F6142306A5,Ulsan,14,37.5°C,124mm/Hg,moderate,overseas inflow,88kg,131cm
+90ADD24A-4185-2ABC-435A-96C5DFE74D88,Busan,60,38°C,133mm/Hg,normal,overseas inflow,61kg,149cm
+E2AA478B-5154-2D1E-5A0E-B71C1CA24D20,Busan,14,36.9°C,120mm/Hg,normal,public place,86kg,131cm
+67F317F9-8F5A-9D36-392D-55208B36031B,Daegu,12,38.7°C,126mm/Hg,normal,overseas inflow,43kg,147cm
+7AFB7CA7-9964-A187-A2F0-1A30645A8733,Seoul,19,36.7°C,129mm/Hg,normal,public place,80kg,179cm
+D5A926CB-A1ED-1CB9-0D4D-C9B66FEE1188,Suwon,51,38.9°C,129mm/Hg,none,public place,45kg,160cm
+4DF817E3-72D0-9AEC-6CD7-C8FA39B39411,Daegu,17,37.4°C,135mm/Hg,moderate,contact with patient,43kg,130cm
+6D0497D0-4FF5-681A-5838-115D500241DE,Ulsan,51,36.5°C,120mm/Hg,normal,overseas inflow,49kg,146cm
+F9105608-9159-4CCC-1503-975B16DB732F,Gwangju,20,37.8°C,123mm/Hg,normal,none,81kg,134cm
+CBA879A1-84B2-93E3-41F1-C50A81422BA3,Incheon,12,38.9°C,127mm/Hg,normal,overseas inflow,43kg,163cm
+9027408F-5593-A666-4D72-148A3B536AD3,Busan,40,38.3°C,132mm/Hg,chronic,contact with patient,84kg,185cm
+3AC52AB6-182D-7063-3FB0-7F8D25B764AE,Seoul,50,37.6°C,126mm/Hg,none,public place,46kg,146cm
+975923E4-3132-7F23-085F-157F7A4041C1,Ulsan,18,37°C,135mm/Hg,moderate,overseas inflow,89kg,134cm
+7D862415-670F-3CA8-733D-3702993B0BD5,Seoul,53,38°C,121mm/Hg,normal,overseas inflow,65kg,151cm
+60819707-5ED8-92E8-7663-B6C7369800C3,Gwangju,14,38.1°C,120mm/Hg,normal,none,84kg,138cm
+F7FF03D2-6993-9385-7B15-F7057866084E,Incheon,57,37.8°C,126mm/Hg,normal,overseas inflow,49kg,157cm
+AF3CFA1F-3618-4562-5F1F-828E4FF00AEA,Gwangju,14,37.7°C,138mm/Hg,chronic,none,82kg,175cm
+5D0718C9-41A5-A374-3668-A1574BEC0447,Suwon,12,36.2°C,128mm/Hg,normal,public place,63kg,150cm
+F998A801-7C76-9344-0DB0-2F6CA0EE7C2B,Busan,14,38.9°C,125mm/Hg,none,none,89kg,135cm
+5586967A-5802-1D5F-49F0-BB4602BEA54E,Busan,9,36.1°C,121mm/Hg,normal,overseas inflow,41kg,149cm
+042E782F-5BC6-08C1-47E6-E36905D69BB5,Seoul,16,37.9°C,121mm/Hg,none,public place,50kg,137cm
+BF2ED9BE-3B71-2F9C-9561-6C6E60BD0EFF,Gwangju,57,38.3°C,131mm/Hg,normal,overseas inflow,63kg,144cm
+37A274D1-321C-1234-95E5-C6C28EA5544D,Busan,16,37.7°C,132mm/Hg,normal,overseas inflow,82kg,172cm
+03AE1EF0-4978-20AD-852E-7A03899D4EB5,Daegu,52,37.9°C,138mm/Hg,none,public place,57kg,145cm
+F18CEBC5-A22D-592E-A355-FD2D4A5F6DA5,Seoul,60,39°C,125mm/Hg,chronic,contact with patient,88kg,140cm
+9ECD013A-97F0-00D1-47C6-CF7687568914,Ulsan,55,37.9°C,128mm/Hg,moderate,overseas inflow,57kg,162cm
+00B394B3-8B16-0A07-32A1-B8CC79439515,Suwon,15,36.9°C,141mm/Hg,moderate,overseas inflow,49kg,180cm
+73627713-6B71-7EA3-6F80-CEAB985D3430,Seoul,50,36.2°C,121mm/Hg,severe,overseas inflow,40kg,140cm
+2B446D9A-1205-80A9-6A1D-6006D73B7407,Daegu,14,37.7°C,142mm/Hg,chronic,none,82kg,170cm
+1C7B3DFE-8D34-1BF6-4969-99035F7A4AF0,Suwon,53,38.4°C,120mm/Hg,normal,public place,45kg,160cm
+DAA13856-2754-9A3D-3882-AE2F7EA9922C,Incheon,17,36.9°C,145mm/Hg,none,none,43kg,140cm
+53601A73-299E-7B3D-3C15-B689E4DD95E8,Incheon,56,38.8°C,121mm/Hg,chronic,overseas inflow,47kg,153cm
+98BB14C0-3662-603E-8FCB-48325AED42DE,Gwangju,15,36.3°C,127mm/Hg,normal,none,80kg,134cm
+DF2F88C4-5FA0-473C-689F-ACD3AA9F9734,Ulsan,53,37°C,128mm/Hg,normal,overseas inflow,67kg,147cm
+46D20AED-6828-35A1-14F8-7E45AE0D8AB7,Incheon,14,38.9°C,148mm/Hg,none,none,80kg,171cm
+A4384CCF-1CD2-8129-5CBB-5CD306A765A8,Incheon,59,37.8°C,125mm/Hg,normal,public place,56kg,151cm
+65EB2B44-24FA-3F05-6A39-EBDE3BDF5EB1,Seoul,18,37.7°C,123mm/Hg,normal,overseas inflow,81kg,132cm
+24E190F1-391F-0485-8E99-8546FFCA6DB5,Busan,55,37.6°C,150mm/Hg,normal,overseas inflow,44kg,171cm
+3B49B169-8435-8E1D-96B2-3B37737F9E12,Suwon,16,38.6°C,120mm/Hg,none,none,90kg,133cm
+31A4B307-4611-8ABB-4C9A-DD03DF314FF2,Incheon,55,37.1°C,126mm/Hg,normal,overseas inflow,45kg,144cm
+415F11D0-0981-2948-57EF-0C38921F62FC,Gwangju,41,36°C,139mm/Hg,none,contact with patient,74kg,178cm
+48F2CA6A-2E26-3FD3-841E-EFF56C819428,Incheon,54,37.6°C,128mm/Hg,none,public place,48kg,158cm
+16D5395C-62CE-6061-69CB-EAF11886558E,Seoul,14,38.5°C,121mm/Hg,none,contact with patient,81kg,133cm
+4B60DAAC-2672-6773-2A44-3DA67D16A753,Gwangju,51,38.8°C,128mm/Hg,none,overseas inflow,49kg,164cm
+BC1B73E9-37C2-7C16-59E1-9D26B4324896,Seoul,17,36.1°C,143mm/Hg,severe,none,90kg,135cm
+47F912BE-A471-7B1F-8E6D-9655AF0555E3,Suwon,55,37.8°C,130mm/Hg,normal,overseas inflow,41kg,145cm
+30E82FA5-188E-72AD-171D-7B9CEBED6B49,Gwangju,42,36°C,144mm/Hg,chronic,public place,76kg,170cm
+C040D8D5-35AB-50E5-6819-04C41A138166,Gwangju,15,37.6°C,125mm/Hg,normal,public place,60kg,160cm
+D48290C6-47BA-3EBD-2400-765089FB64AF,Seoul,16,38°C,124mm/Hg,none,none,80kg,130cm
+B28D424B-A147-8746-63C1-EE91805A5760,Seoul,54,38.7°C,126mm/Hg,severe,overseas inflow,42kg,149cm
+2427FFED-293E-5CE7-1A87-11C496DB155A,Daegu,13,39°C,125mm/Hg,normal,overseas inflow,85kg,130cm
+8567A956-73F7-0109-28E6-C6277D597A97,Incheon,55,37.9°C,124mm/Hg,chronic,overseas inflow,54kg,154cm
+73CC2121-42A6-5074-284B-6025E5550997,Incheon,13,37.4°C,121mm/Hg,normal,contact with patient,88kg,178cm
+1CBD3424-611C-2C94-8710-B0CCE6A49686,Suwon,54,38.7°C,127mm/Hg,normal,public place,44kg,172cm
+A1A28BED-283C-0B96-7BDE-E66384D124DE,Incheon,18,37.3°C,147mm/Hg,normal,public place,80kg,134cm
+19716BF8-4A0E-519E-7259-D4DF6C8605C8,Seoul,53,36.1°C,127mm/Hg,normal,overseas inflow,42kg,148cm
+C0A28890-2E40-07FE-84A3-03AE47360882,Seoul,19,37.3°C,135mm/Hg,none,contact with patient,82kg,137cm
+63912D10-8F10-0166-44CD-3DBC380925A8,Incheon,52,36.6°C,129mm/Hg,moderate,overseas inflow,66kg,145cm
+9C0EEADB-8248-13DF-7FDD-593297395052,Suwon,15,38.3°C,126mm/Hg,normal,contact with patient,83kg,178cm
+430894A3-6AE4-40E2-58E8-9693338A1D72,Gwangju,50,38.3°C,133mm/Hg,severe,public place,41kg,173cm
+E1792152-9865-578D-6B47-6F349A510E2E,Ulsan,13,36°C,126mm/Hg,none,none,90kg,130cm
+B58F3FA0-390F-86FB-870D-A6EE7B2019D6,Daegu,11,38.9°C,125mm/Hg,none,overseas inflow,67kg,154cm
+CAFA6095-0534-4019-4972-04E211460A03,Gwangju,15,38.6°C,123mm/Hg,moderate,none,82kg,132cm
+256F3D16-613C-A69A-392C-26D10CF68940,Incheon,53,37°C,127mm/Hg,normal,overseas inflow,69kg,144cm
+5802A992-5EEC-89EB-4DB2-F85594881492,Seoul,13,38.5°C,144mm/Hg,moderate,public place,88kg,189cm
+3C6DF7E2-5860-8FC7-5576-F16661AB8B3A,Daegu,51,37.4°C,126mm/Hg,none,public place,48kg,153cm
+581AD329-5EEF-3410-5742-69F99D6C0BF8,Ulsan,18,36.4°C,129mm/Hg,none,overseas inflow,84kg,134cm
+848DD87A-2ADC-2559-5AA4-F6676A7DA563,Daegu,54,37.7°C,123mm/Hg,normal,overseas inflow,42kg,150cm
+11E593FA-7CB7-3CF7-8A58-E3D57D705D83,Seoul,17,37.9°C,121mm/Hg,none,contact with patient,82kg,133cm
+4E9C2240-8127-197F-98CB-1324F8D07D76,Suwon,58,37.6°C,136mm/Hg,normal,overseas inflow,41kg,155cm
+C72FA429-6A7C-8A4A-446E-5E3F2ECC06E6,Seoul,17,37.5°C,122mm/Hg,none,public place,80kg,173cm
+BFF49641-85C2-6B1F-75CD-8935FE8B4C8F,Incheon,13,38.4°C,122mm/Hg,moderate,public place,66kg,154cm
+2C190269-1456-9A1D-3001-92837A47A44C,Ulsan,19,37°C,120mm/Hg,chronic,contact with patient,85kg,171cm
+8766402D-13FA-4CC3-3B59-1EF4A74753E3,Daegu,52,37°C,136mm/Hg,severe,overseas inflow,66kg,168cm
+F9C3F1EA-15E7-0D2E-0E6F-2D5E347D2812,Seoul,13,37.8°C,122mm/Hg,chronic,contact with patient,40kg,137cm
+1F799342-58A4-4E81-05E2-22ED5BBC36C0,Incheon,56,39°C,128mm/Hg,severe,overseas inflow,41kg,141cm
+BCD27530-4F83-1E63-4F37-78A22E49A061,Gwangju,14,36°C,120mm/Hg,none,contact with patient,89kg,186cm
+DE3388CD-3A41-474F-249F-55B9436E6CC5,Incheon,13,39°C,126mm/Hg,normal,public place,50kg,156cm
+A05414F9-7C9A-3A9D-7275-7BD7658D6F35,Busan,18,38.5°C,133mm/Hg,moderate,contact with patient,90kg,135cm
+119B6A35-1BC6-A0C8-8675-B14E9DEB1983,Ulsan,56,37.6°C,126mm/Hg,severe,overseas inflow,48kg,142cm
+33ABDCFB-9B00-31A1-6948-36A44B3196FE,Ulsan,17,37.5°C,126mm/Hg,chronic,public place,90kg,178cm
+03233106-9382-4B95-8FC4-84D2CD6B83FC,Seoul,55,37.6°C,146mm/Hg,moderate,overseas inflow,41kg,174cm
+BFB81467-9BFA-815F-0DDA-4D884F2E4A07,Ulsan,60,37.2°C,122mm/Hg,normal,public place,80kg,174cm
+9B9D6E13-9E66-1112-8C30-A72093B83467,Suwon,7,38.5°C,130mm/Hg,normal,public place,44kg,150cm
+BF0D4A3E-9BA9-00A5-1459-82CCAAB17C52,Busan,19,36.3°C,130mm/Hg,chronic,public place,89kg,132cm
+07A1A1D8-3941-0BF8-49C8-DFD9B4A176A7,Suwon,55,37.4°C,129mm/Hg,none,overseas inflow,67kg,160cm
+AA5626CB-6B1E-0473-4CAF-B987706A9AEB,Gwangju,18,37.3°C,132mm/Hg,moderate,contact with patient,87kg,130cm
+79083227-0901-48CB-59F6-8FEE92F009C4,Busan,7,37.2°C,134mm/Hg,normal,overseas inflow,46kg,152cm
+E41B08ED-7307-4426-36CF-7114BC4E602B,Ulsan,15,36.1°C,126mm/Hg,moderate,public place,76kg,180cm
+7DF49D19-1618-8C3A-1D2C-7B5AAF9A671E,Gwangju,54,39°C,147mm/Hg,normal,public place,41kg,159cm
+A8D5CBFD-9E42-9834-59FC-CE223FEF05B9,Ulsan,18,37.1°C,125mm/Hg,none,contact with patient,81kg,133cm
+977D36F0-7AB5-1E6E-0821-0FB727518A3A,Daegu,50,38.6°C,140mm/Hg,moderate,overseas inflow,46kg,143cm
+8D2B2E7A-540E-4FEB-0983-C42B8AB93B0C,Ulsan,60,39°C,126mm/Hg,normal,overseas inflow,41kg,172cm
+819174E6-136A-87FA-9027-12D06A3409E2,Daegu,11,38.5°C,137mm/Hg,chronic,overseas inflow,59kg,154cm
+5EB9D565-8B4C-1C65-0A96-5404A95A71FB,Busan,18,37.7°C,133mm/Hg,chronic,contact with patient,90kg,180cm
+ABD3B5C5-1E61-8FE7-8537-AAC95180777B,Incheon,7,37.2°C,127mm/Hg,normal,public place,68kg,160cm
+3E288379-405B-00CA-8AEC-9519501C6BC1,Suwon,16,37.6°C,120mm/Hg,normal,none,48kg,140cm
+6A0E3189-854F-41E2-587C-C377794E6C73,Busan,60,37.5°C,120mm/Hg,normal,overseas inflow,50kg,168cm
+FBAFEA3B-4F2A-19CA-9525-3C65448714BB,Daegu,16,37.2°C,129mm/Hg,none,public place,82kg,136cm
+D533406B-4E50-1EB7-38F6-09C6253E8506,Seoul,60,38.3°C,145mm/Hg,none,overseas inflow,46kg,171cm
+B71DE388-44AA-1F77-224F-BD339F723F2F,Seoul,14,36°C,123mm/Hg,none,overseas inflow,75kg,188cm
+5C1920C8-0EA2-6E2D-3B52-FA958C8F7A7F,Suwon,51,38.3°C,121mm/Hg,none,public place,42kg,154cm
+E7D7C5A5-6871-06B7-7364-A9A2A9EB7DDB,Daegu,17,38.3°C,142mm/Hg,none,contact with patient,81kg,139cm
+D8138315-8588-8BA2-5F97-CECD3825A636,Suwon,55,38.4°C,121mm/Hg,none,overseas inflow,49kg,158cm
+A576470D-092E-71D0-7D30-582446236251,Busan,20,37.3°C,141mm/Hg,normal,overseas inflow,86kg,138cm
+877E66BB-2562-1A2B-96B7-9F65E2FF1FF1,Daegu,15,38.4°C,124mm/Hg,normal,overseas inflow,50kg,170cm
+47452288-7D43-8934-1328-7BB29EA956A1,Ulsan,48,37.7°C,133mm/Hg,moderate,contact with patient,80kg,175cm
+81F3CDA7-4205-314D-5596-163F3DEA5F54,Suwon,6,37.4°C,122mm/Hg,severe,public place,48kg,168cm
+39B5A6DF-8968-45FE-4B38-A2B336B82335,Daegu,56,36.3°C,125mm/Hg,normal,overseas inflow,86kg,139cm
+A6A0AD01-264F-21EB-568C-2EFF5B94200D,Incheon,59,38°C,138mm/Hg,none,overseas inflow,47kg,146cm
+9EF97459-6FD0-439B-1B4D-DAF9E7000DE2,Suwon,16,36.2°C,125mm/Hg,normal,overseas inflow,41kg,133cm
+F2315B72-7459-0494-7DD4-F2EA56969343,Incheon,55,37.1°C,123mm/Hg,normal,overseas inflow,47kg,156cm
+5AF07818-1D59-A347-0487-2B31207B7465,Busan,19,39°C,125mm/Hg,normal,overseas inflow,73kg,170cm
+3CE7AC7F-4DA6-10EB-3307-1F0EFF1F1B24,Suwon,55,37.7°C,122mm/Hg,severe,public place,41kg,170cm
+B15C5D93-4459-4DA0-37AB-E7CB6A9C7E28,Seoul,13,38.1°C,120mm/Hg,moderate,overseas inflow,87kg,131cm
+37BAF253-87FF-9E94-87C9-FED92EC4497B,Ulsan,59,37.2°C,135mm/Hg,chronic,overseas inflow,40kg,158cm
+D032BAC7-2C51-65AA-4078-DE0392C72273,Gwangju,13,38.7°C,122mm/Hg,normal,overseas inflow,89kg,139cm
+486435A0-39C9-7B4D-7D64-9A0F9A1B594F,Seoul,11,36.2°C,138mm/Hg,moderate,overseas inflow,45kg,147cm
+F1F4F323-76B0-917C-8DF3-38F87B484F0B,Ulsan,13,37.7°C,141mm/Hg,moderate,public place,81kg,171cm
+F150D5D7-1A9A-7461-1E9E-C74AB10646A0,Ulsan,57,37.1°C,123mm/Hg,chronic,public place,58kg,164cm
+3850D80E-1BEC-1CC2-15D3-825C02370700,Daegu,19,37°C,128mm/Hg,normal,none,88kg,139cm
+FA0D58FE-5152-86DE-6B50-55E761743C21,Incheon,53,39°C,138mm/Hg,normal,overseas inflow,64kg,159cm
+A4093AA4-2E79-455F-3651-7465B3F9036E,Incheon,20,37.2°C,144mm/Hg,none,overseas inflow,85kg,170cm
+289BB5E5-7161-061D-0135-5B02FBE70E2D,Daegu,50,38.7°C,130mm/Hg,none,overseas inflow,43kg,165cm
+BA623FE6-6015-8D0B-41E1-8E05E9596C32,Busan,18,36.7°C,128mm/Hg,normal,public place,80kg,173cm
+65746FFE-A1F9-009E-7A3E-27441B32891B,Ulsan,50,38.2°C,124mm/Hg,chronic,public place,42kg,156cm
+1C436D05-6ACA-3A97-18E9-BDC6B2DF34B3,Ulsan,18,36.6°C,123mm/Hg,none,public place,89kg,135cm
+914B8AAF-5BD5-6B23-398B-528E07547FDF,Incheon,56,36.6°C,122mm/Hg,normal,overseas inflow,54kg,144cm
+FFEF9C9D-1701-3E53-3B74-C4C11A5A13E7,Seoul,16,37.9°C,146mm/Hg,chronic,public place,83kg,131cm
+91A19572-660B-2A84-9EF8-4A15716206DF,Busan,56,37.1°C,150mm/Hg,moderate,overseas inflow,68kg,150cm
+0608A6B3-8F76-8824-8D13-E6FCA0B3413A,Incheon,18,38°C,126mm/Hg,none,contact with patient,82kg,178cm
+8CBFEFF2-29EE-823D-88D9-32AF3C290D5C,Suwon,10,37.1°C,126mm/Hg,none,public place,70kg,151cm
+6C79094C-14BA-1D87-20F0-C90BFB9D1BC1,Gwangju,20,37°C,136mm/Hg,moderate,public place,41kg,137cm
+EE5C1B81-05A4-7F1E-5E24-28DCEECE0280,Incheon,9,38.3°C,128mm/Hg,normal,overseas inflow,41kg,149cm
+1FA27405-3403-059D-3F43-DEDAC45A1937,Ulsan,14,36.3°C,135mm/Hg,moderate,public place,88kg,135cm
+C245817B-9395-A262-97C2-1D897C168D13,Busan,58,37.3°C,133mm/Hg,moderate,overseas inflow,42kg,155cm
+DFC34071-5D3B-35CE-A15B-9E9D38641C1D,Incheon,19,36.2°C,123mm/Hg,normal,public place,71kg,178cm
+2530A342-17F5-702E-7CD0-3969D8396EF8,Seoul,50,36.3°C,125mm/Hg,normal,public place,50kg,172cm
+ACB2B688-9799-30A4-63EB-05B14A870EFC,Incheon,19,36.9°C,121mm/Hg,none,public place,85kg,133cm
+90081C50-98DB-6FEE-557F-145206BCA660,Incheon,55,37.7°C,122mm/Hg,moderate,overseas inflow,49kg,144cm
+D0CED215-9D53-405F-5F00-8660562A3BB3,Incheon,14,38.1°C,127mm/Hg,moderate,public place,41kg,134cm
+FF4B37CA-5BBB-6022-5724-0CE5C6973CD0,Daegu,52,37°C,128mm/Hg,none,overseas inflow,49kg,168cm
+B879674C-9E4F-2C2F-7AA0-925C9D866A67,Ulsan,42,38.1°C,142mm/Hg,chronic,public place,86kg,180cm
+65EC0D9A-5266-95E0-09D0-9579FAF48BFD,Incheon,7,36.3°C,123mm/Hg,normal,none,43kg,172cm
+61BB0A27-9BF1-07B9-6A8E-70D9F183558F,Daegu,18,37.9°C,126mm/Hg,moderate,public place,49kg,133cm
+DC6AB853-936D-4FBD-0C5D-81C3B1558417,Busan,9,37°C,129mm/Hg,normal,overseas inflow,41kg,163cm
+ED8CABEB-4327-1551-5408-560524B430F4,Suwon,17,37.9°C,125mm/Hg,normal,contact with patient,50kg,137cm
+46DD198D-0211-036B-2EA3-526DE3D5284E,Busan,60,38.1°C,129mm/Hg,severe,overseas inflow,41kg,148cm
+8F59B231-A018-1EEE-0462-1BDA05042740,Incheon,19,38.3°C,126mm/Hg,normal,none,80kg,173cm
+052EC2CC-23F0-4568-65FA-9DD8A75631A9,Daegu,59,36.8°C,148mm/Hg,normal,public place,46kg,145cm
+10E5F4AF-118A-9405-31BB-202D11215693,Ulsan,57,37.4°C,137mm/Hg,moderate,none,50kg,134cm
+3D0F835C-127B-4BE4-8FD8-8683121A874A,Daegu,55,37.7°C,122mm/Hg,normal,overseas inflow,50kg,160cm
+8F153B67-5429-36B3-4092-D89F8BF420B2,Ulsan,19,39°C,126mm/Hg,none,none,80kg,138cm
+C57AAE74-97A9-87A4-2094-2AF34C185769,Suwon,57,38.1°C,130mm/Hg,none,overseas inflow,48kg,143cm
+041EBED3-9078-2387-0A90-794D8BE008EB,Gwangju,16,36.5°C,121mm/Hg,normal,overseas inflow,84kg,176cm
+290A437F-2E93-2FB9-5C76-011AD3A561E2,Ulsan,6,37.6°C,129mm/Hg,severe,public place,59kg,154cm
+AFEDAC40-A246-6C21-625B-CB5E044795E5,Seoul,19,37.5°C,130mm/Hg,none,none,83kg,176cm
+7800E88D-A78B-1C1B-6728-3E6D29D327ED,Suwon,51,38.8°C,123mm/Hg,none,overseas inflow,53kg,160cm
+12C245F5-5855-6874-113D-7DAAD689218B,Gwangju,17,36.8°C,134mm/Hg,moderate,public place,81kg,175cm
+C47A6A11-2B9B-236A-460F-2858A6B26881,Ulsan,56,36.3°C,123mm/Hg,none,overseas inflow,49kg,152cm
+483BCDE6-7B86-A3A7-1093-33A7FA7128C2,Gwangju,19,38.1°C,123mm/Hg,chronic,overseas inflow,73kg,175cm
+E3A2C634-9880-586F-6E65-A11346825949,Ulsan,51,37.5°C,126mm/Hg,moderate,public place,50kg,143cm
+3843A760-37DC-58AE-42DF-7E6DC9476F70,Incheon,13,38.9°C,129mm/Hg,moderate,contact with patient,82kg,173cm
+DAD7FE2B-473C-12C1-0027-335AB25E8113,Incheon,58,36.9°C,143mm/Hg,normal,overseas inflow,47kg,156cm
+290662E5-2BFD-4EC1-9B4B-AEF96B1627DE,Ulsan,20,38°C,139mm/Hg,severe,overseas inflow,88kg,138cm
+299FF857-2233-5566-40B8-3D6B997B02D2,Incheon,55,37.5°C,125mm/Hg,chronic,overseas inflow,47kg,140cm
+BA4426EB-7748-7E63-71AD-5B30EE286AD6,Seoul,13,37.2°C,131mm/Hg,severe,public place,88kg,173cm
+F407DE02-012D-1098-1D46-96659230A796,Ulsan,7,36.6°C,144mm/Hg,chronic,public place,64kg,169cm
+77F9F844-0FE9-70E8-0BA6-70044B117145,Busan,17,36.4°C,130mm/Hg,none,none,90kg,137cm
+3E66A36F-1DCC-74D9-5A60-882FBF9C1C9D,Gwangju,59,36.8°C,137mm/Hg,none,overseas inflow,67kg,140cm
+391AA2DB-918D-4D48-3C2F-1617FA4F3696,Incheon,14,38.9°C,123mm/Hg,normal,public place,90kg,135cm
+4F9C0884-5FC4-4675-1920-EA357D663AD2,Suwon,9,39°C,125mm/Hg,normal,overseas inflow,45kg,160cm
+EA1BD8F2-3664-3A04-649C-9CBA101C27CF,Suwon,13,38.5°C,120mm/Hg,severe,public place,85kg,178cm
+30764C80-504F-9A22-7D2C-504B4A3E5738,Busan,7,37°C,130mm/Hg,normal,public place,57kg,167cm
+93EDD6AE-54E7-827D-60BA-ABF609FA0BDD,Busan,13,38.4°C,130mm/Hg,none,contact with patient,86kg,140cm
+6F2E6113-6BF7-7510-6848-58291D09402D,Suwon,53,36.5°C,120mm/Hg,moderate,overseas inflow,53kg,153cm
+ECFE82C9-7E0E-4B36-24D4-36A175B10300,Daegu,16,38.7°C,129mm/Hg,normal,overseas inflow,40kg,131cm
+D35C9376-3177-6F60-9800-B0FAFBD9852A,Busan,51,38°C,122mm/Hg,none,overseas inflow,41kg,145cm
+5CD2CABE-3ED0-A3A6-92BB-37E53A1A4E9B,Suwon,14,37.6°C,144mm/Hg,normal,none,87kg,177cm
+B6C7604D-9298-231B-7582-2B1A1CE74C46,Gwangju,7,37.3°C,129mm/Hg,normal,none,58kg,151cm
+E8CC2B29-33D6-6040-A668-2A4B04EB4269,Busan,18,37.8°C,122mm/Hg,none,public place,90kg,138cm
+025633C1-25CD-A66E-5EC8-F499789A4098,Suwon,55,37.8°C,130mm/Hg,none,overseas inflow,40kg,156cm
+2F1B288C-43B8-165C-052A-546D79BC6939,Incheon,17,36.4°C,121mm/Hg,none,overseas inflow,85kg,179cm
+417F8FB6-256E-2BCD-0C73-D4162FB2981F,Suwon,15,38.7°C,124mm/Hg,normal,overseas inflow,45kg,152cm
+34F271DA-0CF3-8530-35F6-278B8EC868D9,Gwangju,19,37°C,130mm/Hg,normal,overseas inflow,88kg,177cm
+52326E1C-1BD2-5F43-5CB3-6111188126C4,Gwangju,53,37.6°C,124mm/Hg,none,public place,47kg,154cm
+A7EEC327-94F1-58EC-63B9-F8645DBE4E5C,Incheon,15,36.7°C,122mm/Hg,none,overseas inflow,87kg,130cm
+02FCE059-98A8-457D-2308-751CE263096B,Incheon,54,37°C,149mm/Hg,severe,overseas inflow,46kg,157cm
+F0DF139F-7A40-76BF-4A18-AB488840A032,Incheon,14,36.3°C,121mm/Hg,normal,public place,45kg,137cm
+07F861C5-7805-5EBE-9928-67195E658E89,Busan,58,37.4°C,125mm/Hg,moderate,overseas inflow,56kg,149cm
+3C5E4065-2D8A-A781-29BB-DDB4A76989A0,Busan,20,37.1°C,127mm/Hg,normal,none,90kg,171cm
+7A4ECADD-183C-07B3-22F7-C88C2C87462B,Ulsan,57,37.1°C,125mm/Hg,normal,public place,45kg,153cm
+FC832794-8902-6268-735F-B10CD11CA6DA,Seoul,20,37.5°C,145mm/Hg,chronic,overseas inflow,85kg,134cm
+AA40D610-27D1-2BC3-A53C-BAD8A425271F,Suwon,60,37°C,143mm/Hg,normal,overseas inflow,68kg,157cm
+DE81E505-2089-007B-69B4-266DB90C189E,Seoul,14,38.5°C,148mm/Hg,severe,none,49kg,130cm
+E8ED918B-8EAE-613E-A160-158D63A3894D,Gwangju,6,36.7°C,147mm/Hg,normal,overseas inflow,43kg,173cm
+08B13232-73DB-26E4-580F-75BE241C7A10,Seoul,20,37.1°C,130mm/Hg,chronic,none,75kg,171cm
+E656F6A7-01C9-1E93-20C8-35889FBE9887,Gwangju,14,37.6°C,140mm/Hg,moderate,public place,46kg,141cm
+46712A34-7D41-68E9-A788-B86852BF419A,Ulsan,14,38.6°C,127mm/Hg,normal,overseas inflow,50kg,135cm
+A0751913-322B-2825-1502-8BAD224785C3,Daegu,56,37.6°C,121mm/Hg,none,overseas inflow,46kg,159cm
+B5088953-1200-6A60-7C23-F3E3AB5F8ECF,Gwangju,16,37.8°C,128mm/Hg,none,public place,85kg,170cm
+C6090516-59A9-22B2-6843-94D9A1C92C31,Busan,58,37.6°C,129mm/Hg,none,overseas inflow,66kg,149cm
+4CBF900D-2D0E-9BFF-1D53-A1C62395A2ED,Gwangju,19,37.6°C,129mm/Hg,normal,public place,89kg,173cm
+C2B48F75-089C-A2F3-0F0C-DF11620E2374,Suwon,7,36.2°C,130mm/Hg,chronic,public place,42kg,174cm
+3F9DA972-86C5-44B5-019B-CDAD3A3762C0,Seoul,13,37.9°C,134mm/Hg,normal,overseas inflow,41kg,176cm
+E8F55BF1-3C11-8100-036F-F78058DD8F80,Seoul,56,36.4°C,123mm/Hg,normal,overseas inflow,48kg,174cm
+FED1BE55-6574-46AC-9293-67B2A9FA8322,Daegu,13,38.8°C,120mm/Hg,none,contact with patient,80kg,137cm
+8EB21111-55F9-1988-8AF2-1B0F108395BF,Gwangju,55,38.5°C,131mm/Hg,none,overseas inflow,60kg,159cm
+42BDB414-0265-9535-4828-D2AEAE6E8B82,Gwangju,17,37.1°C,128mm/Hg,moderate,overseas inflow,83kg,178cm
+B39A5E8C-0266-6273-4346-7D69D29A5BAB,Incheon,53,37.6°C,130mm/Hg,none,public place,42kg,159cm
+94FE2FCE-2367-498D-3129-28CF2EED415A,Ulsan,13,38°C,122mm/Hg,moderate,overseas inflow,40kg,175cm
+DE9A1221-934B-75FC-0902-B95EAC0D2443,Busan,59,38.8°C,143mm/Hg,normal,overseas inflow,44kg,147cm
+1C22C4F3-9202-17C6-1853-3C3951589A0F,Seoul,14,38.8°C,122mm/Hg,none,none,42kg,133cm
+23ABAF49-0BA1-73A4-8881-37B4B0CF1B21,Gwangju,57,38.6°C,143mm/Hg,normal,overseas inflow,51kg,153cm
+0A058B55-7619-A562-08F4-54B9E63269D8,Seoul,20,37.9°C,121mm/Hg,none,overseas inflow,90kg,176cm
+E87DE32F-A756-6804-5B65-08D064221C3E,Seoul,6,38.3°C,127mm/Hg,severe,none,64kg,146cm
+446F2FDF-80BC-631E-42FC-B0E3445A70C6,Suwon,18,36.1°C,145mm/Hg,none,overseas inflow,90kg,132cm
+E4F6137C-0A12-69D6-9AD8-DFDED9837F68,Incheon,54,36.5°C,127mm/Hg,chronic,overseas inflow,63kg,146cm
+EA29952A-07BF-9CA4-408A-303ABE2D502A,Gwangju,14,38.6°C,132mm/Hg,chronic,contact with patient,89kg,135cm
+4DF1ADAF-0D09-65AA-4264-1D47982C9B3F,Suwon,56,36.3°C,125mm/Hg,normal,overseas inflow,50kg,149cm
+01B62B51-6ED8-86CD-3AE6-B0D91FA65AA0,Ulsan,17,38.3°C,150mm/Hg,moderate,none,88kg,170cm
+B1012149-3293-783C-215D-6C9C92404301,Gwangju,55,38.5°C,128mm/Hg,normal,public place,60kg,159cm
+54C26E7D-5A46-3612-453B-983792CE3C32,Ulsan,20,37.8°C,128mm/Hg,normal,none,82kg,138cm
+70EF4350-8FA2-1186-3600-22994BF3890B,Suwon,54,37.9°C,132mm/Hg,none,overseas inflow,44kg,173cm
+8BCF1044-2AAB-0AF0-3583-D2161DBA5A30,Gwangju,19,37.5°C,149mm/Hg,chronic,public place,80kg,140cm
+FC439122-3086-4756-368F-FA4CC71E434E,Busan,59,37.1°C,129mm/Hg,none,overseas inflow,40kg,156cm
+393C5A6F-5998-5A22-1E17-F8FE223F8A24,Suwon,18,36.2°C,136mm/Hg,none,contact with patient,73kg,173cm
+7E77B9A6-793C-3DEB-274B-9E14AD4F6999,Busan,10,38.3°C,123mm/Hg,none,public place,52kg,150cm
+C7A57C42-5E3D-928F-0282-5C967219523C,Daegu,15,36.7°C,120mm/Hg,normal,none,84kg,140cm
+6B93F755-9EFC-3B7F-901A-99A0CDB9A653,Incheon,60,37.1°C,135mm/Hg,normal,overseas inflow,53kg,146cm
+07344F26-9551-099A-2C74-639F2E993627,Ulsan,20,37.8°C,129mm/Hg,moderate,none,83kg,132cm
+064D7721-72FB-57B1-795F-4F815768A1FE,Ulsan,60,37°C,128mm/Hg,chronic,overseas inflow,46kg,169cm
+2DD2D694-88C1-2B7A-8BCC-E46318DF72F0,Gwangju,14,38.4°C,147mm/Hg,severe,contact with patient,89kg,189cm
+8DB409DB-7C25-764E-7D20-4F2CCA583D7C,Seoul,56,37°C,124mm/Hg,normal,public place,45kg,173cm
+A816DD76-8404-4BC2-83F1-8A1F230814B6,Busan,15,37.2°C,130mm/Hg,normal,overseas inflow,46kg,137cm
+1D5C5DD1-1693-9319-911D-A4BA3C623229,Gwangju,60,37.1°C,130mm/Hg,normal,overseas inflow,59kg,143cm
+0158615B-7D2B-1C9F-8CDB-1DDA2118423D,Incheon,14,37.3°C,140mm/Hg,moderate,none,89kg,137cm
+57BD778B-21A2-7967-2D13-399D84E880BE,Daegu,50,37.4°C,130mm/Hg,normal,overseas inflow,53kg,145cm
+842D3C24-9770-7380-51FC-4B535CFC59F7,Busan,14,37.5°C,147mm/Hg,moderate,overseas inflow,70kg,178cm
+74A6FF04-92C9-165A-18A0-DCDE4B415AB9,Seoul,10,37.6°C,121mm/Hg,normal,public place,59kg,154cm
+75DF6078-9796-9820-3E12-F492F5C46ADF,Gwangju,16,37.7°C,124mm/Hg,none,contact with patient,43kg,131cm
+1F1B7396-0ED5-99BF-476C-0D0C7C1827BA,Busan,52,37.2°C,126mm/Hg,none,overseas inflow,43kg,143cm
+0224C421-32CC-38F0-35A1-AD19D7E801AB,Suwon,18,38.3°C,125mm/Hg,normal,contact with patient,42kg,136cm
+456DD9B0-4BC7-2F28-5A46-DAFFE2D59703,Incheon,54,38.3°C,135mm/Hg,none,overseas inflow,49kg,149cm
+9FACD52B-92FF-6B07-14E3-D0B46D044620,Busan,54,36.3°C,130mm/Hg,normal,overseas inflow,86kg,171cm
+26ADD6F6-65D2-3D3F-4D50-AC2FC90C9142,Ulsan,57,36.2°C,123mm/Hg,normal,public place,43kg,150cm
+526F891C-5A4E-3982-3A85-730C3EBF83F9,Daegu,17,38°C,125mm/Hg,none,contact with patient,48kg,135cm
+49C42CA0-1C37-9556-3501-B130BBCE3F10,Seoul,13,38°C,120mm/Hg,none,overseas inflow,60kg,167cm
+EC9B06E4-2759-819B-7DE0-67B59B974C87,Gwangju,18,36°C,127mm/Hg,severe,public place,81kg,134cm
+28855E53-9D27-3621-97B0-953DB81D8692,Busan,53,38.5°C,126mm/Hg,normal,overseas inflow,66kg,142cm
+85C298D0-8FEC-96C1-1885-BCF6FF1A5F95,Incheon,18,37°C,121mm/Hg,severe,none,84kg,180cm
+0E949E28-0E96-A0A1-6C72-BD3A210F115E,Daegu,12,37.5°C,128mm/Hg,none,public place,43kg,152cm
+41C1881D-011C-912A-4B0B-0F37FA9D413A,Busan,49,37.3°C,120mm/Hg,normal,none,90kg,136cm
+9F31E450-0088-429C-4726-251802347769,Incheon,56,36°C,126mm/Hg,none,overseas inflow,70kg,145cm
+238DFF93-07CA-A533-3478-40E22C720C35,Seoul,18,36.7°C,145mm/Hg,moderate,contact with patient,86kg,133cm
+06512498-5D83-3382-3524-2148389B69EA,Ulsan,50,37.5°C,147mm/Hg,moderate,overseas inflow,48kg,151cm
+5A25C950-131E-12B9-24AC-AB9FD4A05F93,Busan,18,36.7°C,141mm/Hg,normal,overseas inflow,88kg,177cm
+3D1D352E-175D-2B82-29F6-CBB5D3971FE4,Busan,54,37.6°C,122mm/Hg,severe,public place,50kg,159cm
+05893994-2394-7998-8F15-52CA66B367CD,Ulsan,17,38.8°C,132mm/Hg,chronic,contact with patient,42kg,138cm
+7B85A10F-5631-4236-83DF-BBFA390A0430,Ulsan,59,36.2°C,126mm/Hg,none,overseas inflow,47kg,167cm
+7C4CEAAD-535C-384D-2F93-A0B66ACB5C33,Busan,19,38.1°C,124mm/Hg,normal,public place,87kg,137cm
+2F589F76-8C2C-8E8C-7A54-1A272BCE918C,Suwon,56,38°C,123mm/Hg,normal,overseas inflow,47kg,170cm
+13BCF603-778C-7422-326D-3197073E3AF1,Incheon,16,38.9°C,127mm/Hg,none,contact with patient,80kg,177cm
+ECCA3F07-37F5-207D-7BA9-FFF0DAFA7800,Suwon,59,37.5°C,129mm/Hg,severe,public place,43kg,158cm
+36B5776D-3373-918B-2498-5A5619943399,Seoul,14,37.8°C,124mm/Hg,none,public place,50kg,131cm
+20DC8779-742F-0790-87A8-7EA62377A1DF,Seoul,59,37.7°C,130mm/Hg,normal,overseas inflow,48kg,150cm
+CC0D39A0-17FB-122A-A1EC-6B0295C15038,Daegu,19,37°C,140mm/Hg,normal,contact with patient,84kg,136cm
+9BBDD733-824D-284E-31CE-CD5CC7012BDC,Incheon,52,38.4°C,124mm/Hg,normal,overseas inflow,40kg,140cm
+0BC5DDA9-921C-6B29-7D25-AD9448D728EA,Daegu,53,38.3°C,141mm/Hg,severe,contact with patient,84kg,177cm
+21F694E7-8CF7-0650-6501-37A5F8CD3DB0,Busan,54,37.1°C,125mm/Hg,none,public place,41kg,153cm
+7621D61F-725C-6E66-34B7-13757A116A37,Ulsan,15,37.6°C,127mm/Hg,none,contact with patient,80kg,172cm
+F8F87FA5-0006-8BD3-021E-323535D07595,Seoul,11,37.4°C,120mm/Hg,none,overseas inflow,43kg,142cm
+FA34AC61-8594-2A66-35AD-00E338201943,Ulsan,13,38°C,125mm/Hg,none,none,48kg,140cm
+3074D1EB-9665-215B-24A8-6611AF5C4E35,Incheon,55,38.1°C,144mm/Hg,chronic,overseas inflow,56kg,161cm
+E181E8BA-57B2-725F-90DC-3EE9808B3325,Gwangju,15,38.8°C,127mm/Hg,none,overseas inflow,85kg,173cm
+07F7EE20-4C27-6785-9DDE-F52F28EA7DD1,Seoul,6,38.1°C,142mm/Hg,severe,public place,44kg,158cm
+9736535F-4149-176F-41FA-C9DA7D7B6C94,Ulsan,14,37.7°C,133mm/Hg,normal,public place,88kg,139cm
+FBFA1DFB-3A89-4870-3EF3-6172A5C3329A,Seoul,56,37.4°C,137mm/Hg,chronic,overseas inflow,48kg,150cm
+28A10A0E-1161-3BC7-0B5B-9F742E984A92,Seoul,19,37.2°C,149mm/Hg,none,overseas inflow,81kg,137cm
+71C1D3AD-3263-903B-0A84-D4AAB5747996,Daegu,59,36.1°C,122mm/Hg,normal,overseas inflow,57kg,152cm
+2E2B82AE-8AE8-3381-5946-0E9AC82423D5,Daegu,13,37.9°C,131mm/Hg,normal,none,71kg,185cm
+41EC166C-41F8-6A99-05C4-12C28D511F54,Suwon,14,37.9°C,127mm/Hg,none,public place,53kg,163cm
+750E019B-2239-5436-8BA9-0BA923D07C1F,Seoul,19,38.8°C,130mm/Hg,severe,overseas inflow,80kg,131cm
+762B2BE1-0E59-6B26-13F3-9CDC77647467,Seoul,55,38.6°C,145mm/Hg,severe,overseas inflow,54kg,142cm
+02C23864-6C56-99DD-A2A5-E95FC5A83BA6,Daegu,15,39°C,128mm/Hg,normal,overseas inflow,42kg,136cm
+34057D47-3A9C-A2C8-1720-99A7E02179D6,Daegu,53,37.9°C,121mm/Hg,none,overseas inflow,54kg,153cm
+E3C5C34F-0CF1-A416-93C2-96F61ADB45DA,Suwon,55,36.7°C,122mm/Hg,normal,public place,84kg,185cm
+E06A5D6B-9671-28B3-5D85-697E5204208F,Gwangju,57,36.4°C,150mm/Hg,chronic,public place,46kg,148cm
+35A893BA-414D-590A-2144-40B4D2581B22,Suwon,53,37.7°C,130mm/Hg,normal,none,46kg,174cm
+FD5CB9E1-7633-A564-0692-848A19432ADD,Seoul,58,38.1°C,138mm/Hg,moderate,overseas inflow,47kg,175cm
+3FACD46C-1E81-7580-0319-C0F39C1B5CAC,Seoul,16,37.9°C,127mm/Hg,normal,none,84kg,139cm
+35569C3D-2793-7496-63E1-05CBBF4B818F,Gwangju,57,36.1°C,130mm/Hg,none,overseas inflow,70kg,142cm
+31D05051-7763-1667-3423-8F9E1E033B2A,Gwangju,16,36.8°C,128mm/Hg,none,contact with patient,70kg,175cm
+1824959E-A1E3-6AE6-97A0-1C0AFFA586E9,Busan,51,37.5°C,150mm/Hg,moderate,public place,48kg,142cm
+ABDE5C19-3611-90A2-5941-864E3FE6577F,Gwangju,19,36.1°C,142mm/Hg,severe,contact with patient,89kg,136cm
+9AAAE4FB-A78C-16EE-150F-393DB6E94A56,Busan,7,37.5°C,122mm/Hg,none,overseas inflow,47kg,146cm
+5FCEBD55-1734-A2B8-0876-2FEDEE5A1E24,Suwon,17,38.8°C,137mm/Hg,none,contact with patient,88kg,180cm
+6ED99C75-A1B4-7A77-2DC6-9E7BD6389E39,Suwon,50,37.3°C,131mm/Hg,normal,overseas inflow,67kg,164cm
+0EAE9A95-4A2C-5487-8F78-44F257156DA1,Daegu,17,38.7°C,148mm/Hg,normal,overseas inflow,85kg,170cm
+D9126ADA-92DA-2F48-A157-969935C07C6A,Busan,14,37.5°C,137mm/Hg,chronic,public place,60kg,148cm
+D9198259-8306-0630-6792-5FC52FA81CED,Daegu,13,37.5°C,129mm/Hg,none,public place,86kg,134cm
+42DCD7CA-8C4D-7D3E-4DA3-4CF0BE425619,Busan,54,37.7°C,144mm/Hg,chronic,overseas inflow,50kg,171cm
+A9CFDCA1-6010-75D7-13A7-38D463870B12,Busan,15,36.8°C,130mm/Hg,chronic,public place,43kg,135cm
+E20026A6-41BD-4B67-04F7-9B8BA28422EB,Ulsan,59,38.9°C,125mm/Hg,normal,overseas inflow,49kg,154cm
+E1768025-6030-86ED-82B0-3CCEDA4E4B4B,Gwangju,13,39°C,136mm/Hg,moderate,public place,78kg,188cm
+12F0AF1A-0321-6C85-30E2-3AEDF8C528A8,Busan,7,36.4°C,126mm/Hg,none,public place,68kg,151cm
+9C9B067A-2BCB-7FA9-1641-1AEF26E66281,Incheon,17,37.2°C,130mm/Hg,severe,none,49kg,174cm
+75CFFFB2-A70E-6220-3819-158CF6341774,Ulsan,53,38.6°C,126mm/Hg,moderate,overseas inflow,50kg,156cm
+93F40655-56E4-A0CF-2E34-BDB16D76062E,Suwon,14,37.2°C,124mm/Hg,chronic,contact with patient,81kg,135cm
+DF75BB8C-1977-0584-493B-40B1A9F01782,Seoul,55,37.1°C,127mm/Hg,normal,overseas inflow,59kg,147cm
+E10A5568-9AF3-1414-1982-B98D2C149649,Ulsan,14,37.6°C,150mm/Hg,normal,none,88kg,175cm
+D2EE0319-8CF9-8E35-4228-A01A41C13354,Gwangju,60,38.4°C,123mm/Hg,none,public place,54kg,175cm
+3B36E85D-44E1-7A06-5A4D-755354A724A5,Suwon,17,38.1°C,139mm/Hg,severe,overseas inflow,42kg,132cm
+313B38A3-54E3-282F-17F0-327B0AC00048,Incheon,60,36.2°C,130mm/Hg,none,overseas inflow,48kg,155cm
+86AF128B-4780-1F00-2C68-3E91687B4D47,Incheon,15,36.4°C,122mm/Hg,none,none,42kg,130cm
+C154120B-68A2-5B06-6112-6FFD3A22A348,Suwon,13,36.8°C,146mm/Hg,normal,overseas inflow,50kg,172cm
+B63AD97A-6E6F-6243-1A2D-6F5266F63152,Busan,15,37.9°C,141mm/Hg,severe,overseas inflow,89kg,173cm
+B9C7D9AD-52B8-72FD-7065-CB1BE7A049B5,Busan,51,38.9°C,133mm/Hg,normal,public place,47kg,140cm
+2C3F242D-3FAE-396B-6538-138D75B06F3B,Seoul,19,36°C,128mm/Hg,none,overseas inflow,89kg,178cm
+E77BDA2B-362D-9EBF-00CA-D2AA6F48A1F8,Incheon,58,37.9°C,140mm/Hg,chronic,overseas inflow,48kg,145cm
+210E1D35-484C-0126-871A-DD6F5A020E63,Gwangju,14,37°C,125mm/Hg,none,overseas inflow,82kg,140cm
+68D48B88-1F7C-84E3-A613-A301F3802ADC,Incheon,7,37.6°C,124mm/Hg,none,overseas inflow,56kg,170cm
+C90E432E-6A0B-72BA-0108-8D71FA3E685D,Gwangju,45,37.4°C,124mm/Hg,chronic,contact with patient,80kg,179cm
+D14FA5DB-3C21-747F-A053-ACA1A5D18B80,Seoul,10,37.5°C,129mm/Hg,normal,public place,68kg,155cm
+58DAE69C-6CD9-9C80-67C0-F975C2640B73,Incheon,18,37.8°C,126mm/Hg,none,public place,81kg,178cm
+6788C502-8614-9894-4FD8-E6139468A569,Seoul,11,38.9°C,145mm/Hg,chronic,overseas inflow,40kg,172cm
+D811825C-6B48-18C0-7543-8F6318C68BA6,Incheon,54,37.1°C,131mm/Hg,severe,overseas inflow,90kg,135cm
+2A7E84C0-69AF-458F-2CD0-38D9139D7AC8,Busan,15,37.3°C,145mm/Hg,normal,overseas inflow,67kg,151cm
+66D7F41C-9F6D-09AB-507F-B06DA8B7A12B,Busan,17,37.5°C,125mm/Hg,normal,overseas inflow,82kg,170cm
+DBE65B84-85D9-6490-967B-1367748A4B69,Seoul,56,36°C,126mm/Hg,none,public place,65kg,153cm
+7B180069-0DC3-9D57-0076-03350FBD7900,Gwangju,13,38°C,125mm/Hg,moderate,none,47kg,132cm
+108F81E3-49EB-2A6D-9FBA-E53C2E902149,Suwon,51,37.2°C,127mm/Hg,normal,overseas inflow,49kg,153cm
+275AA08D-6ED5-538D-8299-89645C691D02,Seoul,53,36.3°C,124mm/Hg,chronic,overseas inflow,46kg,136cm
+1943F4AE-710D-8F05-075A-9BA0154E5610,Suwon,55,38.8°C,130mm/Hg,moderate,overseas inflow,46kg,144cm
+2F4B95B4-64A3-9375-9D45-AEB435BB5C10,Suwon,57,37.5°C,125mm/Hg,none,overseas inflow,89kg,176cm
+84E4D430-53CD-809F-58F2-3141CD38478E,Seoul,54,37.9°C,132mm/Hg,none,public place,61kg,149cm
+DF22D31D-8FE3-8F6D-3FC2-8D3C31688C9C,Suwon,52,36.2°C,143mm/Hg,chronic,overseas inflow,85kg,180cm
+9B497278-55C0-A00D-5E2C-019B75862D90,Gwangju,56,37.7°C,146mm/Hg,normal,overseas inflow,57kg,162cm
+C5399CCE-6BBF-4087-9A68-4E923CFE135A,Gwangju,16,37.4°C,124mm/Hg,moderate,overseas inflow,81kg,180cm
+AAE631FC-36F8-64DA-634B-D830F6E669FA,Ulsan,13,37.5°C,145mm/Hg,chronic,overseas inflow,44kg,142cm
+5765F7F6-3BAB-5D54-215C-2014DCE8185B,Gwangju,18,37.1°C,120mm/Hg,none,overseas inflow,79kg,171cm
+5991CDA8-A539-7780-91A0-F81888417019,Busan,55,37.4°C,129mm/Hg,normal,public place,42kg,145cm
+0C015ABF-8967-0AD0-2484-FEF86AAE3B48,Gwangju,19,37.8°C,120mm/Hg,none,overseas inflow,44kg,140cm
+0BA5D8AE-0798-A090-8CDD-75ACC37930F2,Ulsan,54,37.1°C,128mm/Hg,normal,overseas inflow,44kg,144cm
+A7F7FD96-3C93-7289-9877-AC211C1E4A10,Busan,18,38.5°C,123mm/Hg,normal,contact with patient,42kg,174cm
+82B7C3B0-0C81-003D-7000-CA1B18D35DB1,Gwangju,59,37.9°C,124mm/Hg,severe,overseas inflow,40kg,161cm
+7915701E-4B05-1B9A-9D11-9852D6130606,Daegu,15,37.1°C,125mm/Hg,severe,none,85kg,175cm
+ED417C90-38AA-99A4-14B8-E280BB047392,Seoul,51,37.4°C,128mm/Hg,normal,public place,59kg,151cm
+CF9FF505-A6B0-4409-5740-5137225A471B,Ulsan,19,38.4°C,150mm/Hg,moderate,overseas inflow,46kg,139cm
+9DBCF0E5-1850-0C87-1507-B813258D21CE,Busan,13,37.8°C,124mm/Hg,normal,overseas inflow,50kg,155cm
+31320B32-6EED-4A23-2ADE-CF5320249B73,Suwon,15,36.9°C,120mm/Hg,normal,contact with patient,45kg,172cm
+94D206CD-A02B-8782-8FB0-487E4B163F0D,Suwon,8,38.6°C,121mm/Hg,none,overseas inflow,65kg,147cm
+EB276D1D-46DE-4C09-1086-DFB97C5B7F04,Daegu,41,38.3°C,129mm/Hg,normal,public place,83kg,180cm
+A4022953-4DC5-097C-34F0-08526B5041DF,Ulsan,56,38.3°C,121mm/Hg,none,public place,45kg,157cm
+F1447074-78BC-A192-4A8E-DB8339EB0F8B,Busan,13,37.4°C,136mm/Hg,moderate,overseas inflow,50kg,138cm
+DA980969-0FCD-151C-505F-8CA4ED6A903B,Gwangju,51,38.5°C,136mm/Hg,none,overseas inflow,41kg,163cm
+44B78FED-228F-5502-2C81-93B3413D7334,Seoul,15,37.3°C,144mm/Hg,moderate,none,44kg,140cm
+4C58012F-1C56-3763-241C-A4AF4E2A7353,Ulsan,57,37.9°C,128mm/Hg,none,overseas inflow,53kg,140cm
+337662B6-39BC-0628-3543-68E17D169267,Daegu,14,37.2°C,135mm/Hg,moderate,overseas inflow,88kg,186cm
+2EF34B11-17B0-5954-479F-04F372CB3F03,Busan,58,37.3°C,120mm/Hg,chronic,public place,50kg,162cm
+510BF854-3C66-528D-66BD-94EBC7291813,Suwon,18,37.7°C,128mm/Hg,moderate,public place,81kg,136cm
+FFE75EDA-A089-8E40-2BDE-6F5AC70E5644,Suwon,51,36.4°C,132mm/Hg,moderate,overseas inflow,47kg,141cm
+37183965-9B2B-7CDD-1ABC-995D5E52002D,Ulsan,19,37.7°C,124mm/Hg,none,none,46kg,140cm
+B7535FA4-2599-7B4E-07BD-F9FE076E8ED1,Ulsan,56,36.9°C,125mm/Hg,chronic,overseas inflow,43kg,142cm
+8B003D60-2EBF-0328-3633-AEF3C5F573F4,Ulsan,17,36.3°C,125mm/Hg,normal,contact with patient,85kg,187cm
+4A23CF44-15EB-6CC9-64AF-5D4A953D94B0,Busan,52,36.7°C,127mm/Hg,normal,public place,43kg,152cm
+69C27EFB-5C9D-691F-9713-3B66C92A06CC,Daegu,20,36.3°C,128mm/Hg,severe,public place,46kg,135cm
+2203BCD7-07D0-13C8-6202-6B388B9D4374,Daegu,55,38.2°C,144mm/Hg,chronic,overseas inflow,51kg,175cm
+FCFF9E89-6DAA-1617-47BA-81D9F54C45D6,Daegu,15,36.8°C,127mm/Hg,normal,none,81kg,176cm
+58E60842-45D2-9DBC-3F3A-97E4713738A9,Suwon,53,38.4°C,124mm/Hg,none,overseas inflow,61kg,165cm
+93F9269C-595F-48CB-8B21-66BC2E566FD6,Ulsan,42,37.5°C,129mm/Hg,moderate,public place,73kg,173cm
+3EF98B51-0F88-439E-8BFB-063AA42A4FC2,Gwangju,55,38.2°C,128mm/Hg,normal,public place,40kg,157cm
+B8273214-1B5D-0441-3F23-F52D82962D88,Ulsan,20,36.2°C,127mm/Hg,severe,contact with patient,82kg,170cm
+3897DD96-03D9-9782-7D13-08841C3079A9,Incheon,50,38.8°C,127mm/Hg,none,overseas inflow,44kg,156cm
+8848D2CC-5BC1-4E6D-731B-B3D7FEC79B27,Seoul,16,38.1°C,146mm/Hg,moderate,contact with patient,44kg,179cm
+50020B16-8DA4-9341-1FE8-E9E630AC4190,Daegu,56,37.9°C,123mm/Hg,none,overseas inflow,46kg,156cm
+CBA5D9DB-8603-4112-3DE0-C35878BE3D37,Seoul,14,36.8°C,150mm/Hg,moderate,public place,83kg,179cm
+F08E8C2A-1234-6610-03E9-24F317B56A9A,Busan,59,37°C,133mm/Hg,normal,public place,47kg,152cm
+2E62410D-6273-45E3-7149-A226AB5853A2,Gwangju,20,36°C,130mm/Hg,normal,public place,90kg,136cm
+0440E28E-5CAE-98DE-5B61-3D341127233C,Seoul,53,37.5°C,137mm/Hg,normal,overseas inflow,40kg,161cm
+BB37B0B1-18F7-05F6-074F-DC24149C79AD,Incheon,16,36.8°C,121mm/Hg,normal,overseas inflow,80kg,130cm
+80A203E6-4928-12B7-8C61-06F20A149859,Ulsan,15,37.3°C,130mm/Hg,normal,overseas inflow,43kg,149cm
+F87F0CB8-13D0-8CFE-2F2D-4F202AC251E6,Busan,15,37°C,126mm/Hg,none,public place,79kg,175cm
+789ECF00-95DB-1730-5E8D-24DAC5AF4998,Seoul,60,38°C,120mm/Hg,chronic,public place,48kg,163cm
+5726C2D3-61E0-778D-8E25-7E5D96AC678D,Daegu,20,37°C,130mm/Hg,none,contact with patient,82kg,176cm
+2B162D70-497A-7F94-3A54-DD8B8D1A259F,Daegu,50,37.4°C,140mm/Hg,severe,overseas inflow,55kg,140cm
+11D138F8-8ECA-72EE-3D88-1509CD384675,Gwangju,13,36°C,120mm/Hg,none,public place,47kg,172cm
+D245EC80-144E-518E-7614-1A2269007BEF,Ulsan,11,37.5°C,132mm/Hg,moderate,overseas inflow,67kg,143cm
+828BA847-A519-1CE2-79BE-5B3A2F269C86,Ulsan,17,37.5°C,129mm/Hg,none,overseas inflow,86kg,177cm
+4CA987C9-35D0-06EA-8609-07D9B243492F,Daegu,50,37.7°C,124mm/Hg,normal,public place,41kg,159cm
+113AC919-82A6-744C-85B1-FF885F89833F,Seoul,19,38.4°C,128mm/Hg,chronic,none,48kg,137cm
+EEC2D036-9E24-44E2-2E3C-43807B2C6E6C,Ulsan,11,36°C,120mm/Hg,normal,overseas inflow,68kg,167cm
+2A7F4E81-A71F-77D9-722B-5B457AD42859,Gwangju,20,38.5°C,125mm/Hg,normal,public place,47kg,134cm
+E9164BA0-634F-008A-9F25-141A4C863FF5,Suwon,53,37.6°C,131mm/Hg,chronic,overseas inflow,66kg,155cm
+3BBA96EB-70C3-0E47-8C74-957490931F21,Daegu,14,37°C,147mm/Hg,moderate,overseas inflow,77kg,177cm
+A4B538B1-2D41-8061-733A-E4D97FCD264E,Seoul,53,37.8°C,145mm/Hg,severe,public place,41kg,155cm
+79A1EBBB-6696-5DF6-82AB-FFDD53D4A53F,Daegu,14,37.2°C,142mm/Hg,none,public place,86kg,132cm
+CF731FDC-A5B5-2CD3-54B0-4E1F30B43A76,Daegu,50,37.6°C,126mm/Hg,none,overseas inflow,63kg,166cm
+08EBE829-3E1C-25D9-96E6-D4572373863F,Gwangju,19,37.4°C,120mm/Hg,none,overseas inflow,43kg,138cm
+3B7EFFD2-76BE-0DB2-60FC-B06412AA3F40,Suwon,57,37.8°C,127mm/Hg,moderate,overseas inflow,44kg,141cm
+4D52DDB9-5CBF-3B13-4FCF-C46B50055DBF,Incheon,48,37.8°C,123mm/Hg,chronic,public place,84kg,175cm
+00E0AC1A-2596-9430-3CED-7BF7F56661AB,Incheon,51,38°C,144mm/Hg,severe,contact with patient,67kg,158cm
+1E64CE33-6275-2C30-8846-CCBD49CC84A5,Ulsan,20,38°C,127mm/Hg,chronic,contact with patient,82kg,132cm
+E5DD74FB-0EE6-8D09-7365-D9FE6AD15D29,Seoul,51,38.7°C,129mm/Hg,none,overseas inflow,45kg,148cm
+E6985E6B-A29F-800C-34B8-C806A948160E,Daegu,60,36.9°C,134mm/Hg,severe,none,81kg,180cm
+93574A21-4C83-91CE-4C80-3A7557FE9CFC,Gwangju,59,37.6°C,150mm/Hg,normal,overseas inflow,48kg,157cm
+80CA8859-6F3D-2623-7878-EC5EC0414133,Ulsan,49,37.2°C,130mm/Hg,normal,contact with patient,74kg,177cm
+344087AA-A05F-04D7-7ECC-4744CB1D83DD,Busan,58,37°C,134mm/Hg,normal,contact with patient,47kg,173cm
+32F125C1-15CA-2EA9-4D90-367272482739,Daegu,41,38.6°C,131mm/Hg,moderate,overseas inflow,81kg,131cm
+E4A9CC5B-9586-750D-5FDB-E139A71A43E9,Daegu,14,36°C,130mm/Hg,none,overseas inflow,44kg,159cm
+68BE0294-3491-A5DA-99B9-D9BFA1E70B0F,Daegu,14,38°C,124mm/Hg,none,public place,45kg,136cm
+9171E077-686D-338C-1C61-A529D1EB6966,Incheon,55,38.7°C,120mm/Hg,none,overseas inflow,42kg,164cm
+A729E5D6-27C3-1D96-08CF-388AE82E12ED,Busan,14,37.3°C,130mm/Hg,severe,public place,86kg,170cm
+7374F9A2-7AB6-5DE9-449D-398B9C337722,Seoul,59,37.3°C,129mm/Hg,normal,public place,43kg,153cm
+24AC11C9-1172-A224-475A-FA8D703E8297,Incheon,17,37.4°C,130mm/Hg,normal,contact with patient,84kg,136cm
+66DC8371-9631-966A-A4BF-BE1971126442,Ulsan,52,36°C,125mm/Hg,none,overseas inflow,46kg,144cm
+14E9676C-1BD9-726B-11A3-4447301F0F02,Daegu,16,37.4°C,125mm/Hg,none,public place,45kg,136cm
+2EBBE992-8B30-2CDD-2982-321EBBF81939,Suwon,13,37°C,141mm/Hg,normal,overseas inflow,44kg,140cm
+22A8D55B-5805-701A-4E9F-32EAF14FA08D,Gwangju,20,37.7°C,145mm/Hg,chronic,public place,82kg,170cm
+3EA881FD-2E3A-27A1-733D-3673C0C8063A,Busan,54,37.8°C,122mm/Hg,moderate,public place,46kg,146cm
+939700D8-1C41-267F-7928-FA6C53031BC9,Daegu,17,37.1°C,126mm/Hg,none,none,43kg,140cm
+2D09A237-9F85-5B19-2A4B-45A3F7D0A740,Seoul,57,36.8°C,121mm/Hg,normal,overseas inflow,67kg,150cm
+AA49A20B-3D19-9E11-2D3B-FDBA30A7427A,Gwangju,41,39°C,128mm/Hg,normal,public place,89kg,170cm
+F907C4F1-A0B2-9A6B-9E9C-47CE796944DD,Ulsan,59,37.1°C,140mm/Hg,normal,overseas inflow,55kg,144cm
+BC14670B-53A7-5D92-A15D-E6A0420A428E,Busan,15,37.7°C,122mm/Hg,normal,contact with patient,71kg,170cm
+7B94753F-12DD-6414-59BC-E08768C25A4B,Ulsan,8,37.5°C,126mm/Hg,severe,public place,48kg,145cm
+F09DAEEA-599B-0797-855B-1238CF264348,Daegu,16,37.9°C,130mm/Hg,normal,public place,90kg,138cm
+69F97EDE-94B6-83E2-77DF-7640C6B1A0D2,Daegu,60,37°C,129mm/Hg,chronic,overseas inflow,61kg,156cm
+69852F1F-9365-8123-277C-E06E69FC54B4,Seoul,16,36.9°C,130mm/Hg,normal,public place,45kg,130cm
+ABEA0BDA-234D-164A-7C4D-CAABC4C041B4,Incheon,54,37.5°C,127mm/Hg,severe,overseas inflow,46kg,140cm
+E3CCFFDD-6503-0485-9A21-D318D22B1279,Incheon,13,38.9°C,146mm/Hg,moderate,contact with patient,81kg,180cm
+16982583-0361-961D-6ECA-B3C491E258C4,Busan,52,38°C,122mm/Hg,chronic,public place,56kg,164cm
+64EAA2B5-88F9-8409-51CE-A02E1F0993D0,Seoul,17,38.1°C,145mm/Hg,normal,contact with patient,43kg,140cm
+B0A41AE0-097B-9E15-1C08-25C6B97E57C3,Daegu,53,37.8°C,122mm/Hg,none,overseas inflow,53kg,160cm
+4FF9AA9A-8FB4-581A-60EC-AEA942F07607,Ulsan,16,37.9°C,126mm/Hg,none,public place,80kg,133cm
+6F3EF0F9-4AD2-0D2B-6E0B-5CD7BD0928A3,Suwon,58,36.5°C,129mm/Hg,chronic,overseas inflow,50kg,142cm
+39A70703-3290-85C7-9648-FF57695A83C4,Ulsan,16,38°C,130mm/Hg,none,none,79kg,176cm
+8937FC3F-4449-4F52-01F8-74C712E05E27,Daegu,51,38.9°C,130mm/Hg,chronic,none,68kg,174cm
+8548FD63-70A0-1900-6259-865340EE565A,Ulsan,15,37.9°C,120mm/Hg,none,contact with patient,45kg,135cm
+2CB5A5AC-9632-5FCB-6CE2-846D8AA43F00,Busan,58,39°C,147mm/Hg,chronic,overseas inflow,41kg,161cm
+49E30267-09B0-969E-1EE2-9DD28F2C0FD1,Ulsan,13,36°C,130mm/Hg,normal,public place,43kg,174cm
+71608845-7B36-45B4-38E4-CD75338D3F4F,Busan,54,38.1°C,147mm/Hg,moderate,overseas inflow,43kg,140cm
+5ADC0DB8-7E79-802B-63B7-8382F980738F,Ulsan,15,37.1°C,127mm/Hg,none,public place,71kg,187cm
+897361A7-45E4-0E19-4230-3223094C5AFC,Gwangju,57,37.3°C,147mm/Hg,none,public place,56kg,146cm
+48D36930-3D31-A169-0CAC-1137C2DE61A7,Gwangju,13,37.9°C,129mm/Hg,normal,contact with patient,87kg,135cm
+041AD23C-A055-2071-4ECF-ED386F972E25,Ulsan,9,37.6°C,130mm/Hg,normal,overseas inflow,52kg,163cm
+492E1989-77AD-7A3E-0AD3-3FD4B3B109CB,Ulsan,15,37.8°C,126mm/Hg,normal,contact with patient,81kg,131cm
+98FCA074-3109-19AD-7391-78EBE3161816,Ulsan,53,38.9°C,130mm/Hg,normal,overseas inflow,44kg,147cm
+3F3E22C0-29E4-6E3D-2AD5-7B0A69F12152,Incheon,15,37.9°C,133mm/Hg,chronic,none,86kg,178cm
+E880F6BA-0143-80A0-728C-1449784798FD,Incheon,60,38.3°C,122mm/Hg,none,public place,41kg,150cm
+4738F0FB-0131-6CF6-3AE6-A7F07A66283D,Ulsan,19,37.6°C,122mm/Hg,none,none,85kg,135cm
+A3AF1689-0E21-65BC-97F0-D41300540420,Daegu,8,37.7°C,131mm/Hg,normal,overseas inflow,43kg,145cm
+99869BE4-89FB-85C2-242B-64DE8BBA2306,Suwon,18,38.9°C,121mm/Hg,chronic,overseas inflow,44kg,137cm
+2AB74196-6D71-8563-8DA2-606CAA5C8D8E,Ulsan,51,37.4°C,129mm/Hg,none,overseas inflow,41kg,160cm
+97CB151A-3D51-3BF2-0D14-4B7EDA0F925B,Incheon,14,37°C,142mm/Hg,none,none,87kg,180cm
+1FA4DA09-71AB-3769-2596-D9F01BD10925,Daegu,11,36.4°C,121mm/Hg,severe,public place,45kg,149cm
+119F0E94-A498-1EA4-8805-D6311DBFA653,Seoul,16,36.2°C,140mm/Hg,none,contact with patient,42kg,130cm
+9992C683-1D01-2D91-425F-D1B7D46D3CE1,Seoul,52,38.4°C,137mm/Hg,none,overseas inflow,48kg,149cm
+00BD88B9-7C14-14C4-35DB-06BF7D815992,Incheon,15,37.6°C,131mm/Hg,chronic,none,86kg,130cm
+51629D01-4C74-713F-88D2-29684A433D32,Suwon,55,38.7°C,120mm/Hg,normal,overseas inflow,49kg,140cm
+6C7D90C1-38A0-42B8-355A-50AF618C8F75,Daegu,14,38.1°C,120mm/Hg,none,none,77kg,173cm
+505E8D1F-0E0B-481D-8CEF-B6A240D80D65,Busan,58,38°C,148mm/Hg,none,none,47kg,143cm
+00BD07A4-76F8-804F-7CF9-2F729DED2CD9,Busan,13,37.5°C,120mm/Hg,none,contact with patient,87kg,138cm
+1D8376B4-65CC-28EF-A2CA-8135726733F3,Seoul,57,37.9°C,142mm/Hg,chronic,overseas inflow,48kg,160cm
+81EB43DA-5EE4-86DA-A453-EED64F895865,Seoul,15,38.4°C,136mm/Hg,chronic,overseas inflow,45kg,175cm
+CB4D9F3C-9356-8963-28D1-903307347C12,Gwangju,60,37.6°C,122mm/Hg,severe,overseas inflow,49kg,146cm
+54CE0EF1-95BB-9768-8C11-E3B03E4F6F80,Ulsan,17,36.2°C,128mm/Hg,moderate,overseas inflow,84kg,170cm
+B18F984F-2244-0EC5-244B-BC30E15C9500,Gwangju,50,38.2°C,138mm/Hg,moderate,contact with patient,43kg,158cm
+65942636-12B0-4B8D-816D-4611C3E045BD,Ulsan,14,36.8°C,135mm/Hg,moderate,overseas inflow,42kg,133cm
+B6DEA167-6D28-39BF-2C5F-2A5FDEC068D5,Suwon,51,36.2°C,123mm/Hg,normal,overseas inflow,42kg,153cm
+4CEDC533-4CF4-7392-1175-1789A8D90E4F,Gwangju,20,37.7°C,132mm/Hg,moderate,contact with patient,84kg,135cm
+A00DEDF8-24A0-373D-81AB-D482D1EB8D52,Daegu,60,38.6°C,130mm/Hg,severe,overseas inflow,65kg,144cm
+0EA26AEE-8371-9AEC-8621-C4BF96FF52FA,Suwon,16,36.1°C,127mm/Hg,none,overseas inflow,84kg,179cm
+B8D6AD2B-173B-04F1-4DF5-4C2EDBAE723B,Daegu,56,36°C,121mm/Hg,normal,public place,52kg,171cm
+084A797E-A38D-1D54-1734-E9C4058B0CE7,Suwon,16,38.8°C,122mm/Hg,normal,overseas inflow,89kg,130cm
+DE1E71D0-876E-66D3-0F11-A30B31A29E53,Busan,50,37.6°C,128mm/Hg,none,overseas inflow,43kg,154cm
+2A38E4A1-0838-95FB-21EE-590A9E9256C2,Seoul,18,38.6°C,124mm/Hg,none,overseas inflow,40kg,130cm
+5D47EC47-4F85-6BAA-7DE0-0C934F448DB1,Suwon,56,38.2°C,143mm/Hg,moderate,overseas inflow,50kg,157cm
+BC04AA73-1D1F-3609-4719-4B23C8889026,Gwangju,15,37.1°C,121mm/Hg,none,public place,87kg,171cm
+5E7879D5-5CDF-7E06-8607-7A9E61A1A35F,Busan,6,37.3°C,121mm/Hg,severe,contact with patient,50kg,140cm
+AD39D87E-018E-8ECF-67FD-9120F0E91175,Ulsan,52,37.6°C,146mm/Hg,moderate,contact with patient,86kg,133cm
+75C550D0-1F90-6E18-213E-BE41E2CC6BE9,Ulsan,59,36.6°C,146mm/Hg,normal,overseas inflow,56kg,166cm
+66251552-4430-67E3-13C6-BF6E20102415,Suwon,14,36.9°C,121mm/Hg,normal,public place,47kg,137cm
+9FE02E90-9333-A783-17AD-10BBCCEB69DD,Daegu,59,38°C,124mm/Hg,normal,overseas inflow,47kg,155cm
+F064DF98-3BBD-867E-3397-7D3A9CCA0782,Busan,16,36°C,120mm/Hg,normal,contact with patient,86kg,179cm
+5EB40682-36BE-6966-385E-CD160A1E9293,Daegu,57,38.3°C,121mm/Hg,normal,public place,44kg,157cm
+F1AA24D7-2009-8FCE-A434-77BAD4265B17,Ulsan,18,36.7°C,124mm/Hg,normal,public place,86kg,136cm
+60DCC345-47CC-1049-7FA9-B166487E19FC,Gwangju,56,36.4°C,129mm/Hg,none,overseas inflow,40kg,150cm
+D9A9405C-A0E7-200C-74D6-6121B0C00D34,Seoul,19,38.7°C,122mm/Hg,normal,none,40kg,130cm
+26306029-10F4-2BFC-3F52-7653EE228E4D,Incheon,60,37.4°C,128mm/Hg,chronic,overseas inflow,49kg,148cm
+83883FFD-46DA-1AA1-7AC4-3CCFD4D42911,Suwon,18,38°C,131mm/Hg,severe,overseas inflow,80kg,178cm
+EBF91FA9-001C-41AD-5735-9D9BF6418A08,Ulsan,56,37.2°C,130mm/Hg,none,public place,48kg,157cm
+7A3BCCF9-4C7C-852E-890B-2A174F7375B8,Suwon,17,37.3°C,128mm/Hg,moderate,none,87kg,138cm
+B631B5FA-2B98-74B4-6C37-4EBEC1281F82,Daegu,56,37.7°C,143mm/Hg,normal,overseas inflow,40kg,146cm
+1F97EBAA-2116-506D-91DF-B6E8665F0645,Gwangju,15,36.9°C,125mm/Hg,none,overseas inflow,80kg,177cm
+BAD950CB-A112-478F-517B-D9AE01BF5303,Busan,54,37.6°C,129mm/Hg,chronic,overseas inflow,42kg,154cm
+521E0BAB-0310-332E-5078-43844EC2118F,Incheon,16,36°C,135mm/Hg,severe,none,73kg,173cm
+95FD638E-49E5-8DBB-0060-47239DA2011B,Busan,58,36.7°C,133mm/Hg,normal,public place,43kg,154cm
+BD90246D-6AAF-7005-336C-145CADC68AC4,Ulsan,13,38.2°C,143mm/Hg,normal,public place,40kg,133cm
+24D3C3EE-7593-5874-5C01-7D8239337717,Ulsan,51,37.9°C,120mm/Hg,moderate,overseas inflow,41kg,158cm
+185AAA86-785F-7762-17D2-523894310D42,Incheon,20,37.3°C,132mm/Hg,none,none,83kg,136cm
+E5820707-6B4F-A520-8CCD-47A4D79A2496,Incheon,51,37.3°C,128mm/Hg,moderate,overseas inflow,42kg,142cm
+EB0C8E0A-0CEE-7FF3-6FA8-8A47A0570403,Ulsan,44,38°C,123mm/Hg,normal,public place,87kg,177cm
+0D06B673-435C-75FA-923B-ACFB71495633,Seoul,60,36.1°C,132mm/Hg,normal,public place,41kg,149cm
+89AE4451-5ABF-7FE1-5EA8-E27791F733B4,Busan,13,37.2°C,122mm/Hg,normal,none,89kg,131cm
+003126B5-9828-6B58-1102-A8F0ED8A7BA9,Daegu,14,37.8°C,128mm/Hg,normal,overseas inflow,49kg,147cm
+68E534F7-A3F9-3FCF-92C9-F43DB9FE0B1C,Suwon,16,37.2°C,130mm/Hg,severe,contact with patient,90kg,138cm
+5D5808F5-3915-73D5-9783-7F174F169FBE,Incheon,13,36°C,120mm/Hg,normal,overseas inflow,58kg,143cm
+0A87541B-8F8A-8682-7797-CD3807291791,Gwangju,15,37°C,133mm/Hg,severe,public place,83kg,173cm
+1B92AFD5-834C-01E8-5261-5E78B67E548D,Incheon,58,37.3°C,126mm/Hg,normal,public place,45kg,151cm
+F627F19D-7B22-9556-5E62-99281095116A,Daegu,15,38.6°C,130mm/Hg,moderate,public place,90kg,139cm
+5C2FDA28-5A59-6214-A604-174238EC4469,Gwangju,14,36.5°C,120mm/Hg,normal,overseas inflow,42kg,161cm
+9AFFD261-9731-3D8D-276B-84CD97A19A47,Suwon,20,36°C,122mm/Hg,none,overseas inflow,49kg,178cm
+3A4F8E09-4704-5813-A72B-EE6C9ACB6B6A,Daegu,54,38.4°C,129mm/Hg,none,overseas inflow,49kg,156cm
+CE12F0B8-1810-924F-8384-1C6F0D1E4989,Daegu,59,38.4°C,131mm/Hg,chronic,none,85kg,172cm
+9CBAA4C9-1384-6FD6-1915-E37268A20477,Seoul,60,39°C,124mm/Hg,moderate,none,42kg,149cm
+A9F4E0B5-8F50-8A6F-3D30-4EE01B842A45,Gwangju,41,36°C,129mm/Hg,normal,contact with patient,45kg,170cm
+A0635060-103C-4EAB-86DF-8A37A29C299A,Ulsan,51,36.5°C,120mm/Hg,none,overseas inflow,44kg,173cm
+320BB554-9907-06E9-A3A0-107DF82D0F6B,Gwangju,19,38.4°C,150mm/Hg,moderate,overseas inflow,86kg,131cm
+1AB08D62-0068-7564-5597-D688CB1B23A8,Gwangju,8,36.6°C,122mm/Hg,none,overseas inflow,40kg,149cm
+64A73CAF-7CCE-6090-33F2-9C7EEBD46D4C,Gwangju,48,38.5°C,125mm/Hg,normal,public place,80kg,173cm
+1441E8D8-8C61-4E11-2481-CEF18A679ACB,Daegu,55,37.3°C,149mm/Hg,severe,public place,45kg,158cm
+4424040F-5FFE-6FFE-9B85-CB9C47F68B3B,Seoul,19,38.7°C,129mm/Hg,none,public place,80kg,138cm
+1CA6FA44-4866-827C-6BDB-C3723EBC93BB,Ulsan,50,36.2°C,148mm/Hg,severe,overseas inflow,47kg,158cm
+0D3CF79A-4CDE-1EAE-A51A-18DA59959B75,Seoul,14,36.9°C,122mm/Hg,moderate,contact with patient,47kg,138cm
+2C311067-77EA-384B-73F0-A3CBD3763673,Daegu,58,36.8°C,129mm/Hg,normal,overseas inflow,58kg,150cm
+003F5C7C-1D04-63D5-0F13-C6D777C520D0,Incheon,16,38.2°C,137mm/Hg,none,public place,80kg,180cm
+D8B37297-42ED-8A3F-371C-2E20D9A14EC5,Gwangju,60,36.3°C,129mm/Hg,chronic,public place,40kg,163cm
+A1611E80-5689-1265-62FB-E78E21AC5943,Gwangju,19,36.2°C,142mm/Hg,chronic,public place,80kg,134cm
+A3BE75FB-526B-6B76-75DA-DC04324E3575,Incheon,58,37°C,131mm/Hg,normal,overseas inflow,54kg,144cm
+FF03A544-0C20-89DB-15B7-3C5DBF30059E,Ulsan,14,37.5°C,120mm/Hg,none,contact with patient,50kg,178cm
+19A799A6-5872-7BA6-72C0-DA2C2D2C6509,Ulsan,56,38°C,129mm/Hg,none,overseas inflow,53kg,152cm
+9B5C458C-6870-2B70-85CE-FA84C49891CE,Incheon,16,37.7°C,120mm/Hg,chronic,overseas inflow,71kg,170cm
+204650ED-6C08-9901-89BA-915410635DBF,Daegu,6,37.4°C,120mm/Hg,none,public place,45kg,152cm
+38411868-3C4C-5D35-2D81-5A9A180E8083,Gwangju,16,37.6°C,137mm/Hg,moderate,public place,46kg,178cm
+DC42EBCA-9F14-4EE1-7F8F-59AA92321C90,Busan,59,37.7°C,124mm/Hg,normal,overseas inflow,57kg,151cm
+BEAA4411-61B8-5D23-6D27-68F2293499F9,Seoul,20,36.6°C,149mm/Hg,severe,overseas inflow,42kg,177cm
+C94E29AF-65BC-090A-65BE-2250D0BA0BF1,Gwangju,58,37.9°C,127mm/Hg,chronic,overseas inflow,50kg,149cm
+CC8928FE-1618-14D2-5861-C69FD92D027B,Suwon,20,37.1°C,136mm/Hg,severe,overseas inflow,85kg,186cm
+B50502C4-4DE7-80B5-2796-8CFED772449C,Seoul,12,37.4°C,127mm/Hg,none,public place,60kg,140cm
+A7B35B30-01B8-0FAD-91A3-8F12631A2F6D,Ulsan,14,37.4°C,128mm/Hg,normal,none,82kg,133cm
+2713E386-15F3-0F02-8862-53E286C464D2,Busan,60,37°C,125mm/Hg,normal,overseas inflow,68kg,167cm
+BF0EA9D6-9C15-7456-3FD8-3B908C9A9551,Busan,14,36.6°C,125mm/Hg,normal,contact with patient,50kg,136cm
+EFBAC700-5EA7-0D4C-224D-AAE7FF231D0C,Ulsan,59,36.2°C,127mm/Hg,none,overseas inflow,45kg,144cm
+30376F2A-3175-A594-6D14-5C64D38E9637,Daegu,19,37.1°C,135mm/Hg,moderate,contact with patient,89kg,190cm
+1907F50B-2C11-34CA-449B-4E2F355A765A,Incheon,58,37.6°C,140mm/Hg,none,public place,46kg,143cm
+2CF49D8B-5514-165B-5202-069E70DAA183,Incheon,13,37.6°C,146mm/Hg,chronic,public place,41kg,133cm
+641087D0-2943-26A1-1E4B-9C8FE7221826,Daegu,55,36.2°C,127mm/Hg,chronic,overseas inflow,68kg,148cm
+1EA58550-1AC3-3534-656E-71636241670D,Gwangju,50,37.6°C,136mm/Hg,moderate,public place,47kg,131cm
+4F568AC7-63B6-0B1E-211A-E28260DB7307,Suwon,56,37.1°C,126mm/Hg,none,overseas inflow,47kg,141cm
+4A9CA8CA-4C12-0C04-73C5-6812648998E3,Seoul,60,36.6°C,121mm/Hg,severe,overseas inflow,89kg,174cm
+68841207-55C4-85C5-2A4E-4467B8410FD3,Ulsan,12,37.8°C,129mm/Hg,normal,public place,53kg,147cm
+FA5A62B4-9916-4124-9889-8905115C93AA,Daegu,51,37.4°C,137mm/Hg,moderate,none,85kg,136cm
+55D25A85-70A6-23C0-3C10-997D99017073,Seoul,9,36.6°C,132mm/Hg,severe,overseas inflow,50kg,153cm
+B0267661-09D2-7EEB-8C2D-9D9CB0C189F3,Ulsan,15,36.8°C,129mm/Hg,normal,public place,89kg,134cm
+C9B83431-0A16-775C-6140-778733A1265D,Daegu,56,37°C,133mm/Hg,none,overseas inflow,63kg,146cm
+25866FAB-A33F-1628-504F-F6CB20152FF7,Incheon,18,38.9°C,120mm/Hg,normal,contact with patient,73kg,171cm
+198BE74C-510E-13CA-5770-3154D8AE9B91,Daegu,10,36.5°C,124mm/Hg,none,public place,48kg,142cm
+D7A5142A-8922-5AF9-32B5-BBD176336E7C,Busan,16,38.9°C,148mm/Hg,none,overseas inflow,42kg,139cm
+E3D18507-21E3-7043-1007-F0288661119C,Daegu,53,37.1°C,123mm/Hg,severe,overseas inflow,42kg,160cm
+CD643412-0FA3-7DAC-0C0B-E82FEE0974E5,Incheon,15,38.9°C,132mm/Hg,normal,none,50kg,138cm
+C69C2D66-172E-6774-0C26-646BD6555200,Ulsan,56,37.4°C,126mm/Hg,chronic,overseas inflow,64kg,149cm
+2F682DA8-5088-406F-459E-142D69F762A0,Daegu,14,36.7°C,120mm/Hg,none,none,86kg,180cm
+8349D303-72D3-6E5E-59C0-4B63D3256078,Suwon,51,37.3°C,143mm/Hg,severe,public place,40kg,172cm
+4F309A3C-7A89-0F52-24ED-E357761D461E,Ulsan,20,36°C,132mm/Hg,normal,contact with patient,87kg,137cm
+90AFBB0E-6E0C-7D28-73D2-21DF373F43C8,Incheon,55,37.8°C,140mm/Hg,moderate,overseas inflow,42kg,141cm
+967BA99C-1D97-2E2B-436F-042B0D8F1830,Seoul,14,37°C,128mm/Hg,none,none,87kg,170cm
+47B26165-41B9-446A-65F7-3B9E8D01680D,Incheon,59,38°C,131mm/Hg,severe,overseas inflow,66kg,140cm
+91712520-2FE7-531F-2B2C-66168BF63FDC,Gwangju,17,38°C,138mm/Hg,severe,none,82kg,172cm
+4FC2137C-2068-285D-9154-74939F0C8420,Gwangju,51,37.9°C,123mm/Hg,none,public place,41kg,158cm
+2B0227EC-1610-758A-5089-99D660D97156,Incheon,16,37.9°C,124mm/Hg,severe,contact with patient,88kg,131cm
+63D5A712-A5FE-0409-8A39-D5E1766D8B72,Daegu,54,38.2°C,122mm/Hg,normal,overseas inflow,55kg,144cm
+E32E5961-A062-A6E3-95C0-DC4FACB44259,Seoul,51,37°C,128mm/Hg,normal,contact with patient,89kg,172cm
+340C8D64-1599-231F-5935-EDDF0A546B89,Seoul,52,37.4°C,123mm/Hg,normal,overseas inflow,57kg,141cm
+2878EE46-6150-44F8-66A3-2D65E4A13AE9,Busan,14,38.5°C,123mm/Hg,normal,public place,87kg,175cm
+6D37ACF3-5E6E-1717-74AC-8D15EE8E38C7,Suwon,56,37.2°C,121mm/Hg,normal,contact with patient,50kg,160cm
+10023A8D-5AFD-56B6-5BA4-BDA79A4B2119,Suwon,44,38°C,136mm/Hg,chronic,overseas inflow,82kg,134cm
+A7FE5EE5-901C-0BEA-1368-E60070B8A39E,Suwon,53,38.1°C,146mm/Hg,none,overseas inflow,47kg,154cm
+456CBD18-5534-6ECC-0521-52DBDABB9794,Daegu,13,36.2°C,134mm/Hg,normal,public place,81kg,173cm
+697C8EB1-A747-9A86-665A-5EF1F2AE62CE,Seoul,55,36.4°C,121mm/Hg,none,overseas inflow,40kg,150cm
+1D914067-6DA1-A695-12BC-63CFFA889FE0,Busan,13,38.7°C,149mm/Hg,normal,none,80kg,173cm
+ECF58B85-727D-6EAB-212B-294F0C8813D0,Gwangju,55,38.3°C,141mm/Hg,severe,public place,47kg,145cm
+5D262201-6003-938C-3FB0-0D94F8BD6C84,Daegu,19,37.4°C,142mm/Hg,normal,none,87kg,139cm
+B8A36965-584A-99F4-44A8-6AC6F5EA1148,Incheon,15,37.4°C,127mm/Hg,normal,overseas inflow,41kg,158cm
+B6F7F497-0777-A139-7C6D-353684A53975,Busan,16,38.8°C,143mm/Hg,severe,contact with patient,80kg,140cm
+3D7125DB-5E27-44F3-07C5-E52F9E7772CC,Ulsan,58,36.1°C,124mm/Hg,normal,overseas inflow,44kg,145cm
+D98FD119-1E56-564C-9C3A-D31057410A0A,Busan,15,37.9°C,138mm/Hg,severe,contact with patient,86kg,172cm
+11F2555B-0C04-209A-A76E-1166B3798CF3,Busan,51,38.5°C,140mm/Hg,none,contact with patient,66kg,165cm
+58C04B84-340C-094A-3934-E88EBD046DA7,Ulsan,58,38.9°C,139mm/Hg,severe,overseas inflow,87kg,133cm
+BF980025-7AFD-98AC-6AEB-54EBC3613760,Suwon,14,38.6°C,126mm/Hg,normal,overseas inflow,46kg,142cm
+D32E5656-8F07-8631-745F-A050B1BB1F88,Seoul,50,37.8°C,125mm/Hg,chronic,public place,85kg,139cm
+90D796AC-2783-2517-314E-6191745A311A,Seoul,52,36.3°C,124mm/Hg,normal,overseas inflow,59kg,153cm
+88BF5955-9942-889A-A0F1-37FEC7094B1E,Daegu,18,38.2°C,122mm/Hg,normal,contact with patient,70kg,180cm
+07824B3C-9DE7-2194-5039-61511EFF6BC0,Gwangju,53,38°C,129mm/Hg,normal,public place,46kg,157cm
+A12D5543-3E37-60FC-6EAD-B9E0736D11C4,Gwangju,14,37.9°C,132mm/Hg,chronic,contact with patient,82kg,132cm
+9EBDB17E-80E5-14F2-2D77-CDECF54D8AB4,Ulsan,56,38.8°C,127mm/Hg,normal,overseas inflow,51kg,154cm
+C6F561F4-585B-5C96-96DE-ADCD4DAF3750,Suwon,19,37.3°C,146mm/Hg,severe,contact with patient,43kg,135cm
+EC362FCA-6526-80B7-7ABB-43D6D7321FA1,Gwangju,60,38.6°C,126mm/Hg,none,overseas inflow,66kg,167cm
+51B8D112-105D-A63A-3376-E4D8B046789A,Busan,20,36.6°C,144mm/Hg,none,none,83kg,177cm
+42F0A63B-5146-71FE-1E74-22E4636139B8,Busan,51,36.5°C,127mm/Hg,normal,public place,47kg,171cm
+DAC6513B-17C5-78A7-53FC-E9F02D1359CC,Suwon,20,37.3°C,122mm/Hg,none,overseas inflow,87kg,130cm
+F1C7200D-74B1-9066-487D-137273574EDB,Incheon,57,36.6°C,136mm/Hg,chronic,overseas inflow,47kg,155cm
+C8CE86E0-25C6-6E30-4406-7050B4581FEE,Gwangju,20,38.4°C,130mm/Hg,moderate,public place,89kg,171cm
+7541EC56-9176-2464-3EEA-2F57B0A89CFA,Seoul,56,37.3°C,125mm/Hg,severe,overseas inflow,64kg,160cm
+A009D5BC-8A26-78C0-143C-ACE458193EDF,Suwon,17,38°C,147mm/Hg,normal,public place,71kg,173cm
+BA97EA74-11BF-3F99-7CCB-0425F1323513,Gwangju,52,38.4°C,128mm/Hg,normal,public place,63kg,148cm
+5CCC7F17-0A5C-283E-6118-F201649B9978,Gwangju,16,36.1°C,141mm/Hg,moderate,public place,50kg,135cm
+1039E073-0F43-1374-9673-F360424F92E4,Daegu,59,37.3°C,128mm/Hg,normal,overseas inflow,45kg,148cm
+74954A7D-2E42-5E10-8B3D-6D16221861CE,Ulsan,16,39°C,128mm/Hg,none,contact with patient,40kg,130cm
+D9DD51BA-56F4-49E7-2359-FA3D61D6323D,Gwangju,52,38.4°C,129mm/Hg,chronic,overseas inflow,45kg,151cm
+25D7C1C7-4678-99CE-011C-E7CA48A006BD,Incheon,18,38°C,125mm/Hg,normal,overseas inflow,71kg,175cm
+31A5264A-1962-0470-3D7B-C6EEFAF87271,Gwangju,11,37.5°C,138mm/Hg,severe,public place,60kg,142cm
+EA4F031E-3E2C-1031-4021-BC461D198591,Seoul,13,37.3°C,125mm/Hg,normal,contact with patient,88kg,130cm
+0AAFD256-34D3-A7BD-21F4-87BD829F741C,Seoul,55,37.2°C,126mm/Hg,moderate,overseas inflow,47kg,147cm
+CA122955-21B2-735B-511B-D99D3CC138BB,Gwangju,13,37.2°C,123mm/Hg,normal,contact with patient,41kg,133cm
+E558E039-7634-9AC2-A454-E704A9182398,Daegu,55,37.5°C,130mm/Hg,none,overseas inflow,63kg,148cm
+1AFC8DA2-2D3E-389E-37AF-CBC00F814A2E,Daegu,15,36.2°C,121mm/Hg,normal,overseas inflow,78kg,188cm
+9367A231-7A74-7020-8610-D4EB6A8269DF,Busan,57,38°C,122mm/Hg,none,public place,42kg,160cm
+86DFD4E4-7BF7-1B1B-966D-815A740502F4,Daegu,15,36.5°C,125mm/Hg,normal,public place,44kg,175cm
+7D2F9AE5-9C71-9DF1-18DC-978D5D297F7D,Suwon,59,37.1°C,130mm/Hg,none,overseas inflow,40kg,147cm
+5B04FB0A-59CC-6110-A5EC-DCAA39D658DA,Busan,18,37.6°C,125mm/Hg,normal,overseas inflow,90kg,137cm
+75D54474-5F31-4ACA-8CC2-1EFE42AB3A0C,Ulsan,54,38.2°C,128mm/Hg,none,overseas inflow,40kg,146cm
+B613BDEE-3CA9-4B98-1F02-D8F6976F8490,Busan,59,37.1°C,120mm/Hg,none,public place,82kg,175cm
+26DBC4FD-1AEB-6008-8AA9-595729327597,Busan,57,36.9°C,130mm/Hg,none,public place,64kg,163cm
+D63F2FFA-0B25-209E-026F-D4C5605C0856,Incheon,16,38.1°C,121mm/Hg,chronic,none,81kg,132cm
+9920E2EB-524F-5BE4-059E-536D65BC8304,Gwangju,54,38.6°C,124mm/Hg,normal,overseas inflow,50kg,173cm
+E4B8CBDA-5B64-8D4F-6974-023221EA48E6,Busan,15,37.8°C,121mm/Hg,normal,none,86kg,139cm
+CAEF34F6-9DA2-6B26-5B19-9A20067881C9,Seoul,58,37.6°C,126mm/Hg,none,overseas inflow,47kg,153cm
+B1885ECC-1FD7-302F-1C92-89400B717695,Busan,17,36.1°C,125mm/Hg,none,overseas inflow,83kg,172cm
+1D9B6AA1-1E74-28F0-05CA-D46650244698,Seoul,50,37.4°C,124mm/Hg,moderate,public place,50kg,146cm
+91A924B4-3253-5C56-5A57-CB59FC772EE5,Daegu,17,37.2°C,127mm/Hg,normal,public place,45kg,131cm
+5525112F-6B43-128E-9A53-73D4D60C65F8,Seoul,57,37.9°C,125mm/Hg,normal,overseas inflow,70kg,149cm
+A6421AE0-00D5-12FB-2048-8EEF0DDC73C5,Gwangju,17,38.4°C,148mm/Hg,none,contact with patient,80kg,176cm
+B69CAE18-9C7F-6A58-907B-5C2082EE353F,Incheon,51,36.2°C,129mm/Hg,none,overseas inflow,68kg,156cm
+C1DE3CED-2F0C-5C9C-1794-CD7F37834953,Gwangju,15,37.1°C,123mm/Hg,none,overseas inflow,89kg,179cm
+9A0A9DD6-065B-4D85-3744-6CAFCCA26AAD,Suwon,10,38.5°C,130mm/Hg,none,public place,46kg,173cm
+6F960499-5D60-3BD1-4CDE-E1C440E92822,Suwon,18,36.1°C,144mm/Hg,chronic,none,48kg,131cm
+43031CF5-7AD5-6D1F-0F4C-B1FFEF368D2C,Gwangju,60,37.2°C,130mm/Hg,none,overseas inflow,57kg,151cm
+5F626F71-0BE5-5478-8F6C-E7BF01C63DD0,Seoul,15,37.9°C,137mm/Hg,moderate,public place,83kg,138cm
+B55A7EC6-A623-29F1-1846-98F20F2402B4,Suwon,56,37.5°C,122mm/Hg,normal,overseas inflow,43kg,154cm
+998B01DC-A181-2408-9A3A-1F76DC1A42B0,Busan,19,36.9°C,124mm/Hg,none,overseas inflow,73kg,177cm
+74025D00-19C6-2613-368E-5F7F0FCD8992,Ulsan,56,36.5°C,129mm/Hg,normal,public place,56kg,160cm
+BC9733CD-8CD7-8F0E-2851-D6788EA94EA4,Incheon,19,38.6°C,127mm/Hg,moderate,public place,50kg,130cm
+689994FD-859D-05C7-402A-705AA0E74662,Busan,59,37.1°C,125mm/Hg,normal,overseas inflow,65kg,155cm
+89FA7766-A6A7-8F47-806A-158F1AD4448D,Daegu,13,37.1°C,130mm/Hg,none,contact with patient,81kg,131cm
+B29B876F-6FA3-04BA-5DBF-E6A763912131,Gwangju,54,38.6°C,120mm/Hg,normal,overseas inflow,60kg,160cm
+3CD9305A-7278-8C54-1E24-3DB3867C90A1,Daegu,18,38°C,150mm/Hg,normal,overseas inflow,83kg,170cm
+F57B0149-0EC9-9232-75ED-00957C4F7FBF,Gwangju,51,38.8°C,141mm/Hg,chronic,public place,45kg,174cm
+AA9AA887-47D9-4FA7-3E14-82D8C4BA8E49,Seoul,18,36.8°C,126mm/Hg,normal,public place,42kg,138cm
+06612370-168F-7FE0-870F-AC8688BF5A8A,Gwangju,53,37.6°C,125mm/Hg,normal,overseas inflow,46kg,153cm
+5D9A7EF2-32BF-7F64-535E-CA81872344F5,Daegu,20,36.6°C,136mm/Hg,severe,overseas inflow,80kg,133cm
+5EDC3961-0713-99A4-4FF2-591613C67180,Seoul,59,37.5°C,123mm/Hg,chronic,overseas inflow,42kg,174cm
+104EBDBE-528A-5CEC-8433-E40519BB6B5D,Gwangju,15,37.5°C,127mm/Hg,none,overseas inflow,88kg,186cm
+E6AD051D-8E97-73C2-6E25-1D643D8A3D1F,Incheon,53,37.6°C,123mm/Hg,none,public place,70kg,149cm
+1C6FA784-8F6B-3374-237A-953407A48221,Suwon,17,38.8°C,150mm/Hg,moderate,public place,80kg,172cm
+E9833533-0934-4C3A-6BF6-6389DFF10343,Seoul,56,37.2°C,126mm/Hg,normal,overseas inflow,70kg,141cm
+2AB08443-41EB-68C9-0559-93C32C12732B,Busan,14,38.8°C,126mm/Hg,moderate,contact with patient,47kg,137cm
+06A8F6AC-178D-5A49-412C-F4B5B6138A4A,Incheon,52,37.1°C,145mm/Hg,none,overseas inflow,59kg,150cm
+53B409E0-8EAC-4888-56C3-78181C0221B1,Ulsan,15,38.4°C,131mm/Hg,none,public place,84kg,170cm
+5C6CB8C5-3BEB-2E61-63AF-420331E43FCC,Ulsan,56,38°C,122mm/Hg,none,public place,48kg,173cm
+54EDD906-2B23-828E-83D7-A3FF79F74B5B,Suwon,14,38°C,148mm/Hg,chronic,none,90kg,136cm
+054D103D-4B0A-84B8-207B-81F58B922E7E,Suwon,50,37.3°C,129mm/Hg,none,overseas inflow,50kg,152cm
+62050AF6-881C-7F47-2B86-47011EFA2509,Seoul,18,37.9°C,145mm/Hg,severe,public place,88kg,137cm
+AF9F242C-5179-89B2-213B-AE31443C4221,Seoul,50,37.9°C,123mm/Hg,normal,overseas inflow,44kg,168cm
+8DAED709-453B-52E9-8E4E-908CA69D6868,Gwangju,17,36.8°C,128mm/Hg,normal,public place,85kg,170cm
+9561E534-0066-58F9-7DDA-CA9CB9450208,Daegu,54,37.9°C,131mm/Hg,none,public place,67kg,173cm
+1DF9EEC5-4F74-3924-109C-B8CF0D8E762F,Busan,17,37.6°C,126mm/Hg,none,public place,85kg,140cm
+E3960B95-4A27-6CB1-40C5-210A6F0379FE,Busan,57,37.4°C,139mm/Hg,normal,overseas inflow,42kg,167cm
+6F1C5759-A3BE-44EC-4CCC-FC5FFD8400C7,Ulsan,18,38.4°C,139mm/Hg,none,public place,42kg,132cm
+6542DF44-5340-0349-12FB-555DA0223BD8,Daegu,13,37.6°C,120mm/Hg,normal,overseas inflow,49kg,145cm
+36AE6836-7D4E-84C2-3062-F001C4460516,Seoul,20,37.8°C,122mm/Hg,none,public place,80kg,172cm
+5D33B5F6-23CE-2BA4-6DF0-87BD4FA2651E,Daegu,8,37.6°C,120mm/Hg,none,public place,45kg,153cm
+870DD7F4-810C-7659-4649-DFF8310B84C9,Daegu,14,38.9°C,142mm/Hg,normal,overseas inflow,47kg,139cm
+71815F19-5F08-9FAB-3D7E-53DF377276BD,Busan,53,38°C,144mm/Hg,normal,overseas inflow,41kg,140cm
+36440D4C-5E0C-2A3C-6C23-85719F7D6B83,Ulsan,17,37.4°C,137mm/Hg,moderate,contact with patient,48kg,132cm
+A6967910-2558-5EA9-0586-C4D79B5677C9,Busan,60,36.2°C,147mm/Hg,none,overseas inflow,57kg,174cm
+6B1E82C7-335D-222D-7D6D-9587CB7E981C,Gwangju,47,36.2°C,123mm/Hg,normal,overseas inflow,82kg,180cm
+C00291EB-2C40-72D0-5DA3-A94D0C2D53A1,Seoul,7,37°C,130mm/Hg,normal,public place,42kg,157cm
+8D59C805-10D8-1CF3-936C-DCE696C965FF,Incheon,14,37.5°C,137mm/Hg,none,public place,84kg,137cm
+A965B069-8FA5-0B4A-2EDF-AB3FA95D9D7C,Busan,52,37.8°C,120mm/Hg,normal,overseas inflow,52kg,171cm
+3AEF0874-1969-238B-413B-0E36292678E5,Seoul,16,37.9°C,121mm/Hg,normal,public place,87kg,130cm
+6EB91368-A5DA-98DE-3A5D-A6DDE83F8248,Seoul,6,38.6°C,125mm/Hg,none,overseas inflow,50kg,142cm
+AD1E7026-71D3-4AA7-10EC-06EE788023B4,Busan,18,36.8°C,148mm/Hg,normal,contact with patient,70kg,176cm
+6360DAD8-73DE-03F0-2D64-D3DE7C474D2C,Suwon,51,37.5°C,129mm/Hg,none,public place,69kg,165cm
+86222295-8F30-5000-2F8D-3F307732181E,Incheon,16,38.4°C,148mm/Hg,none,public place,44kg,131cm
+9989EFBD-3D92-A1B5-8311-B57A5015050C,Seoul,54,37.9°C,139mm/Hg,moderate,overseas inflow,70kg,165cm
+E44575BF-80C7-1F22-100E-302F6A1A1288,Incheon,20,36.8°C,126mm/Hg,normal,public place,85kg,131cm
+EC6DDCFC-A367-3C23-484F-CBEE308188E5,Busan,54,37.5°C,120mm/Hg,none,overseas inflow,50kg,153cm
+6CA0335D-3DD1-447F-2BB3-BA44A15C8344,Suwon,41,38.1°C,121mm/Hg,severe,public place,88kg,185cm
+8976CE7B-579A-4DFC-803E-CF151EDD6FE9,Ulsan,55,36.6°C,128mm/Hg,normal,public place,46kg,159cm
+E9DD4177-6CC3-742B-52D0-FAF633EA9195,Busan,16,36.5°C,133mm/Hg,normal,public place,83kg,178cm
+6D7506AA-60D8-0F6A-A20E-A91044253E78,Daegu,51,37.2°C,126mm/Hg,chronic,overseas inflow,70kg,158cm
+A7574DFD-3DA3-85B8-03A1-3EEEE19A4025,Suwon,19,37.4°C,150mm/Hg,none,public place,46kg,137cm
+786B7F3A-17E2-9A76-311B-B353B39285D0,Busan,54,37.1°C,144mm/Hg,chronic,overseas inflow,66kg,144cm
+A29400AD-1C6A-931E-9342-335C6FB59201,Seoul,13,37.1°C,144mm/Hg,none,contact with patient,80kg,173cm
+C2066E5B-97F4-9317-A35D-4DE360653249,Daegu,56,36.9°C,129mm/Hg,normal,public place,43kg,153cm
+F5DE0B1D-2FE5-33BE-9DEE-F7B4232B44FC,Incheon,16,37.1°C,142mm/Hg,none,overseas inflow,80kg,138cm
+EC674EBF-98EF-4F25-0F3F-2C7E471C8C50,Seoul,56,37°C,122mm/Hg,none,overseas inflow,58kg,157cm
+2FE77CE4-73FE-0930-226A-40F0B9DD0F63,Incheon,57,37.9°C,120mm/Hg,normal,overseas inflow,50kg,140cm
+9202BAF5-A399-08AD-204F-2F7AE7601A1F,Incheon,58,37.3°C,128mm/Hg,normal,overseas inflow,60kg,155cm
+5FA47342-1600-18E4-7620-1EF9666BA513,Daegu,19,37.4°C,123mm/Hg,none,contact with patient,81kg,171cm
+0BA782BC-1841-6EE4-023F-A39069234013,Seoul,56,37.9°C,126mm/Hg,severe,public place,50kg,162cm
+1C727399-78F1-3DFB-6FC4-CF2423E700D7,Suwon,13,37.6°C,129mm/Hg,none,overseas inflow,81kg,131cm
+55378576-817B-302F-2586-5E44CBB89AF6,Suwon,59,39°C,130mm/Hg,normal,overseas inflow,55kg,153cm
+89A04DCF-8498-52D5-93A9-6F304FB020D6,Daegu,44,38.8°C,127mm/Hg,none,none,82kg,135cm
+C8539729-6948-618A-7F02-B327B44E7C6C,Busan,55,36.5°C,123mm/Hg,moderate,overseas inflow,45kg,153cm
+27BB3B4C-18E1-64F7-3BA7-6E7C191D3F2A,Incheon,51,38.9°C,149mm/Hg,none,public place,73kg,178cm
+15F7217C-615B-05BD-1EDF-1F33BC0F09EB,Daegu,52,37.1°C,130mm/Hg,none,public place,41kg,172cm
+F51F8695-0216-441B-9CAA-7D36B7600FB4,Incheon,15,37.4°C,120mm/Hg,moderate,public place,80kg,131cm
+BE2D8498-6280-6F56-66C9-A13A74B5732E,Suwon,60,37.6°C,127mm/Hg,none,overseas inflow,67kg,154cm
+C7D8C289-7320-2706-3C17-B941FC7E6CD0,Incheon,20,38°C,127mm/Hg,none,overseas inflow,42kg,176cm
+D6E92C39-65C9-8AC2-54F8-5BECCD0DA08B,Suwon,57,38.8°C,131mm/Hg,moderate,overseas inflow,53kg,170cm
+3C018D74-638E-9DD7-752B-5AC8ED35717D,Daegu,18,36.8°C,127mm/Hg,none,none,87kg,170cm
+5219402F-5BEF-4964-8DF0-04D336943063,Suwon,52,38.5°C,123mm/Hg,normal,public place,64kg,154cm
+A3139A20-532D-53A6-54E3-DFB506BFA548,Daegu,14,36.1°C,120mm/Hg,normal,overseas inflow,45kg,135cm
+F21A9516-3DE1-3F9A-9DC0-9FBF893A3675,Incheon,50,37.2°C,126mm/Hg,none,overseas inflow,68kg,167cm
+8145D7CC-67B5-1619-9C43-1139A4475FFA,Busan,19,38°C,126mm/Hg,severe,overseas inflow,83kg,130cm
+1460A2E7-6FE8-0CFA-3E1D-61CC987E08EB,Daegu,51,37.1°C,126mm/Hg,severe,overseas inflow,41kg,155cm
+03FE7C02-5E35-29C8-70EA-7099D7887F9E,Gwangju,49,38.4°C,130mm/Hg,none,none,73kg,185cm
+F7E021BB-573F-7782-96A6-19EC70897AFB,Incheon,57,37.8°C,147mm/Hg,chronic,public place,41kg,152cm
+48105052-A2C1-7746-992C-71FE3F510424,Busan,20,37.2°C,128mm/Hg,normal,overseas inflow,82kg,139cm
+17B6F857-5592-3545-0EBF-FFCBF3957141,Suwon,55,38.2°C,126mm/Hg,normal,overseas inflow,42kg,146cm
+2C16EA7B-5E04-5756-1DA0-9337575E4186,Seoul,15,39°C,128mm/Hg,normal,none,90kg,130cm
+064F806A-1DB4-001D-4DF9-E111C0E165E7,Ulsan,51,37.2°C,131mm/Hg,none,overseas inflow,65kg,148cm
+18A1F7DD-1AFB-62B8-91AA-73BAE865434F,Daegu,16,38.5°C,129mm/Hg,none,overseas inflow,77kg,171cm
+CA271E0E-66FE-A068-203A-C13A67CE20A2,Seoul,57,37.2°C,126mm/Hg,none,public place,48kg,173cm
+66740E82-7A84-0C50-045F-FBD937C21920,Gwangju,20,36.9°C,130mm/Hg,severe,public place,85kg,176cm
+C75601DA-1F71-71A2-9F68-365594F78830,Busan,57,37.3°C,133mm/Hg,chronic,overseas inflow,46kg,142cm
+94033672-17C3-0241-6C78-CEC750FF2706,Seoul,42,36.3°C,120mm/Hg,none,contact with patient,82kg,139cm
+60B8E70C-54D3-5335-42A5-E528237B12B8,Seoul,58,37.7°C,129mm/Hg,none,overseas inflow,58kg,153cm
+621D8B75-82C3-6FED-1EE9-CDE1CE275355,Gwangju,45,37.3°C,120mm/Hg,normal,none,74kg,170cm
+B239E41F-184B-73CD-21C2-7FEB273B1ABE,Suwon,52,38.3°C,120mm/Hg,normal,public place,43kg,169cm
+2313EBF4-173A-3EA3-0AF4-85A2276E4749,Ulsan,17,38°C,132mm/Hg,normal,public place,83kg,138cm
+23DBB226-63C4-8876-94A1-EC7E6D56A508,Ulsan,57,38.4°C,121mm/Hg,none,overseas inflow,54kg,140cm
+685AE3E8-7F9D-4EAE-6F11-BE7FF22D53AB,Ulsan,13,37.2°C,144mm/Hg,normal,overseas inflow,83kg,137cm
+CAB0B2AD-9A73-2FE6-8073-781969335071,Incheon,54,38.3°C,120mm/Hg,none,overseas inflow,47kg,160cm
+84DA4A7F-005B-8890-339B-36D38E6E3C37,Busan,13,38.5°C,132mm/Hg,none,contact with patient,90kg,173cm
+80A56635-A4F0-0B62-7846-791F52FD47D1,Gwangju,54,37.5°C,121mm/Hg,severe,public place,44kg,151cm
+65609BB8-0E07-81EE-A654-FC0D56F101F0,Daegu,15,38.5°C,136mm/Hg,normal,public place,86kg,172cm
+860DCFEA-4827-14F3-355C-CCDEAA1D1E65,Gwangju,56,37°C,130mm/Hg,moderate,overseas inflow,50kg,150cm
+05338A0F-1FCC-37B3-8533-FDF2C0679078,Daegu,16,36.2°C,138mm/Hg,normal,public place,45kg,175cm
+23EB9D85-8798-1284-A5C3-AB22D7388758,Incheon,7,36.8°C,138mm/Hg,severe,overseas inflow,62kg,151cm
+8654B94F-144D-011D-9D7F-C4D139561C9E,Ulsan,19,38.4°C,139mm/Hg,chronic,none,73kg,173cm
+DBAE7EF3-2C4F-3AF2-866D-5BAE80833220,Seoul,51,36.1°C,122mm/Hg,none,public place,42kg,150cm
+F137A779-65E3-7D75-633F-6DF2AF5E7AD1,Gwangju,17,37.1°C,127mm/Hg,severe,contact with patient,89kg,139cm
+E07A4361-204A-5BF3-6487-812AA60E46A7,Ulsan,53,37.1°C,120mm/Hg,moderate,overseas inflow,49kg,140cm
+BB0D72F0-4185-6548-A6E3-3A120C8A8E46,Busan,45,38.2°C,137mm/Hg,moderate,contact with patient,90kg,133cm
+E63F04B8-40F4-860C-9A99-B47DE4AC9772,Daegu,56,38.3°C,135mm/Hg,none,overseas inflow,53kg,143cm
+3310C07E-88E8-0D39-6528-E8C5C0FF7F96,Ulsan,16,38.8°C,138mm/Hg,normal,contact with patient,84kg,173cm
+FBF319A0-401E-321C-3D1C-2F23A1093D82,Daegu,14,37.1°C,128mm/Hg,none,public place,67kg,158cm
+A385DE92-358C-618B-6820-32B42B3E6771,Gwangju,57,37.6°C,127mm/Hg,moderate,overseas inflow,50kg,138cm
+B8AB566B-490B-6D66-8AF4-D0CECC522D5C,Incheon,50,36°C,131mm/Hg,normal,overseas inflow,50kg,148cm
+17626FBF-0D28-49BD-8349-4C88EC4E343D,Suwon,16,37.8°C,150mm/Hg,severe,overseas inflow,83kg,130cm
+8078B851-7139-63B7-51B8-8FFB4C52138B,Gwangju,54,37.8°C,129mm/Hg,none,overseas inflow,43kg,155cm
+783673E2-943F-01D1-38BF-F825D0F98E76,Incheon,15,37.5°C,131mm/Hg,severe,public place,78kg,173cm
+C74ADCEC-161A-8737-1B6B-DE4D8C164ECD,Ulsan,57,38°C,143mm/Hg,normal,contact with patient,55kg,165cm
+3137ACDD-1A5C-6D0E-5940-87F488EF4FBF,Seoul,13,37.2°C,124mm/Hg,moderate,overseas inflow,88kg,170cm
+939A9272-063B-3F1A-1652-3F664B8E87B6,Suwon,53,37.9°C,125mm/Hg,normal,overseas inflow,49kg,164cm
+238299BC-2B0A-6FDF-609B-3A01DF7E8D03,Busan,49,37.9°C,121mm/Hg,moderate,overseas inflow,82kg,133cm
+5254C7C8-36E7-570C-11B6-E6E0FE36011B,Ulsan,57,38.2°C,132mm/Hg,none,overseas inflow,50kg,158cm
+8D5B1968-6ECE-36E8-96CE-6EAC6EF59315,Seoul,18,37°C,130mm/Hg,none,contact with patient,90kg,172cm
+6764710B-38BC-46C6-2EAA-0852B5344856,Incheon,55,36.6°C,149mm/Hg,none,public place,42kg,149cm
+13EA8E9F-2ACC-4BBB-905C-867ED07E1564,Daegu,17,37.3°C,121mm/Hg,normal,contact with patient,41kg,180cm
+2BA267A1-883E-A685-2084-A209DFB9267E,Gwangju,58,36.8°C,124mm/Hg,none,overseas inflow,49kg,160cm
+AFF9DB59-1FF0-8C03-93AD-EA77D0964C6B,Busan,18,36.6°C,147mm/Hg,normal,none,49kg,180cm
+E5977D62-034C-4D9A-470C-B68171866202,Gwangju,52,38.6°C,129mm/Hg,none,overseas inflow,45kg,153cm
+D8D10D5D-0E2E-16CA-765A-E199E8CE5533,Ulsan,14,37.1°C,120mm/Hg,normal,overseas inflow,80kg,174cm
+311FF200-2A75-A609-93FC-A48BCEAC0DB3,Busan,54,37.8°C,147mm/Hg,severe,public place,42kg,156cm
+4A6079C5-5BB1-A6CA-612A-0DBD00817213,Daegu,20,36.2°C,128mm/Hg,chronic,none,84kg,130cm
+C338FFD1-512B-9415-5FB6-7AE927E72DD4,Daegu,10,37°C,121mm/Hg,normal,overseas inflow,45kg,144cm
+C2412E5A-7F38-73CF-488A-BB7228AC3A58,Busan,17,38.1°C,123mm/Hg,none,contact with patient,42kg,133cm
+87B4F2A8-84AD-0879-2E0C-7C13E16C7E17,Daegu,51,37.3°C,129mm/Hg,normal,overseas inflow,69kg,171cm
+FA8793BD-6AEF-862D-9AB1-8B56FF1B4070,Daegu,14,38.5°C,122mm/Hg,normal,contact with patient,85kg,171cm
+12040B07-A53D-9646-0169-2F3FC42A324E,Daegu,12,37°C,130mm/Hg,normal,public place,59kg,144cm
+077BB0FE-76CB-4795-5C73-36E0BF310201,Gwangju,40,38.6°C,120mm/Hg,none,none,87kg,132cm
+8CB15FD7-110D-26D6-1C2B-F8572F3DA565,Busan,9,37.3°C,147mm/Hg,normal,overseas inflow,69kg,172cm
+5494D4E7-056B-821F-0FD2-25B2642C8385,Ulsan,16,37.9°C,139mm/Hg,normal,none,81kg,138cm
+8A4EC155-01DB-4D91-3B18-8A32C24627F2,Busan,15,38.4°C,124mm/Hg,none,overseas inflow,50kg,151cm
+DE99771B-83AF-1AA5-6A8F-DAC3BB938259,Busan,14,36.9°C,144mm/Hg,chronic,none,84kg,189cm
+20D2736C-00A8-97B9-542B-D5423824430D,Daegu,59,38.6°C,121mm/Hg,normal,contact with patient,44kg,141cm
+7507D835-25F0-962A-95E4-F1B3B4233F61,Gwangju,13,36°C,123mm/Hg,none,public place,83kg,139cm
+A373CCF3-2E59-8797-1F19-C2D71E223E44,Busan,56,37°C,127mm/Hg,moderate,overseas inflow,41kg,143cm
+12DA0904-3DB0-1DF6-4390-A1BA07A44F72,Busan,45,36.4°C,137mm/Hg,normal,none,90kg,131cm
+96259BC7-6298-24E6-8D31-0EB06C5F0FC2,Suwon,51,37°C,144mm/Hg,normal,overseas inflow,59kg,171cm
+3C3771D2-3F99-547A-8842-50BD3D49200A,Seoul,20,37.2°C,126mm/Hg,severe,overseas inflow,83kg,170cm
+F463B82C-2B9C-591D-65DD-94C89E173C06,Suwon,51,38.9°C,129mm/Hg,none,public place,50kg,159cm
+ACFADF57-6FD1-9542-6599-1F167CFEA7C5,Suwon,14,36.6°C,130mm/Hg,none,overseas inflow,81kg,134cm
+D6A373B9-7C50-5C89-0A03-1B881A9443EA,Ulsan,58,37°C,121mm/Hg,chronic,overseas inflow,44kg,155cm
+ABFBA0B0-1D68-8A72-8E12-197A623A6BB1,Busan,14,37.2°C,128mm/Hg,none,contact with patient,40kg,172cm
+691C38BA-4DE7-2499-9F90-F94AA92A4523,Ulsan,59,37.1°C,130mm/Hg,none,overseas inflow,59kg,154cm
+077848EC-8B35-053E-548E-FC7A0090757E,Seoul,18,38.9°C,130mm/Hg,moderate,overseas inflow,80kg,173cm
+EDC6FD00-1AD3-6DD2-4E27-006BA4A3060D,Ulsan,52,37.9°C,125mm/Hg,none,public place,55kg,161cm
+BB197E06-1447-8B3C-71C1-D69577002813,Incheon,15,37.1°C,126mm/Hg,chronic,public place,80kg,180cm
+2A3E7B18-1248-0CC1-6AFF-84415FC71DFE,Busan,54,38.2°C,120mm/Hg,chronic,overseas inflow,61kg,172cm
+630C1C10-46E4-333F-221A-A8A732811743,Gwangju,14,38.7°C,145mm/Hg,severe,public place,40kg,139cm
+F681B64E-93D9-1D31-9913-C90F192D10B3,Ulsan,56,37.6°C,122mm/Hg,normal,overseas inflow,45kg,140cm
+3A889A3B-558A-A47D-750C-5E4866463636,Daegu,17,37.8°C,145mm/Hg,chronic,overseas inflow,71kg,176cm
+354636C9-5769-4DF8-0980-2BF5A8DD3894,Gwangju,11,37.6°C,120mm/Hg,normal,public place,50kg,168cm
+579DCF61-165F-8727-1960-6FBC645C1F53,Seoul,17,37.5°C,147mm/Hg,moderate,contact with patient,48kg,134cm
+2697E9FA-5087-4C6A-42C2-2AF75A691162,Ulsan,52,36.2°C,148mm/Hg,moderate,overseas inflow,48kg,157cm
+905254F8-93BB-1CB7-2A41-04BF064E80DD,Ulsan,16,37.3°C,124mm/Hg,normal,public place,85kg,132cm
+076C2ED0-6265-8427-85FE-7ACFAB9363E8,Suwon,7,36.7°C,129mm/Hg,normal,overseas inflow,42kg,149cm
+A53CDB77-5145-901F-1BFA-08508EC77418,Daegu,20,39°C,120mm/Hg,normal,contact with patient,75kg,179cm
+29DAF804-33BB-4518-65D2-342262CB6674,Daegu,56,37.1°C,130mm/Hg,none,public place,58kg,149cm
+76FFE03D-8B94-8514-8A11-C023439E014D,Suwon,19,37.8°C,127mm/Hg,normal,contact with patient,85kg,177cm
+F0725080-4030-0707-6E3C-984AF942106A,Busan,56,36.9°C,136mm/Hg,normal,overseas inflow,60kg,160cm
+3FC5A38B-42B6-51D8-2E55-A8C6C4706BDA,Daegu,19,36°C,127mm/Hg,chronic,contact with patient,42kg,131cm
+3C745696-A73D-0E6F-360B-034C10298739,Gwangju,7,38.8°C,127mm/Hg,none,overseas inflow,60kg,165cm
+DF4E218F-3616-5892-0EFE-C406B9B56ACB,Daegu,43,37.7°C,130mm/Hg,normal,contact with patient,71kg,178cm
+F6D674D3-955B-6463-28E5-1F08ED806F9D,Suwon,9,38.8°C,121mm/Hg,normal,public place,40kg,158cm
+EE711C53-683A-A4CE-2581-720B8ACB68E7,Busan,17,36°C,129mm/Hg,normal,overseas inflow,46kg,177cm
+E77C5081-32BA-0875-5E34-9DD66BD53B7A,Gwangju,9,38.7°C,124mm/Hg,severe,overseas inflow,41kg,172cm
+0A9CE136-8546-5C22-610E-F05D619C5684,Ulsan,20,37.4°C,135mm/Hg,severe,public place,40kg,138cm
+CCB0EE62-A5CA-4A4E-2E62-40E8A8BA21BC,Gwangju,52,37.4°C,125mm/Hg,none,overseas inflow,50kg,158cm
+2FB4FE57-8009-2181-98BC-63AA126DA3B4,Ulsan,15,36.7°C,140mm/Hg,normal,overseas inflow,81kg,176cm
+FB5BF182-71C1-A064-8F1F-B8E8771E79BD,Seoul,59,39°C,144mm/Hg,chronic,contact with patient,42kg,168cm
+F9E985CC-41C5-1016-94C1-DCA992864DAE,Gwangju,55,36.6°C,135mm/Hg,normal,overseas inflow,45kg,131cm
+7C774EC7-3D3C-1F97-5D15-CCF6B4C216CF,Suwon,53,37.2°C,125mm/Hg,none,overseas inflow,69kg,159cm
+60E6165C-526D-465A-3153-FFA34AE59DCF,Seoul,15,36.9°C,124mm/Hg,normal,none,85kg,170cm
+D9F487FE-73DF-5692-3375-AF39EF4F47CF,Seoul,58,38.3°C,128mm/Hg,normal,overseas inflow,47kg,148cm
+C7AD6A4F-5A7B-4819-6350-CB3158E2A66F,Seoul,14,36.4°C,130mm/Hg,normal,public place,82kg,174cm
+039224C0-05B2-8F22-33C7-5BCF9D9B4D64,Seoul,55,37.7°C,128mm/Hg,none,public place,69kg,169cm
+3C764B2D-0E2E-79D5-88E5-DAC517EC1C59,Seoul,14,38.7°C,131mm/Hg,chronic,public place,47kg,134cm
+B845557C-887F-28CD-A309-D4E0927C651B,Seoul,12,38°C,150mm/Hg,none,overseas inflow,47kg,154cm
+E7EADB99-9906-1E1B-6932-A1837D5C9FB0,Ulsan,14,37.3°C,122mm/Hg,moderate,public place,86kg,137cm
+C4C9DFD3-4A24-5AD9-3C3B-1D772B66100B,Incheon,52,37°C,125mm/Hg,normal,overseas inflow,43kg,144cm
+152F4231-27B9-A543-2B82-BEFDE9881A9E,Daegu,14,37.8°C,125mm/Hg,normal,public place,70kg,179cm
+D4A88FE6-A2CF-8773-7E9D-E316E7B15C4C,Busan,55,38°C,128mm/Hg,none,public place,43kg,148cm
+5B57A5C4-2849-8C14-4934-5566CDEA0C3A,Busan,13,37.4°C,135mm/Hg,severe,contact with patient,86kg,140cm
+C003A7D6-29C0-05F2-6CE8-5EE3EF096F68,Ulsan,59,36.5°C,138mm/Hg,moderate,overseas inflow,52kg,143cm
+9BFF3E41-2EB0-28C3-A2B0-C0489AD37E7A,Suwon,18,36.1°C,129mm/Hg,chronic,overseas inflow,81kg,134cm
+11F6F874-362C-9D3A-53AB-EBBAF45C3DAC,Gwangju,51,37°C,131mm/Hg,moderate,overseas inflow,46kg,158cm
+28915085-4916-15F6-353F-EBE9066746D9,Busan,15,37.1°C,125mm/Hg,severe,public place,75kg,186cm
+1072C0D4-2746-72E9-4BF4-DCED2E0E5587,Incheon,52,37.9°C,140mm/Hg,normal,public place,52kg,152cm
+EE1965CA-9F4E-9F05-3EBF-61D774AB1145,Gwangju,19,38°C,141mm/Hg,moderate,contact with patient,43kg,135cm
+B0A4D5B5-6938-A33E-01B8-1CF2EDD27D06,Daegu,50,37.7°C,135mm/Hg,moderate,overseas inflow,46kg,167cm
+2B910D16-3AC7-61AF-2F2B-B50293B52E50,Busan,15,37.2°C,123mm/Hg,moderate,public place,85kg,132cm
+4148970C-946B-8CD3-7F92-958EE4CC1AB9,Suwon,15,37.9°C,140mm/Hg,none,overseas inflow,46kg,155cm
+7F852215-4996-2DCB-7C99-95D293C539F5,Incheon,14,37.6°C,128mm/Hg,moderate,contact with patient,84kg,180cm
+9B2615C7-9C75-7D0F-45D6-B5FDC93017E8,Gwangju,53,38.2°C,129mm/Hg,normal,public place,44kg,159cm
+6D3B16EE-0BFB-2A9B-77E8-EB7760985CFD,Gwangju,17,38.3°C,124mm/Hg,none,overseas inflow,49kg,175cm
+AA3C9353-4804-56E6-7DB4-041BFCD30D88,Seoul,60,38.6°C,128mm/Hg,normal,overseas inflow,46kg,149cm
+F1BA3DA4-81A2-6F0B-38B3-10FE1B498848,Incheon,17,37.7°C,122mm/Hg,normal,overseas inflow,46kg,136cm
+C1B70018-5710-A3C2-3D01-4F0797C49BB3,Suwon,54,37.5°C,135mm/Hg,normal,overseas inflow,41kg,141cm
+5C3E135E-6967-43B1-82A9-F906321E2E8E,Incheon,20,37.7°C,121mm/Hg,chronic,public place,81kg,171cm
+A24194ED-6BA1-33FC-6410-E25DF61E1486,Suwon,50,37.9°C,123mm/Hg,normal,public place,64kg,148cm
+1CDA8CE9-20A0-621A-41FA-350D2D0F95F9,Busan,18,36.6°C,140mm/Hg,chronic,contact with patient,84kg,133cm
+29F41D72-18EB-65F8-5433-6B05EAFF2AD3,Gwangju,54,37.9°C,123mm/Hg,chronic,overseas inflow,61kg,174cm
+EFE4C70E-3E93-7223-1F53-9F81269048D6,Daegu,18,37.8°C,130mm/Hg,normal,overseas inflow,46kg,136cm
+2559205D-5287-9562-80DC-705431B30AE1,Suwon,51,36.9°C,130mm/Hg,none,overseas inflow,51kg,153cm
+9874E68A-3438-7124-A198-8305C95D0898,Incheon,51,36.4°C,138mm/Hg,none,overseas inflow,90kg,180cm
+A4DF8463-4EF2-4F9E-40E1-D4E9723878E1,Busan,59,37.8°C,149mm/Hg,moderate,public place,59kg,160cm
+2EA8445A-508A-75B6-5665-1260539D8EFB,Suwon,18,38.3°C,144mm/Hg,severe,contact with patient,89kg,135cm
+1EFE9552-262E-3F21-3BFB-B341D016A720,Seoul,56,36.3°C,124mm/Hg,normal,overseas inflow,47kg,149cm
+C0C449AC-9791-1E2A-872A-BC41DAB9036F,Ulsan,16,37.3°C,148mm/Hg,chronic,public place,45kg,137cm
+0F99650A-6316-7120-6D36-1F90A0D0993B,Daegu,15,37.4°C,128mm/Hg,normal,overseas inflow,67kg,140cm
+5E0D7B31-1774-2C04-9395-2316A30C0EF1,Daegu,16,36.5°C,129mm/Hg,none,contact with patient,70kg,178cm
+05F1D4E8-14CC-1265-3640-7B6394F3966E,Incheon,54,37.9°C,132mm/Hg,none,public place,45kg,142cm
+8BF51E8B-97B4-8649-5A02-2D742590452A,Gwangju,19,38°C,138mm/Hg,normal,overseas inflow,88kg,139cm
+F4916F17-2235-3D02-9CE3-22F0F5509464,Incheon,59,38°C,122mm/Hg,none,overseas inflow,45kg,173cm
+0BC75205-5393-56BC-9302-8B630AD6069E,Busan,19,37.8°C,138mm/Hg,moderate,none,83kg,171cm
+AE084431-7A0F-46ED-A222-24FE82F071B0,Daegu,55,36.9°C,125mm/Hg,none,overseas inflow,61kg,154cm
+FE992567-8518-56B7-A0A1-2ADA0D05A4DC,Busan,15,38.6°C,121mm/Hg,normal,none,87kg,171cm
+85F50269-A5FE-6FE3-124E-DDB96F661B76,Seoul,54,37.1°C,141mm/Hg,none,public place,65kg,147cm
+98540764-5B98-7CC4-0E60-56E578877B18,Incheon,18,37.9°C,136mm/Hg,chronic,none,50kg,140cm
+638E7A52-6F79-014A-9BC1-DB32D1EE969C,Ulsan,51,36.2°C,126mm/Hg,none,overseas inflow,43kg,157cm
+CE88B1D4-1EFC-2EAB-3172-AB82C7139FBD,Seoul,19,36.8°C,135mm/Hg,normal,overseas inflow,86kg,132cm
+9A03CE0E-0516-1C28-3071-C5F888CA998F,Seoul,8,37.4°C,129mm/Hg,chronic,overseas inflow,66kg,155cm
+A11E4261-1308-76D3-5ED9-9CCE2A1681D9,Ulsan,13,37.8°C,127mm/Hg,none,overseas inflow,78kg,185cm
+7F3617AA-489B-70EF-4D00-348AD2207A4E,Seoul,52,37.7°C,131mm/Hg,moderate,public place,44kg,149cm
+72A51A60-016A-3F92-105E-5DFBA6972261,Suwon,15,36.1°C,128mm/Hg,moderate,none,82kg,130cm
+7287F72D-48B2-6A2B-6742-7A4127D5A6C2,Daegu,51,37.7°C,124mm/Hg,normal,overseas inflow,46kg,143cm
+41B062F9-84E2-A773-0A00-838614880F24,Gwangju,14,36.4°C,133mm/Hg,moderate,public place,81kg,138cm
+1FEFFF46-9787-17DB-57E3-9186AFFB6CC6,Suwon,14,37.4°C,121mm/Hg,none,overseas inflow,41kg,145cm
+210B0979-8B7F-56C0-0D54-7B9E963E05A1,Busan,19,38.1°C,130mm/Hg,normal,contact with patient,90kg,173cm
+79F564DB-5A6B-8205-06B1-24007FD70090,Daegu,55,37.8°C,126mm/Hg,normal,public place,49kg,172cm
+79C890C1-5D87-4AF9-32DB-A1FEB7A4247E,Busan,13,38.7°C,123mm/Hg,none,overseas inflow,85kg,170cm
+02038E24-22A6-9769-8B65-F8AA0CB677D9,Incheon,53,37.6°C,124mm/Hg,moderate,overseas inflow,48kg,153cm
+35BADD78-3130-165A-1903-512BE91E451A,Seoul,14,37.8°C,146mm/Hg,none,public place,42kg,180cm
+BF4B88D4-29ED-6689-0A43-59F32D594CE6,Seoul,51,37.9°C,120mm/Hg,none,overseas inflow,55kg,164cm
+FDFFAE76-6D0A-7C89-1100-E480B3FDA16C,Busan,15,36.5°C,132mm/Hg,normal,overseas inflow,75kg,173cm
+734E21F3-5380-4B94-39B3-7FE943A1A3B6,Gwangju,60,38°C,128mm/Hg,normal,public place,60kg,164cm
+A697C439-2108-A5ED-0C33-67447797160D,Gwangju,41,36.4°C,137mm/Hg,normal,overseas inflow,48kg,138cm
+DD525B5F-1147-04D5-29E6-BCD9C64F5168,Gwangju,55,37.5°C,123mm/Hg,none,overseas inflow,50kg,174cm
+D4ABA6B8-3E6C-6E5C-44BA-841BDB187D12,Busan,15,36°C,122mm/Hg,normal,overseas inflow,88kg,174cm
+1E3CE072-3876-A17A-107A-DB2DE59F7B0A,Seoul,54,36.7°C,129mm/Hg,severe,overseas inflow,48kg,146cm
+65DDD185-1465-292A-A09F-6E216E9F73FE,Ulsan,19,38°C,120mm/Hg,normal,overseas inflow,89kg,174cm
+7C38E017-7B2B-974D-2A5F-7DF677A151B9,Daegu,59,38.3°C,138mm/Hg,moderate,public place,62kg,146cm
+5F1CFFA5-A577-3419-2C4E-9FB6D96919A9,Gwangju,18,36.7°C,137mm/Hg,none,overseas inflow,87kg,138cm
+980EAC74-77DA-9553-8C93-746729879088,Ulsan,55,38.6°C,133mm/Hg,normal,overseas inflow,41kg,142cm
+0A9B4C39-3F08-9025-A699-A0DA8C980D6F,Incheon,16,37.1°C,124mm/Hg,none,public place,89kg,178cm
+222973D0-0CC5-7C13-54EF-5059AE00749F,Gwangju,51,37.3°C,146mm/Hg,normal,overseas inflow,42kg,153cm
+3E371C90-8C56-743A-1575-2D523D9B2F5F,Busan,18,37.3°C,122mm/Hg,severe,contact with patient,87kg,189cm
+D0C76E80-5596-221A-733D-1ECD99C3181F,Daegu,50,37.7°C,149mm/Hg,moderate,public place,44kg,168cm
+5C92E996-85DB-1C25-8488-9F0493BE9B82,Seoul,19,37.3°C,128mm/Hg,normal,overseas inflow,84kg,140cm
+0A8ED98A-3296-6883-39DD-AFC84C959AFA,Incheon,50,37.3°C,122mm/Hg,normal,overseas inflow,46kg,145cm
+AA5ED13E-1209-4994-5B74-A93F3F5949C5,Gwangju,19,38.1°C,122mm/Hg,moderate,none,90kg,178cm
+93B0841C-8DAE-3F15-18B0-1F52E6BC8770,Busan,56,38.3°C,129mm/Hg,normal,overseas inflow,41kg,151cm
+853787CB-55CB-299A-4EF7-58B9BCE8577E,Busan,14,37°C,135mm/Hg,chronic,none,77kg,180cm
+2D32D97F-6C7E-8DBE-5CA1-AB82E8186120,Incheon,55,37.4°C,121mm/Hg,normal,public place,45kg,164cm
+28906A46-36D7-095D-910C-ED3B35FE9B19,Busan,20,37.4°C,126mm/Hg,normal,public place,47kg,170cm
+7DBB0677-20F1-A406-8602-D7AAEB19581B,Seoul,14,36.4°C,126mm/Hg,none,overseas inflow,42kg,156cm
+A90FD7C7-64A6-59FE-A55F-A0DB3F095E06,Ulsan,14,37°C,147mm/Hg,normal,contact with patient,41kg,133cm
+1E57C081-72FA-3C12-026C-A0FCCC142077,Seoul,52,37.6°C,137mm/Hg,normal,overseas inflow,57kg,146cm
+605BF280-4A12-6D7D-5B3F-7DA9C59714C0,Daegu,56,37.9°C,124mm/Hg,none,contact with patient,80kg,176cm
+FCF9EC42-80CB-A6DC-1623-5B3959589B42,Suwon,6,37°C,125mm/Hg,chronic,public place,60kg,161cm
+55508A1A-8676-5E4E-860D-5D565D6B2A5A,Seoul,15,37.2°C,132mm/Hg,severe,contact with patient,46kg,132cm
+E6EF329C-386F-1E24-58DB-091AE5469CDA,Daegu,6,38.1°C,126mm/Hg,none,overseas inflow,47kg,148cm
+ABCF36F5-5E96-6A6C-07A1-8C61142544C9,Daegu,20,37.2°C,141mm/Hg,none,overseas inflow,43kg,134cm
+9FAF2D45-4206-96EA-7B64-FDF0F0F4A310,Suwon,7,38.8°C,142mm/Hg,severe,overseas inflow,70kg,150cm
+3CEA18B0-57C5-3D4C-179A-7F3C11C40A41,Seoul,19,37.7°C,137mm/Hg,moderate,public place,83kg,177cm
+08B78ECF-4FB1-1426-2B3E-3597BF0D4684,Busan,51,38.1°C,128mm/Hg,moderate,public place,47kg,151cm
+158A5404-1AC5-748B-99B9-C17735EC3146,Gwangju,14,38.6°C,120mm/Hg,normal,public place,81kg,136cm
+B0A79DB0-8D2A-8F8E-808C-68B2DADC5CC9,Busan,59,36.1°C,132mm/Hg,severe,overseas inflow,43kg,148cm
+E80692F1-0451-65C5-493F-AF2DF6D264DD,Ulsan,16,36.8°C,121mm/Hg,severe,none,50kg,136cm
+80F75F95-492B-91EC-6F56-48F5ADCB05E4,Busan,51,38.6°C,121mm/Hg,normal,overseas inflow,41kg,151cm
+E072BB37-59C4-832A-8F1C-69B83A231D28,Seoul,15,37.3°C,122mm/Hg,moderate,overseas inflow,86kg,178cm
+220D3592-6124-99C1-6AB6-44BA6DCD933D,Suwon,56,36.3°C,126mm/Hg,normal,contact with patient,62kg,158cm
+E02D85BF-15B2-997A-47B3-38965A2F14BB,Gwangju,52,38.2°C,123mm/Hg,severe,overseas inflow,86kg,133cm
+24D9FA86-9C36-4936-8F6F-A62EA77D4315,Seoul,54,37.6°C,130mm/Hg,normal,overseas inflow,48kg,160cm
+30E54E72-A076-5163-77F0-32C69F063DC7,Busan,16,38.9°C,122mm/Hg,normal,overseas inflow,88kg,139cm
+33DFDE60-383F-9F8A-351D-9B564A916D35,Gwangju,54,36°C,125mm/Hg,normal,overseas inflow,42kg,153cm
+887269AA-4C04-55A6-346B-A2E98652A193,Ulsan,20,38.2°C,129mm/Hg,normal,none,81kg,190cm
+09FE323B-88E1-3EA6-6E44-82038480322E,Busan,58,39°C,122mm/Hg,none,public place,57kg,159cm
+A149FFE1-1710-7451-0C3E-BC153E3C1944,Suwon,17,37.2°C,146mm/Hg,normal,public place,90kg,135cm
+8C4E30A0-8BCF-740E-3486-31646F316596,Gwangju,53,37.2°C,121mm/Hg,normal,overseas inflow,40kg,160cm
+EEA1B0F6-10FC-2F95-480D-84B7F2623E9B,Daegu,13,37.7°C,123mm/Hg,chronic,contact with patient,90kg,139cm
+C3BBAEFF-A173-5786-0D8A-B3E466C5A5F5,Seoul,57,37.5°C,136mm/Hg,chronic,overseas inflow,61kg,156cm
+48D2EB0F-3FF4-9D39-7CB3-54FAC882181E,Ulsan,19,37.8°C,148mm/Hg,moderate,public place,73kg,180cm
+4F349AD0-9315-6284-4D2B-F1E6B4605BEE,Seoul,60,38.2°C,120mm/Hg,none,public place,40kg,150cm
+59E47F00-5FAB-443F-944B-2647712F9DED,Daegu,40,37.6°C,129mm/Hg,normal,overseas inflow,45kg,133cm
+DAF666E2-8145-4730-311B-A3BFC43B0567,Suwon,59,37.4°C,125mm/Hg,normal,overseas inflow,40kg,175cm
+8AE3E101-3B6A-7347-3BEA-FBDA431A06FC,Suwon,17,37.1°C,143mm/Hg,severe,contact with patient,85kg,139cm
+D5C9C8CB-6551-1A43-0A76-BD049D2198EB,Ulsan,57,37.6°C,123mm/Hg,normal,overseas inflow,53kg,143cm
+D8E90B17-A766-6960-882C-096E05032270,Busan,18,38.6°C,148mm/Hg,normal,overseas inflow,85kg,178cm
+715F73BD-43D5-6BD2-2FEE-947C8FF17C30,Ulsan,57,37.1°C,133mm/Hg,none,public place,57kg,147cm
+BE4ED3B7-96D1-1E69-7D29-A1C4215B8EB7,Seoul,16,36.6°C,142mm/Hg,none,overseas inflow,44kg,132cm
+96467EC0-8240-21B6-0D9F-2C64585700C6,Busan,50,36.3°C,125mm/Hg,normal,overseas inflow,69kg,173cm
+A9362CBF-5004-7010-3B3C-311100C86B22,Incheon,16,37.8°C,122mm/Hg,none,none,83kg,140cm
+EC424D5B-2A9A-5E39-5A64-D6844D677608,Busan,58,37.1°C,129mm/Hg,none,overseas inflow,45kg,156cm
+A74A5272-5670-6474-7CEA-4D6C8D90A743,Busan,18,37.9°C,121mm/Hg,normal,contact with patient,76kg,179cm
+55B435BA-0E95-3E53-2B5D-AFB179AE9059,Busan,60,37.3°C,128mm/Hg,normal,public place,48kg,148cm
+81D2AC40-93D2-9954-17E8-078C74639514,Gwangju,20,37.7°C,138mm/Hg,none,public place,83kg,138cm
+26048065-2302-1101-2091-A7FF68372240,Incheon,51,37.9°C,130mm/Hg,none,overseas inflow,52kg,175cm
+349A83E9-393E-27A8-16BD-BBC51D7F6A0D,Gwangju,14,38.5°C,146mm/Hg,none,none,86kg,176cm
+ED20379E-180F-6909-4B9D-86B1452B5394,Daegu,52,36.6°C,125mm/Hg,none,overseas inflow,67kg,160cm
+BBDD87BA-20E0-4448-A089-24A8D2F173BC,Seoul,17,36.6°C,125mm/Hg,none,overseas inflow,81kg,176cm
+41003350-59E3-4BC5-0995-26223D009D60,Daegu,60,37°C,132mm/Hg,moderate,public place,67kg,144cm
+8805CB2D-8AA1-9981-6F66-79F3823F6517,Seoul,56,37.5°C,125mm/Hg,normal,contact with patient,50kg,132cm
+F3523EBE-81F8-247F-0E19-73A2C752A5CE,Incheon,6,37.4°C,133mm/Hg,chronic,overseas inflow,40kg,163cm
+B7358338-8AF0-915C-86C7-1865E4643121,Incheon,13,36.8°C,125mm/Hg,normal,public place,82kg,172cm
+E928F481-575E-4912-A4D1-E4F88E449ADD,Seoul,52,37.2°C,135mm/Hg,moderate,overseas inflow,60kg,169cm
+C405CD45-14F0-16D1-0424-7ECF633D4029,Incheon,17,36.9°C,120mm/Hg,none,none,88kg,173cm
+585D7BBF-912F-0DB3-05C8-16C807313F01,Suwon,51,37.5°C,130mm/Hg,normal,public place,47kg,165cm
+50E99C7A-52C5-22F2-4010-72D604024175,Daegu,20,36.7°C,145mm/Hg,normal,contact with patient,90kg,132cm
+F33F55A7-A6C5-8049-34A6-AC3033653BBD,Incheon,50,36.1°C,128mm/Hg,normal,overseas inflow,58kg,163cm
+A7CA673F-25FC-2148-82D0-6DD223206119,Seoul,19,38.7°C,131mm/Hg,none,contact with patient,49kg,179cm
+76AF234C-4485-014D-A68A-2656DC678175,Busan,55,38°C,150mm/Hg,none,overseas inflow,63kg,152cm
+A6E0CBC6-9FCE-8E49-12FB-8A23407F4AEE,Gwangju,13,37.7°C,125mm/Hg,none,overseas inflow,87kg,179cm
+6DB68E98-5785-4C66-4602-6D53C2AC5AC0,Suwon,59,38°C,130mm/Hg,chronic,public place,63kg,169cm
+CD0CECFE-689C-740E-8BD9-8079E50D9FD7,Seoul,20,37.4°C,124mm/Hg,normal,overseas inflow,47kg,140cm
+E148462E-A4B6-6CFE-3638-E152F9FA4BC4,Busan,55,37°C,120mm/Hg,normal,overseas inflow,46kg,155cm
+AF7AC55C-79A0-689C-A746-56757AFC89CF,Seoul,17,38.8°C,148mm/Hg,severe,overseas inflow,87kg,177cm
+BA7D1AF0-47AA-8CC5-9367-986DDD6E1C1E,Gwangju,59,38.9°C,127mm/Hg,chronic,overseas inflow,42kg,155cm
+CE51DD47-9D3A-569A-71B7-181387226BEB,Busan,14,37.7°C,120mm/Hg,none,public place,77kg,176cm
+3F2602EE-05FE-31DF-5FB7-5997590E8366,Incheon,56,37.3°C,127mm/Hg,moderate,public place,53kg,145cm
+F7AA992F-38A2-1E55-4480-F7633D2F74B0,Ulsan,17,37.9°C,120mm/Hg,none,contact with patient,43kg,131cm
+3EC023B9-5D2B-058A-8769-9B29ABA437B9,Ulsan,59,38.9°C,148mm/Hg,normal,overseas inflow,50kg,149cm
+182AA4FD-80EE-192B-4F24-D079291BA210,Incheon,44,37.5°C,149mm/Hg,none,contact with patient,82kg,173cm
+32CD487D-6D65-2136-776E-C5B3E8AC0C11,Suwon,58,37.4°C,130mm/Hg,normal,overseas inflow,45kg,151cm
+7BD12A17-4DFE-3412-0B84-A8C794BE7BB9,Busan,17,36.3°C,125mm/Hg,severe,contact with patient,87kg,187cm
+FB53D578-9C45-1ADA-44BD-57046BF34376,Incheon,58,36.5°C,128mm/Hg,normal,public place,50kg,151cm
+B3920265-0789-49C4-3F4C-54FBA0995A4F,Incheon,18,36.9°C,122mm/Hg,severe,contact with patient,89kg,131cm
+62521E8F-6CAE-3FB0-38DD-61A358096823,Ulsan,53,36.4°C,128mm/Hg,normal,overseas inflow,42kg,149cm
+F2281450-7752-28A4-90A9-C9951B893A3E,Busan,15,38.1°C,137mm/Hg,moderate,overseas inflow,45kg,132cm
+4390B0EE-5142-8012-0E3C-14E956C98064,Daegu,57,39°C,122mm/Hg,normal,overseas inflow,40kg,152cm
+503B2F20-7B62-70E1-5058-E7B159540CA2,Ulsan,18,38.1°C,124mm/Hg,normal,overseas inflow,73kg,178cm
+4DDB078E-974F-3435-12EF-A57341758F7A,Suwon,59,37.7°C,128mm/Hg,normal,public place,40kg,175cm
+6F62C2D3-624E-1CC6-6972-8FA768527484,Busan,20,37.8°C,144mm/Hg,normal,contact with patient,46kg,134cm
+2CC1CD8D-2E45-9AEE-9361-26D947555598,Suwon,60,37.6°C,121mm/Hg,normal,overseas inflow,51kg,155cm
+881F342E-7434-A6FE-3977-4E387D3719BC,Ulsan,14,36°C,127mm/Hg,none,none,81kg,133cm
+E4E34B79-1872-6259-98ED-DF2EB4D08CE5,Seoul,51,36.3°C,130mm/Hg,normal,overseas inflow,54kg,148cm
+C1FD3CC5-309F-3D60-3F74-E8D5624E2494,Incheon,18,38.9°C,126mm/Hg,severe,none,81kg,178cm
+C976ED14-39F7-6F5E-27CD-8DA0302D1112,Busan,58,38.3°C,123mm/Hg,severe,public place,56kg,140cm
+1637561D-31D4-00FB-52BC-ED7A3B8335DE,Suwon,17,37.7°C,140mm/Hg,moderate,public place,87kg,133cm
+373C02A3-6C03-59AC-4190-24FC34C74383,Daegu,53,37.2°C,123mm/Hg,moderate,overseas inflow,50kg,163cm
+D9B9CDA4-88F3-4043-499E-3CFADCC38004,Daegu,13,38.3°C,140mm/Hg,none,public place,82kg,135cm
+F3400BFA-2199-4167-6CA8-3ED6498B65A8,Incheon,58,37.4°C,131mm/Hg,chronic,overseas inflow,53kg,159cm
+CCA9CB87-8C09-49F6-9120-A337D2B47C57,Daegu,18,37.6°C,121mm/Hg,severe,public place,80kg,171cm
+2A7839EE-70F9-46A2-2CA0-D039F508439E,Daegu,51,36.9°C,130mm/Hg,normal,public place,49kg,152cm
+3827B8E5-8E9D-4C9C-820B-D33C5A037B80,Busan,15,37.8°C,124mm/Hg,normal,contact with patient,80kg,131cm
+204E83E2-49E0-3FCA-693D-D1FD265928E8,Seoul,59,38°C,149mm/Hg,moderate,overseas inflow,44kg,140cm
+8FA312BD-9AEA-1795-0B07-47D9B23C702A,Gwangju,14,36.2°C,130mm/Hg,none,overseas inflow,87kg,134cm
+CED624C6-0DC0-4E24-4B09-CB81AB342FE3,Gwangju,50,37.1°C,123mm/Hg,normal,overseas inflow,42kg,148cm
+E5120405-A613-7E70-65D5-F31E55774EB7,Busan,18,38.8°C,125mm/Hg,none,overseas inflow,79kg,177cm
+77D9532B-6291-183A-832C-E48CA8B32122,Suwon,56,39°C,146mm/Hg,severe,public place,63kg,146cm
+0873360E-48E9-4E1F-6568-F29EE76D6783,Suwon,16,37.5°C,120mm/Hg,normal,overseas inflow,88kg,133cm
+6325F8B8-5231-5B5B-8989-816F5204835A,Suwon,59,37.1°C,123mm/Hg,none,overseas inflow,44kg,166cm
+152DDF76-756A-77AE-45E7-8F30C4E2A698,Busan,14,38.5°C,136mm/Hg,normal,contact with patient,82kg,134cm
+61BB29E3-1097-86D9-5AFC-F2A7685B5714,Seoul,59,37.7°C,124mm/Hg,none,overseas inflow,46kg,143cm
+D010506A-9AC0-A5D0-1446-C3AC857E9AA3,Gwangju,59,38.3°C,122mm/Hg,normal,public place,80kg,175cm
+4AFAC7A3-462C-71F9-92E0-ECEC1B147D7F,Gwangju,59,37°C,125mm/Hg,none,public place,45kg,143cm
+22454559-26C0-302E-A610-44CF446D27B2,Gwangju,20,38.1°C,120mm/Hg,none,contact with patient,85kg,180cm
+8D1E261F-7673-7005-77A1-CD1D874702D8,Incheon,11,38.9°C,121mm/Hg,chronic,overseas inflow,47kg,169cm
+C6651769-3F29-6020-2D3B-A4D8F20E059B,Seoul,14,38.8°C,125mm/Hg,normal,public place,41kg,131cm
+7F48E122-05E9-7C81-1266-D7A8BDA47C2F,Daegu,57,37.5°C,122mm/Hg,chronic,overseas inflow,46kg,141cm
+64DB01C9-61C9-72B6-36F6-DB822B715DBA,Daegu,19,38°C,120mm/Hg,none,none,83kg,172cm
+4DAA3203-5603-A446-6FCF-4259D01A3F1C,Busan,15,37°C,126mm/Hg,none,none,46kg,142cm
+C8DA3A01-1595-A3D7-6873-CD66EF622E85,Ulsan,19,36°C,146mm/Hg,normal,none,49kg,179cm
+F4C90C5D-6804-66EA-7199-FBC5CF28595F,Daegu,9,36.4°C,135mm/Hg,chronic,overseas inflow,65kg,153cm
+F6579EF0-279C-750B-86CC-A1F829E208F8,Gwangju,19,38.8°C,124mm/Hg,chronic,public place,82kg,136cm
+0B5974F6-7288-6689-64E2-008994249A22,Gwangju,52,38.5°C,149mm/Hg,severe,overseas inflow,69kg,143cm
+099FB842-9393-2F38-2C36-330A9BD5050B,Daegu,17,39°C,148mm/Hg,moderate,contact with patient,89kg,173cm
+BA9C0512-9679-A041-1E7A-2B7AEBB67B10,Gwangju,55,37.3°C,130mm/Hg,none,public place,44kg,160cm
+3F49EFE4-94D7-5BD4-4D0A-37FEA27F5245,Suwon,18,36.5°C,149mm/Hg,normal,none,86kg,134cm
+C208E751-68E6-3C13-0794-FFE067B802F4,Suwon,56,37.9°C,120mm/Hg,normal,overseas inflow,55kg,152cm
+7D09CFB4-0B88-18A2-A0F1-E1FEA71B04F7,Busan,18,38.8°C,130mm/Hg,none,overseas inflow,88kg,171cm
+DF9C375E-7ECF-0BB3-5DBC-156481B7749F,Seoul,58,38.9°C,132mm/Hg,severe,overseas inflow,40kg,143cm
+8F867C8A-2DC5-7D4E-797B-F485F2A466E8,Ulsan,18,37.4°C,127mm/Hg,severe,none,84kg,174cm
+79481D98-9973-0D02-170E-4EDD45D81465,Daegu,59,37.4°C,129mm/Hg,chronic,public place,41kg,159cm
+A80FA93D-0A60-79EF-2A11-E58DE1491092,Incheon,54,37.9°C,120mm/Hg,normal,public place,44kg,132cm
+5BA52D7F-341A-2800-11D7-3D6650D90EFE,Gwangju,57,36.4°C,123mm/Hg,none,overseas inflow,65kg,152cm
+F7879F7E-6CB7-1E4A-71C9-7ED86CE29A77,Seoul,14,38.1°C,129mm/Hg,none,contact with patient,82kg,131cm
+8B030C2D-4CB1-8DFA-3D90-CDB7A2456190,Gwangju,60,39°C,126mm/Hg,none,overseas inflow,68kg,140cm
+FE96A91E-5099-68FF-85D9-82890D9C3640,Suwon,18,37.7°C,138mm/Hg,severe,contact with patient,80kg,178cm
+A1EC837A-7FE0-028B-9647-813C15724E58,Gwangju,51,37.2°C,150mm/Hg,chronic,public place,42kg,147cm
+CDF5070B-5985-0C65-5172-38CC7DD9261D,Gwangju,17,37.7°C,126mm/Hg,chronic,public place,82kg,135cm
+1E7CE307-4FB6-8678-1DD1-33CC169F250B,Incheon,56,36.4°C,120mm/Hg,none,overseas inflow,50kg,152cm
+4C2DE137-69E1-961D-5F54-EB11FC7E0BCF,Busan,20,36.6°C,129mm/Hg,none,contact with patient,87kg,173cm
+1FDEF029-7A51-51AC-6454-480616B9225A,Incheon,59,38°C,122mm/Hg,none,overseas inflow,58kg,143cm
+DC54319B-A22A-75AA-131E-9DDA867FA604,Suwon,16,37.8°C,129mm/Hg,normal,overseas inflow,80kg,177cm
+A2B1602A-262F-6AD5-A52C-FF8B13E14834,Incheon,60,38.6°C,123mm/Hg,normal,public place,66kg,174cm
+2948BA55-A148-4D10-45E3-988AFFFC020F,Daegu,15,36.2°C,121mm/Hg,normal,public place,86kg,139cm
+CF2BE52D-5A29-0712-24B2-C1264A368A07,Busan,8,36.6°C,130mm/Hg,none,overseas inflow,45kg,141cm
+266B96B4-0839-82A4-A712-0C51C88B8DBB,Seoul,20,37.1°C,125mm/Hg,chronic,overseas inflow,82kg,170cm
+D64DAC04-59D8-2455-A666-23959D5F5519,Suwon,54,36.4°C,142mm/Hg,chronic,overseas inflow,43kg,175cm
+6E898990-96EB-15FD-8D34-C71B37C1290B,Suwon,16,37.9°C,145mm/Hg,normal,none,90kg,178cm
+95A62227-2A5C-9C98-5AC3-7644F81795A7,Gwangju,6,37.1°C,120mm/Hg,none,public place,46kg,166cm
+059EE167-2691-3C84-5107-9AF88C6251B5,Daegu,18,37.7°C,120mm/Hg,normal,overseas inflow,43kg,134cm
+C9D0F661-A232-8C90-9FD0-2536933562E5,Seoul,59,37.3°C,141mm/Hg,chronic,overseas inflow,69kg,150cm
+8994F5B7-106A-4EE2-95B2-388E3D7D89EB,Daegu,16,37.1°C,124mm/Hg,normal,none,45kg,138cm
+0205A6B0-2084-3A65-1CA6-5E527471475A,Daegu,57,38°C,128mm/Hg,none,overseas inflow,67kg,167cm
+EE839B46-10B0-3DC2-2EA8-BED8E1C686F7,Busan,14,38.2°C,128mm/Hg,normal,public place,90kg,176cm
+1CC52551-93A2-8002-2F12-6ED7813D144F,Busan,12,37.8°C,134mm/Hg,none,public place,49kg,140cm
+6A940B9C-9247-267B-4924-FE656B0713E8,Suwon,16,38.6°C,124mm/Hg,normal,contact with patient,50kg,134cm
+8E9CE9AE-2E37-7019-9349-67182DAD1ED2,Gwangju,15,39°C,146mm/Hg,severe,overseas inflow,42kg,153cm
+01E818DE-2FB9-0B35-5016-4CCEB33F5DFC,Busan,19,36°C,127mm/Hg,normal,none,47kg,175cm
+36E3EFFF-559D-27B8-8291-BFDA018559B8,Incheon,51,37.8°C,128mm/Hg,normal,overseas inflow,40kg,158cm
+62A352F5-70E5-3C2B-92CC-1C047F8D8C46,Busan,19,36.1°C,128mm/Hg,none,overseas inflow,74kg,179cm
+4C876822-335E-3CB2-52E0-0502CD5316CF,Suwon,56,37.8°C,130mm/Hg,normal,public place,59kg,147cm
+D43ACE47-59A3-2AC4-0367-1594D3C87C42,Daegu,14,37.5°C,128mm/Hg,severe,contact with patient,88kg,132cm
+D96E215F-32D1-8713-5C39-878ABD8C5CB5,Ulsan,12,36.8°C,149mm/Hg,moderate,overseas inflow,47kg,142cm
+4742D216-4280-6021-8D49-B3CAC7DC6553,Suwon,20,37.9°C,127mm/Hg,normal,contact with patient,85kg,180cm
+36A4356A-96BE-828D-715F-A71845877831,Suwon,60,37.9°C,128mm/Hg,severe,overseas inflow,50kg,174cm
+0CCA657E-8F3A-653C-8EF6-1FF6B6568213,Ulsan,14,36.2°C,148mm/Hg,severe,contact with patient,89kg,175cm
+4ECCD3A1-16DF-790A-174C-A017A80676AA,Suwon,54,38.2°C,130mm/Hg,normal,public place,40kg,140cm
+01D3534C-883B-A4F9-68C8-FB84675A9FE5,Incheon,13,38.5°C,123mm/Hg,chronic,overseas inflow,90kg,135cm
+EB21CA9E-4531-9A3E-7B01-E86F2C6D3F23,Daegu,57,38.8°C,146mm/Hg,normal,overseas inflow,45kg,142cm
+D889708F-8F61-1B2D-34C2-D111754586BF,Seoul,17,38.8°C,125mm/Hg,normal,contact with patient,44kg,138cm
+0F0B73F3-89DE-6C7B-6DF6-FB83843A8B52,Ulsan,57,37.6°C,146mm/Hg,chronic,overseas inflow,40kg,154cm
+288018F7-5F26-930A-3701-CFEAB1FD7CBC,Seoul,15,37.3°C,135mm/Hg,chronic,overseas inflow,70kg,179cm
+038191F7-A4F3-9D75-3EED-80F069EF6B9F,Incheon,51,38.5°C,130mm/Hg,normal,public place,68kg,157cm
+E0F1ABC0-5EE2-30EA-645B-B718F366156B,Suwon,14,36.2°C,131mm/Hg,normal,public place,88kg,177cm
+32D6F58A-16F4-9E9C-46B5-5C92C472508E,Daegu,12,36.6°C,123mm/Hg,normal,overseas inflow,41kg,159cm
+73308AF8-7BE5-0DC9-1339-1C527B50109B,Incheon,16,37.5°C,127mm/Hg,none,contact with patient,41kg,132cm
+A6B787CB-349E-8DED-001C-FD42B8CD0CA7,Gwangju,14,37.8°C,129mm/Hg,none,overseas inflow,50kg,168cm
+6A775DAC-37A6-5AA3-167D-F81C9F73646B,Seoul,13,38°C,122mm/Hg,none,none,82kg,174cm
+8EB7A941-7261-9BAB-38D3-208D455B813A,Daegu,60,38°C,122mm/Hg,normal,public place,42kg,172cm
+5569F8A2-8CC3-94F2-8555-E119C12873C6,Daegu,15,37.5°C,130mm/Hg,normal,public place,90kg,135cm
+4D7C8520-605C-22F5-A40E-6E62D2FA82B5,Daegu,14,37.8°C,123mm/Hg,none,overseas inflow,50kg,160cm
+E18EA7D0-9333-063E-0E77-1AEA8A323C42,Daegu,14,38.4°C,120mm/Hg,none,none,83kg,133cm
+6D68BD7C-0EB4-2B2C-45C6-1538D52B80F2,Ulsan,57,36.5°C,120mm/Hg,none,overseas inflow,40kg,158cm
+52146A19-22D6-0438-7A33-E2B8981B20BE,Incheon,20,36.8°C,122mm/Hg,none,none,78kg,190cm
+14278624-7481-7290-A7A2-D5B45B23000F,Busan,52,37.8°C,129mm/Hg,moderate,public place,60kg,158cm
+521CF8D6-9C35-2898-7F6B-388A96B72EDC,Busan,13,36.5°C,121mm/Hg,normal,none,49kg,138cm
+C5F4BF84-70DE-31D8-3EC4-6E2E4BAF5B01,Ulsan,54,37.3°C,125mm/Hg,severe,overseas inflow,41kg,151cm
+95C41973-59DE-5AA9-61F5-60634C4D48EF,Gwangju,18,38.7°C,126mm/Hg,none,contact with patient,83kg,134cm
+F8E58C41-905A-22D4-1255-87AB3E98186B,Ulsan,59,38.6°C,125mm/Hg,normal,overseas inflow,70kg,161cm
+92F21886-92AB-7A05-1DC4-A9B09538317E,Suwon,17,37.5°C,120mm/Hg,normal,contact with patient,83kg,187cm
+AE6C85DA-5C9E-932F-3AD0-62272F8A42B9,Ulsan,58,36.7°C,149mm/Hg,severe,public place,40kg,150cm
+908A3801-1A4C-4E65-3060-A31132A70E27,Gwangju,16,36.5°C,129mm/Hg,normal,contact with patient,80kg,173cm
+BEFCA625-1584-9891-3FF8-53564798A3BE,Gwangju,56,37.9°C,122mm/Hg,none,overseas inflow,45kg,154cm
+39001279-262A-51E9-74EA-7521C5F82992,Ulsan,47,38.5°C,125mm/Hg,moderate,public place,43kg,140cm
+1D658190-4401-2BD5-255D-B74ADBE97463,Busan,8,38.9°C,140mm/Hg,severe,overseas inflow,57kg,168cm
+50457CB0-7DF6-75A3-46DC-0080CB837AB9,Seoul,18,36°C,125mm/Hg,moderate,overseas inflow,88kg,170cm
+9CD39465-4EA2-865F-7264-BDA9E8360B4A,Gwangju,14,36.4°C,128mm/Hg,normal,public place,41kg,145cm
+A69DD7DB-270D-5B2C-2BD1-0AE012880E16,Busan,17,38.6°C,135mm/Hg,normal,public place,88kg,132cm
+E86109C7-0452-407B-7101-3B1BB046096D,Seoul,60,38.1°C,149mm/Hg,none,overseas inflow,60kg,160cm
+90F82345-6A02-2754-88E4-ECC455D620D3,Busan,17,37.1°C,129mm/Hg,chronic,public place,90kg,135cm
+FB3A3A48-8125-1527-4E00-56862D490065,Incheon,59,37.3°C,128mm/Hg,severe,overseas inflow,49kg,150cm
+7A88FF05-9910-1662-7A64-4B4092894655,Daegu,14,37°C,123mm/Hg,none,overseas inflow,90kg,175cm
+83E56908-187E-79DD-2E9A-CDD2791440FB,Seoul,53,38.1°C,150mm/Hg,normal,public place,49kg,173cm
+D063E925-21B4-8F7B-46F3-2E61108D9911,Busan,15,36.2°C,127mm/Hg,normal,none,81kg,131cm
+D915BF66-8B29-55A1-3A06-3504CEAF6DEB,Ulsan,55,37.4°C,126mm/Hg,normal,overseas inflow,49kg,159cm
+E069F914-A065-088B-98A7-C5A61B3334B0,Suwon,18,38.6°C,128mm/Hg,normal,overseas inflow,84kg,174cm
+36B2A78C-3C6A-2274-1941-45BA5B6E58CC,Busan,51,37.2°C,137mm/Hg,none,overseas inflow,68kg,162cm
+DBBBF3AA-13F8-99E2-921E-DC7F849BA0B1,Seoul,17,36.4°C,122mm/Hg,normal,contact with patient,80kg,189cm
+32EE3D1F-3156-5CE8-8620-C1AEF7040BDC,Incheon,12,38.9°C,130mm/Hg,none,public place,57kg,158cm
+55F54A2F-4E8D-6EA3-5F69-52D7B49D6F39,Ulsan,19,38°C,130mm/Hg,normal,none,87kg,139cm
+095E491A-0A22-4963-4F29-D82CCBED7F58,Gwangju,50,37.1°C,126mm/Hg,none,overseas inflow,45kg,148cm
+88BF9489-4ADC-8B34-A01E-510EEFFB857F,Daegu,53,37.2°C,128mm/Hg,chronic,overseas inflow,41kg,132cm
+1DE94BB1-2B26-00A8-0A04-5150DCE38877,Incheon,12,39°C,128mm/Hg,normal,overseas inflow,58kg,168cm
+ABE4A223-5135-A21F-2DA2-32CCB528711B,Gwangju,18,36.6°C,125mm/Hg,none,public place,85kg,177cm
+1875DDD1-95D9-8B61-41A4-A80CE3021CD1,Incheon,55,36.2°C,127mm/Hg,none,public place,48kg,145cm
+35F022A5-2D08-3898-1124-02A72ED51028,Seoul,46,37.1°C,123mm/Hg,normal,contact with patient,82kg,180cm
+DE44CB81-0F29-2B88-9B0A-AD9666836AD5,Busan,57,38°C,126mm/Hg,normal,overseas inflow,55kg,156cm
+F317F6F4-1872-8DC6-778B-00D1B66878A2,Incheon,18,37.9°C,141mm/Hg,severe,overseas inflow,90kg,130cm
+C1B32C0D-4948-6871-3025-05F1352291D4,Suwon,56,37.4°C,132mm/Hg,none,overseas inflow,44kg,168cm
+1DCCF4C7-4FA1-13CB-5780-E260D0C863AC,Incheon,14,36.9°C,123mm/Hg,severe,contact with patient,82kg,186cm
+2762FA5A-8B9F-16BE-6590-908B35A78B31,Gwangju,59,37.5°C,126mm/Hg,normal,public place,63kg,144cm
+AE2FBF13-18B5-8BC1-882A-D0CD83BE5E1A,Gwangju,18,38.7°C,142mm/Hg,chronic,none,42kg,135cm
+A7C65864-2F7F-43E3-1DA4-06CE2E8C5F24,Busan,58,37.6°C,123mm/Hg,normal,overseas inflow,69kg,161cm
+0937124B-1F04-0078-A3FF-D29ECC3D61B1,Suwon,19,37°C,124mm/Hg,normal,overseas inflow,44kg,138cm
+249B24DE-2BEC-82B9-04D4-82E13A4D42BE,Busan,56,38.7°C,123mm/Hg,chronic,overseas inflow,55kg,140cm
+A6B417A6-2A30-7A08-073A-C7C88AFA3EE3,Gwangju,13,37.5°C,143mm/Hg,normal,public place,80kg,172cm
+0FDE0C4E-50E7-165A-757C-CAD6E8033296,Ulsan,58,37.9°C,140mm/Hg,normal,public place,40kg,149cm
+D80770A6-4FDF-3C4F-6331-4DFC265B3E62,Suwon,13,38.5°C,122mm/Hg,normal,contact with patient,85kg,132cm
+A43B57F8-7070-1F93-0E05-C72135D281EF,Gwangju,9,38.8°C,121mm/Hg,normal,overseas inflow,40kg,151cm
+8AC285EF-1355-1202-04DE-0A0A3C248B55,Seoul,13,37.2°C,126mm/Hg,none,public place,81kg,134cm
+037A99BC-7B2F-705E-2BBE-7C7A7BA20B58,Gwangju,54,36.3°C,130mm/Hg,chronic,overseas inflow,47kg,141cm
+63B4E37B-7C8B-A24B-26AB-1AEAC689006D,Ulsan,20,39°C,147mm/Hg,none,contact with patient,84kg,171cm
+C210E4C8-43BD-8446-15C7-62359E93530F,Seoul,52,36.3°C,134mm/Hg,chronic,public place,40kg,156cm
+416A2E2D-6748-198E-1CBD-E726A61519A3,Suwon,14,38.5°C,120mm/Hg,normal,public place,87kg,132cm
+5A273031-8E31-38CE-1906-7266FEC163AF,Busan,56,37°C,128mm/Hg,none,overseas inflow,47kg,161cm
+0F729111-1447-19E8-5159-238B6EAA61EF,Seoul,56,36.5°C,121mm/Hg,moderate,contact with patient,49kg,178cm
+3875161C-2FF6-55D2-1A29-9500D2BA9A65,Suwon,57,38°C,134mm/Hg,severe,overseas inflow,47kg,140cm
+DA552F44-601B-0E24-7ACD-F7F402F68899,Ulsan,13,36.4°C,133mm/Hg,severe,overseas inflow,88kg,173cm
+B36F0837-55A4-A44A-8A7E-CA01ED8231C9,Suwon,10,36.4°C,124mm/Hg,none,public place,65kg,159cm
+47735FD5-9EA2-145A-8BDD-D03E2A9DA371,Incheon,48,38°C,147mm/Hg,moderate,public place,80kg,135cm
+A4281AF3-29A8-A14E-8104-97E037D72E5A,Incheon,58,38.7°C,122mm/Hg,none,overseas inflow,58kg,142cm
+2825527D-98D0-1FC9-10DF-13DFEC0709E0,Seoul,19,37.2°C,129mm/Hg,moderate,none,82kg,134cm
+0A34A1C5-0970-2E11-3996-904F55E21D4B,Incheon,14,36.9°C,143mm/Hg,normal,overseas inflow,44kg,152cm
+ED2FB9F0-1CE4-15F6-814D-283A9636417E,Gwangju,15,36.2°C,139mm/Hg,normal,public place,77kg,174cm
+66210A31-3278-36E0-607E-1D46664809A1,Daegu,59,38.8°C,141mm/Hg,chronic,public place,46kg,174cm
+8E33864A-5242-2278-7E56-BA230B4E372A,Seoul,20,38.7°C,126mm/Hg,none,none,41kg,132cm
+72321450-9299-4FD7-319B-A9FA2B540F16,Busan,57,36.5°C,121mm/Hg,none,overseas inflow,49kg,168cm
+46CA93A8-447B-33BA-8C31-166AE98506C8,Seoul,14,37.9°C,120mm/Hg,normal,public place,40kg,136cm
+FD823B79-86CD-9B1D-79D3-1FBB900E8324,Suwon,51,36.6°C,122mm/Hg,moderate,overseas inflow,65kg,146cm
+B847A9FE-2C33-84E1-0BA5-7351A9F16CD7,Busan,15,37.6°C,126mm/Hg,severe,public place,76kg,175cm
+F3751EF4-2CC5-2C0F-7CD9-1D9FBA3D83B6,Daegu,8,36°C,122mm/Hg,normal,public place,59kg,156cm
+F4BCBAAA-02B7-53A7-0CAE-EF6DBFF562BD,Daegu,14,37.2°C,130mm/Hg,normal,overseas inflow,48kg,171cm
+25AAFF12-438F-3BAB-90BF-DC9B88D21811,Busan,59,37.3°C,129mm/Hg,none,overseas inflow,45kg,148cm
+FA53AE0F-A6B5-08EF-993A-A9D9E02B1BCF,Busan,15,36.6°C,124mm/Hg,normal,contact with patient,83kg,170cm
+D535B34C-3250-7123-7144-8E18B4E12651,Incheon,56,37°C,125mm/Hg,normal,overseas inflow,43kg,147cm
+2CC78752-77A1-A6CF-2A25-7E0EF7E01A5C,Incheon,13,37.4°C,121mm/Hg,none,public place,75kg,190cm
+5B5BA473-8E02-8580-9F9F-79D57563077B,Incheon,6,37°C,123mm/Hg,none,public place,59kg,160cm
+C593FE32-0248-8BC5-6202-291F2945017C,Daegu,13,37.5°C,130mm/Hg,none,none,88kg,177cm
+6C7B2AC3-1276-A475-0CD7-3C7A5DFD5F07,Suwon,52,37.4°C,127mm/Hg,normal,overseas inflow,44kg,160cm
+4FFFE20C-0ADF-A3CF-5B1B-F43E9D0E3A41,Ulsan,19,38.8°C,135mm/Hg,moderate,contact with patient,45kg,176cm
+9A634530-9B34-9B50-3D9B-B5C89E541877,Seoul,57,38°C,132mm/Hg,severe,overseas inflow,63kg,143cm
+726B933B-468C-9637-4500-D9A6981575FE,Ulsan,17,37.2°C,148mm/Hg,normal,none,90kg,185cm
+FD78963B-16BB-5398-2B03-CAD6C6C46149,Incheon,60,38.8°C,135mm/Hg,moderate,public place,43kg,152cm
+DD84047C-764A-265C-52EC-E77C93025DA6,Suwon,17,38.7°C,122mm/Hg,moderate,public place,82kg,130cm
+58E28D37-041D-092A-5E8A-9B25F5432682,Ulsan,51,36.5°C,122mm/Hg,none,overseas inflow,40kg,161cm
+F9EE1775-5188-6359-2AE1-4F1E4B3196A3,Incheon,15,37.1°C,131mm/Hg,moderate,overseas inflow,85kg,134cm
+2D73443F-606E-545B-9E6A-17D7A948523E,Seoul,50,37.9°C,123mm/Hg,severe,overseas inflow,50kg,140cm
+814E7A29-7489-62E8-3804-E0D2E7145124,Gwangju,20,36.8°C,130mm/Hg,severe,overseas inflow,90kg,176cm
+B5FDCFF1-2F77-9C5E-81B3-27F4996D9FBE,Incheon,56,38.5°C,122mm/Hg,none,public place,66kg,142cm
+45C14685-2BC7-14D9-57F8-560413C63A22,Ulsan,13,36.1°C,150mm/Hg,normal,public place,48kg,170cm
+0CB6E7CC-2C5C-546B-6CD2-5AD99669991F,Incheon,58,36.6°C,146mm/Hg,none,overseas inflow,46kg,151cm
+2092F744-2937-3135-9B4E-4F7A38E78433,Daegu,17,37.8°C,130mm/Hg,severe,overseas inflow,81kg,130cm
+CE7BEB4A-8EC1-84B7-8909-30EF9B35A1AE,Gwangju,51,38°C,121mm/Hg,normal,overseas inflow,54kg,161cm
+B4BBBF66-374F-74CA-63FE-1FD6BC539666,Daegu,17,38.3°C,129mm/Hg,none,public place,89kg,175cm
+EE10AB78-0893-213D-A4FE-6532CA934E02,Incheon,60,36.1°C,150mm/Hg,moderate,public place,42kg,150cm
+9E2CA0DA-7338-37BF-9615-F2777AE62669,Daegu,44,36°C,130mm/Hg,none,public place,84kg,136cm
+50A09899-52E2-4513-4436-E5092ECE20AC,Incheon,60,37.2°C,125mm/Hg,none,overseas inflow,60kg,175cm
+203BF4D3-5478-8B19-373B-FEA754299BAC,Daegu,17,37.1°C,128mm/Hg,moderate,none,44kg,131cm
+E5240199-6D9B-9797-0B91-33448E310DEE,Gwangju,60,37.6°C,138mm/Hg,moderate,overseas inflow,55kg,169cm
+2D722623-9971-40A7-8A73-C37C8A5E158C,Incheon,13,37.6°C,124mm/Hg,normal,overseas inflow,81kg,178cm
+89B94287-871E-085C-6568-C9C129DA194C,Busan,55,37.2°C,125mm/Hg,normal,public place,45kg,141cm
+95B2ED71-14B0-26F4-1A96-31DC22195401,Daegu,17,37.3°C,135mm/Hg,none,none,83kg,174cm
+D0EDE339-539E-1E7F-91D0-34AAEB58326B,Seoul,59,38.4°C,123mm/Hg,none,overseas inflow,46kg,142cm
+79E83630-2D6A-1E0A-3BD0-16D5E8B07AD7,Seoul,51,36.9°C,149mm/Hg,none,none,44kg,176cm
+41F5120D-074A-A0C6-429F-686CC38C893F,Incheon,55,37.7°C,123mm/Hg,none,overseas inflow,48kg,153cm
+1FE1B9BC-2A6B-06BB-8FC7-A00F1472342A,Incheon,15,37.7°C,137mm/Hg,chronic,public place,85kg,173cm
+A4518E38-538B-6A4D-80DC-54C0BE4C7C45,Busan,6,37.6°C,147mm/Hg,chronic,public place,49kg,153cm
+8885D56F-2668-8D1B-63BB-B8C4AAA61E27,Suwon,14,38°C,132mm/Hg,severe,contact with patient,47kg,180cm
+20F7C087-742E-4A8D-9056-1337E4207BE1,Gwangju,58,38.3°C,122mm/Hg,normal,overseas inflow,44kg,141cm
+16DB5E1E-3CF8-8FDB-8A90-915048E57247,Incheon,18,37.8°C,130mm/Hg,none,public place,85kg,135cm
+80D939DD-3D87-33C9-5515-24E061C0412E,Suwon,59,36.8°C,129mm/Hg,none,overseas inflow,44kg,159cm
+6A813B56-2DB7-129A-7F4C-A46591E89BD7,Busan,17,37.6°C,130mm/Hg,none,contact with patient,86kg,173cm
+6E417DC0-92A6-7E74-3716-1B11F0032B7C,Busan,57,37.5°C,120mm/Hg,normal,public place,43kg,168cm
+CBFF87AE-5D95-599F-9C86-B28760301D60,Incheon,15,37.7°C,121mm/Hg,none,overseas inflow,89kg,140cm
+B9165AFE-7F1C-60BB-73DE-D3B9FE6564F7,Gwangju,53,36.3°C,126mm/Hg,none,overseas inflow,66kg,146cm
+594C746F-0B12-30A6-11FD-B6389A4D89B6,Incheon,16,38.6°C,143mm/Hg,severe,overseas inflow,84kg,170cm
+2067A137-5E74-2C5B-20C8-7C5270328D44,Daegu,12,37.3°C,139mm/Hg,severe,overseas inflow,48kg,140cm
+010CAAAF-3C53-2575-6E4E-7B28867A3155,Seoul,16,36.7°C,149mm/Hg,chronic,overseas inflow,71kg,179cm
+DC65DE44-52D9-6027-6E99-0D02B7B5024D,Seoul,54,37.1°C,136mm/Hg,chronic,public place,44kg,144cm
+D2AFB5B1-50BF-7794-5FC6-90BCBA7481C0,Ulsan,14,39°C,145mm/Hg,chronic,public place,45kg,131cm
+2AFC3F88-114D-84F2-3350-7EEAF74278BE,Seoul,52,37.5°C,138mm/Hg,normal,overseas inflow,50kg,142cm
+84EEBDF9-76B7-2940-91CF-A0600E6A5BCA,Gwangju,17,36.3°C,126mm/Hg,normal,none,48kg,179cm
+FBEF04A8-1F0E-89F9-936E-28FA0AC38132,Seoul,60,36.4°C,129mm/Hg,severe,overseas inflow,40kg,151cm
+F1990EDD-602D-0536-45A5-6892D97A2011,Ulsan,18,37.7°C,131mm/Hg,severe,overseas inflow,77kg,172cm
+857E40C1-7F91-A007-3475-481CC53C9FFD,Suwon,56,38.4°C,145mm/Hg,moderate,public place,40kg,145cm
+96EDAE58-84F8-8ABE-7ECC-4004B155235B,Gwangju,13,36°C,142mm/Hg,none,contact with patient,44kg,140cm
+6F64650F-6BA4-A387-0130-557244437209,Incheon,53,37.5°C,127mm/Hg,none,overseas inflow,48kg,152cm
+F75C1655-58AC-151A-0690-BF7906D47CA4,Incheon,17,37.9°C,128mm/Hg,none,overseas inflow,86kg,138cm
+7A6EE53E-0C30-321A-8404-FB8D261C51B7,Suwon,53,37.8°C,127mm/Hg,chronic,overseas inflow,46kg,140cm
+23F18BC5-06F7-659F-020B-B30DD2EB72B2,Incheon,13,37.3°C,123mm/Hg,normal,public place,83kg,177cm
+8421EE36-7639-351A-778C-413CF59F5219,Suwon,6,37.5°C,125mm/Hg,none,public place,48kg,150cm
+3247BE0A-62B3-8CD5-5A35-251D28743B50,Seoul,18,36.4°C,136mm/Hg,severe,contact with patient,44kg,177cm
+E46F00EB-9CE3-4B7E-5DD3-6D62F7AF9FCA,Gwangju,60,38.7°C,124mm/Hg,moderate,overseas inflow,60kg,143cm
+7DAC630D-16C5-5A94-002B-A9FE5AC15E4C,Ulsan,14,36.1°C,123mm/Hg,normal,public place,89kg,130cm
+EAE66416-3426-84B6-9B99-65BA3CAD8E3F,Gwangju,56,38°C,125mm/Hg,severe,overseas inflow,48kg,153cm
+62EA3368-746C-4986-A753-78E8EA047A96,Daegu,17,36.8°C,131mm/Hg,normal,public place,85kg,190cm
+7B195262-318E-5E35-4BEE-9A0673175854,Gwangju,15,37.2°C,128mm/Hg,normal,public place,41kg,158cm
+ADE3D44D-57C6-6906-0A4F-CB74F94F330B,Gwangju,13,37.3°C,123mm/Hg,chronic,overseas inflow,45kg,131cm
+AF7B7290-01F6-0E51-2ED7-3DEECB3F27DC,Incheon,51,36.7°C,126mm/Hg,normal,overseas inflow,50kg,156cm
+8E5A5F06-9306-9A9B-003C-E54E45367871,Daegu,20,37°C,141mm/Hg,none,overseas inflow,80kg,138cm
+F7CB5248-0BC1-9145-0DDA-26ECFE7D0DA6,Suwon,54,36°C,137mm/Hg,severe,overseas inflow,48kg,143cm
+79224299-4065-A3BC-166A-5E81AEB62949,Daegu,19,38°C,142mm/Hg,none,overseas inflow,82kg,173cm
+E7817193-988D-11A1-7D70-701E36A058D8,Gwangju,60,37.2°C,132mm/Hg,severe,public place,40kg,150cm
+72870B60-105E-5F94-6F58-8BA46881A779,Incheon,17,38.4°C,124mm/Hg,chronic,contact with patient,80kg,134cm
+F31042F1-67A7-3DBA-2B89-B399E4881D71,Incheon,60,37.9°C,123mm/Hg,normal,overseas inflow,46kg,171cm
+A543148A-9D1E-29C6-899A-E6763C3D972F,Incheon,14,37.2°C,141mm/Hg,chronic,public place,43kg,139cm
+CA46931A-4855-47CD-62C0-B34C7AF031C9,Incheon,55,37°C,132mm/Hg,severe,overseas inflow,44kg,172cm
+3A1E66FB-14F0-77D2-2422-499D0ACE78E4,Suwon,16,37.7°C,132mm/Hg,chronic,public place,72kg,178cm
+89B50254-12D7-2068-5BEC-0FF788826736,Incheon,58,37.3°C,131mm/Hg,moderate,public place,54kg,155cm
+E0A93EC4-32AE-4054-1BA3-B3C954ED0B2A,Daegu,19,36.5°C,133mm/Hg,normal,public place,50kg,139cm
+FF9D9606-A3CE-84F7-3823-CAE923359CA1,Busan,50,38.1°C,122mm/Hg,normal,overseas inflow,67kg,152cm
+AF7F6092-53C1-0FDF-3D52-6D7CAE8F6A9F,Busan,16,39°C,146mm/Hg,none,overseas inflow,83kg,130cm
+F53158DF-688A-0352-697E-74B4C09A6972,Busan,55,37.2°C,133mm/Hg,none,overseas inflow,45kg,151cm
+70F5EA1E-2456-27EF-62A0-FA7305BA4AE6,Gwangju,13,38.1°C,148mm/Hg,chronic,none,80kg,177cm
+9395AC63-8178-0851-8349-4626E3CA67AB,Daegu,10,37.1°C,120mm/Hg,none,public place,41kg,152cm
+EBFAA2B5-5E9B-0581-87FD-8EEA1CCF1128,Ulsan,13,37°C,136mm/Hg,severe,contact with patient,81kg,131cm
+5D3A53C4-292D-9433-1EE8-FAA8A6F0500C,Seoul,6,38.7°C,122mm/Hg,normal,overseas inflow,46kg,163cm
+D38F7F71-2E81-6739-1217-9325A32F8D78,Ulsan,40,36.1°C,128mm/Hg,normal,contact with patient,50kg,139cm
+CDD7106D-3786-9D4D-0C70-ACC68EAC76C3,Daegu,58,36.8°C,139mm/Hg,moderate,overseas inflow,48kg,157cm
+2B407926-4051-09B7-7420-2067F282860D,Seoul,17,38.2°C,137mm/Hg,none,public place,81kg,190cm
+49A9BEF2-24A9-A405-A0AA-029CD54F2DDB,Seoul,52,37°C,143mm/Hg,moderate,public place,42kg,158cm
+A4EDEB9D-6ADD-A62A-95E2-CCEC67D48C57,Daegu,16,37.3°C,129mm/Hg,normal,overseas inflow,83kg,132cm
+0EA3BB66-6030-46C2-2C39-EB04F150108D,Seoul,59,37.7°C,129mm/Hg,normal,overseas inflow,40kg,149cm
+9C8CDB6B-6CE0-95D8-3620-B0DD46A67A71,Ulsan,41,36.3°C,143mm/Hg,normal,contact with patient,40kg,131cm
+06BBCB7D-962B-8D3D-A041-23BF1A94886B,Incheon,57,38.6°C,130mm/Hg,normal,overseas inflow,53kg,161cm
+33C7B916-4B27-A18B-3CD3-8B3C7F162703,Incheon,17,37.5°C,128mm/Hg,normal,overseas inflow,83kg,180cm
+DBD5145B-13D5-8733-526D-0507649C654D,Suwon,15,37.7°C,130mm/Hg,none,public place,43kg,164cm
+DA636B2F-94D4-A698-0CAA-1871BE9B4450,Seoul,15,38.2°C,124mm/Hg,none,public place,48kg,134cm
+16129651-0028-2F39-42EC-697BDBB20F5F,Seoul,55,37.2°C,149mm/Hg,chronic,overseas inflow,49kg,154cm
+513F2903-2C8A-726C-0D82-3D7DC7AA91E5,Busan,18,37.9°C,141mm/Hg,chronic,overseas inflow,46kg,170cm
+4AF1B870-8865-A534-4DE3-841DEA3C29BA,Suwon,50,38.2°C,124mm/Hg,normal,overseas inflow,67kg,140cm
+624D4D83-1127-5EAC-4225-24792FA48B99,Ulsan,17,36.1°C,123mm/Hg,none,contact with patient,84kg,175cm
+BA222F33-33B6-6A19-2C9D-1D3A9E6965F6,Seoul,50,36.3°C,130mm/Hg,none,public place,43kg,159cm
+ED5F06A2-38D6-5F60-5E97-71620CB3174D,Gwangju,19,38.3°C,148mm/Hg,chronic,contact with patient,87kg,130cm
+6C2630B7-3803-37AA-540E-988495D9A577,Incheon,51,37.7°C,124mm/Hg,severe,overseas inflow,42kg,154cm
+24AA1798-134B-08DD-7E3B-A25D55BA933D,Gwangju,19,37.7°C,135mm/Hg,moderate,public place,48kg,135cm
+F528397D-30DC-60B0-6A7F-8BBFB6897D99,Busan,60,37.4°C,125mm/Hg,none,overseas inflow,55kg,170cm
+50EC7A60-6F20-A067-6156-10522B364EA2,Ulsan,15,37.9°C,127mm/Hg,none,overseas inflow,83kg,170cm
+8C108C33-2034-5F77-2174-AE612CB858CA,Suwon,7,37.6°C,145mm/Hg,chronic,public place,41kg,143cm
+E2021489-2643-109A-9952-88B661ED429F,Busan,54,38.5°C,148mm/Hg,severe,contact with patient,90kg,134cm
+734567B3-7654-2E6F-9F87-8C7B282E2366,Seoul,60,36.6°C,127mm/Hg,severe,overseas inflow,43kg,169cm
+BD761537-5346-8E5B-04FB-72E6B8323F52,Suwon,16,37.4°C,129mm/Hg,severe,none,85kg,175cm
+1FEF3753-3EF0-6406-853D-9AC581E89F9E,Ulsan,10,36.7°C,126mm/Hg,moderate,overseas inflow,49kg,158cm
+EB7FCD48-717C-A58D-2E64-05244B29591F,Gwangju,13,37.9°C,123mm/Hg,moderate,contact with patient,77kg,180cm
+55606E39-69FB-8AAB-6817-7BFE06428E51,Daegu,50,37.4°C,125mm/Hg,normal,public place,61kg,141cm
+D6277A52-8EB3-477F-638B-2F1044107639,Gwangju,17,36.2°C,127mm/Hg,chronic,public place,84kg,135cm
+12AEF9BB-6CED-9239-9C9C-6F37B8B20E6D,Busan,53,38.2°C,122mm/Hg,normal,overseas inflow,45kg,146cm
+67619874-039D-874E-670C-53AA462D23AF,Seoul,17,37°C,123mm/Hg,none,contact with patient,46kg,173cm
+0A108527-7FD2-28B1-18A2-5802811B0778,Ulsan,54,37°C,149mm/Hg,chronic,overseas inflow,65kg,171cm
+6EE943AC-7E3B-1DB9-2103-ADB1C7634A3D,Seoul,19,37.1°C,123mm/Hg,normal,contact with patient,70kg,188cm
+12EB32B0-017C-2EBF-0755-C5D8E90E4732,Daegu,54,36.8°C,122mm/Hg,none,public place,55kg,160cm
+04E1BB61-228D-0676-63AC-CB88105E6A87,Seoul,14,36.5°C,122mm/Hg,severe,public place,87kg,132cm
+372FFB4B-21BF-9235-A1C7-D912CD77289B,Busan,57,36.2°C,126mm/Hg,normal,overseas inflow,53kg,156cm
+ADCF9ADA-6F95-7126-9432-01C9D594849D,Seoul,14,37.1°C,146mm/Hg,chronic,overseas inflow,82kg,133cm
+87266DEB-5737-0230-2E3B-0E65ED1A5C4E,Seoul,60,37.7°C,123mm/Hg,normal,overseas inflow,42kg,151cm
+F9DD0840-79BD-656E-4CFA-FDCE2A1F985A,Seoul,13,37.3°C,126mm/Hg,none,overseas inflow,87kg,173cm
+21FEAFFD-3E1E-A145-7035-DC3AF8541616,Daegu,15,38.3°C,129mm/Hg,none,public place,47kg,163cm
+0726B136-A42B-4909-34D3-99CACBA82A75,Incheon,18,36.8°C,126mm/Hg,normal,contact with patient,90kg,139cm
+3B501F81-487B-6FBA-1FE9-2DF29DE86F85,Gwangju,56,37.2°C,125mm/Hg,severe,overseas inflow,49kg,167cm
+68BA215E-3343-26F6-3AE3-A58FDCA7676C,Suwon,18,37.8°C,126mm/Hg,normal,overseas inflow,82kg,131cm
+B47910F7-909A-494E-683A-45AAF0EB9DD9,Incheon,59,39°C,126mm/Hg,normal,overseas inflow,70kg,158cm
+E99BA9B9-8A57-431C-005E-7B3B85D37003,Gwangju,13,37.7°C,121mm/Hg,none,contact with patient,82kg,174cm
+03A71EB0-56A8-7D2E-00EE-AF051C8214A8,Ulsan,57,38.7°C,123mm/Hg,none,public place,50kg,157cm
+676DF1C3-91C5-467A-3236-DFA39DB31D4B,Seoul,19,36°C,128mm/Hg,moderate,public place,48kg,134cm
+C7D2351D-805C-286C-0453-E827F4222CFD,Suwon,15,38.8°C,129mm/Hg,severe,overseas inflow,44kg,160cm
+99C1EABA-50E8-35EB-6CA9-72EF3817656F,Busan,18,38.2°C,122mm/Hg,chronic,overseas inflow,84kg,134cm
+40AA563C-03D4-75DC-42C5-D5A5D71959FB,Gwangju,54,37.5°C,126mm/Hg,normal,overseas inflow,42kg,145cm
+A61A2440-1230-7A27-29AD-9BCBF6430FD0,Busan,16,38.5°C,120mm/Hg,normal,contact with patient,84kg,180cm
+47651924-0DD3-16C5-9677-DD9F9887A34D,Seoul,10,38.8°C,137mm/Hg,chronic,public place,51kg,153cm
+1F1A7986-6A48-3C7C-8A2B-B32867DEA58A,Seoul,20,38.9°C,139mm/Hg,chronic,contact with patient,87kg,172cm
+3DE4B88D-6BF2-45EC-1A16-86430F263355,Suwon,56,37.5°C,129mm/Hg,none,overseas inflow,67kg,158cm
+EA2472BB-344A-8CD5-5875-B889AFB71B67,Incheon,20,36.2°C,136mm/Hg,severe,public place,88kg,138cm
+DD1D9D31-724B-7D67-9843-3D5CCF231C44,Suwon,59,36.7°C,129mm/Hg,none,overseas inflow,53kg,143cm
+AA4EE387-7F44-7061-705B-B4CFABEA4B95,Ulsan,15,38.1°C,126mm/Hg,normal,public place,87kg,175cm
+7D2B720E-72EA-A11B-13AB-3E3986C60B36,Daegu,51,38.6°C,122mm/Hg,none,public place,59kg,161cm
+BDDB3EC6-62D7-8A46-00DD-412CA91E15D9,Busan,16,36°C,125mm/Hg,normal,none,46kg,147cm
